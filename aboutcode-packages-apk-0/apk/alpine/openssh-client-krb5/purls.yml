@@ -2,3 +2,4 @@
 - pkg:apk/alpine/openssh-client-krb5@10.0_p1-r11?arch=armhf&distro=edge
 - pkg:apk/alpine/openssh-client-krb5@10.0_p1-r11?arch=armv7&distro=edge
 - pkg:apk/alpine/openssh-client-krb5@10.0_p1-r11?arch=ppc64le&distro=edge
+- pkg:apk/alpine/openssh-client-krb5@10.0_p1-r11?arch=s390x&distro=edge

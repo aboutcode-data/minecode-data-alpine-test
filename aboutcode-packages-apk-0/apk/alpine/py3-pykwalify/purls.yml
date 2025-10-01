@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py3-pykwalify@1.8.0-r6?arch=aarch64&distro=edge
+- pkg:apk/alpine/py3-pykwalify@1.8.0-r6?arch=armhf&distro=edge

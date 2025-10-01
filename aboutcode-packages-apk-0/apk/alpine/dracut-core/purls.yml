@@ -1,1 +1,2 @@
 - pkg:apk/alpine/dracut-core@108-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/dracut-core@108-r1?arch=armv7&distro=edge

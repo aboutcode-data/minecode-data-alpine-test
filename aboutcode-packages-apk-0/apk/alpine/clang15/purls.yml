@@ -1,1 +1,2 @@
 - pkg:apk/alpine/clang15@15.0.7-r26?arch=aarch64&distro=edge
+- pkg:apk/alpine/clang15@15.0.7-r26?arch=armhf&distro=edge

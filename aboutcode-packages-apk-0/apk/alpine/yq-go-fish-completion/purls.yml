@@ -1,1 +1,2 @@
 - pkg:apk/alpine/yq-go-fish-completion@4.47.2-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/yq-go-fish-completion@4.47.2-r0?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/lab-bash-completion@0.25.1-r29?arch=aarch64&distro=edge
+- pkg:apk/alpine/lab-bash-completion@0.25.1-r29?arch=armhf&distro=edge

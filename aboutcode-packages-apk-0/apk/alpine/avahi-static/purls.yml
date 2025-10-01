@@ -1,1 +1,2 @@
 - pkg:apk/alpine/avahi-static@0.8-r22?arch=aarch64&distro=edge
+- pkg:apk/alpine/avahi-static@0.8-r22?arch=armhf&distro=edge

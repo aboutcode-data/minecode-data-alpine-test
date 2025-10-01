@@ -1,0 +1,1 @@
+- pkg:apk/alpine/wasi-sdk@25-r0?arch=aarch64&distro=edge

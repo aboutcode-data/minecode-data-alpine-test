@@ -1,1 +1,2 @@
 - pkg:apk/alpine/opensmtpd-filter-rspamd@0.1.8-r17?arch=aarch64&distro=edge
+- pkg:apk/alpine/opensmtpd-filter-rspamd@0.1.8-r17?arch=armhf&distro=edge

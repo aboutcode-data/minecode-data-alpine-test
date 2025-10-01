@@ -1,1 +1,2 @@
 - pkg:apk/alpine/openring@1.0.1-r29?arch=aarch64&distro=edge
+- pkg:apk/alpine/openring@1.0.1-r29?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/tmux-doc@3.5a-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/tmux-doc@3.5a-r1?arch=armhf&distro=edge

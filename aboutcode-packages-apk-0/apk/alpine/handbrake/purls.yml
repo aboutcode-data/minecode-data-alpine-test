@@ -1,1 +1,2 @@
 - pkg:apk/alpine/handbrake@1.10.2-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/handbrake@1.10.2-r0?arch=ppc64le&distro=edge

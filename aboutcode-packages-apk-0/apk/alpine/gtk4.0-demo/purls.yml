@@ -1,3 +1,4 @@
 - pkg:apk/alpine/gtk4.0-demo@4.20.1-r1?arch=aarch64&distro=edge
 - pkg:apk/alpine/gtk4.0-demo@4.20.1-r1?arch=armhf&distro=edge
 - pkg:apk/alpine/gtk4.0-demo@4.20.1-r1?arch=armv7&distro=edge
+- pkg:apk/alpine/gtk4.0-demo@4.20.1-r1?arch=ppc64le&distro=edge

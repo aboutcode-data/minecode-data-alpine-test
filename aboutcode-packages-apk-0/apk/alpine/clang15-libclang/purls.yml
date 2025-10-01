@@ -1,3 +1,4 @@
 - pkg:apk/alpine/clang15-libclang@15.0.7-r26?arch=aarch64&distro=edge
 - pkg:apk/alpine/clang15-libclang@15.0.7-r26?arch=armhf&distro=edge
 - pkg:apk/alpine/clang15-libclang@15.0.7-r26?arch=armv7&distro=edge
+- pkg:apk/alpine/clang15-libclang@15.0.7-r26?arch=ppc64le&distro=edge

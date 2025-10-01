@@ -1,1 +1,2 @@
 - pkg:apk/alpine/pn@0.9.0-r28?arch=aarch64&distro=edge
+- pkg:apk/alpine/pn@0.9.0-r28?arch=armhf&distro=edge

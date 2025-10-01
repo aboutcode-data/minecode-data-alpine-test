@@ -1,1 +1,2 @@
 - pkg:apk/alpine/perl-set-object-doc@1.42-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/perl-set-object-doc@1.42-r4?arch=armhf&distro=edge

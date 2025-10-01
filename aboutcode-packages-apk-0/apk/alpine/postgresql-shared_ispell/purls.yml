@@ -1,1 +1,2 @@
 - pkg:apk/alpine/postgresql-shared_ispell@1.1.0_git20221118-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/postgresql-shared_ispell@1.1.0_git20221118-r2?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/bombadillo@2.4.0-r30?arch=aarch64&distro=edge
+- pkg:apk/alpine/bombadillo@2.4.0-r30?arch=armhf&distro=edge

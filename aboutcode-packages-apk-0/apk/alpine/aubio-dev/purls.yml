@@ -1,1 +1,2 @@
 - pkg:apk/alpine/aubio-dev@0.4.9-r5?arch=aarch64&distro=edge
+- pkg:apk/alpine/aubio-dev@0.4.9-r5?arch=armhf&distro=edge

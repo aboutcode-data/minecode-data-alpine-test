@@ -1,1 +1,2 @@
 - pkg:apk/alpine/atools-apkbuild-lint@20.2.2-r18?arch=aarch64&distro=edge
+- pkg:apk/alpine/atools-apkbuild-lint@20.2.2-r18?arch=armhf&distro=edge

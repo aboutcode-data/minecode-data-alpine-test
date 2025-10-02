@@ -32,3 +32,4 @@
 - pkg:apk/alpine/drone-openrc@2.15.0-r5?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/drone-openrc@2.16.0-r9?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/drone-openrc@2.16.0-r9?arch=armhf&distro=v3.18
+- pkg:apk/alpine/drone-openrc@2.16.0-r9?arch=armv7&distro=v3.18

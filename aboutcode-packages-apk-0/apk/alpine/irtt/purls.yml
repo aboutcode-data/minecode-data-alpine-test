@@ -10,3 +10,4 @@
 - pkg:apk/alpine/irtt@0.9.1-r34?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/irtt@0.9.1-r34?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/irtt@0.9.1-r34?arch=s390x&distro=latest-stable
+- pkg:apk/alpine/irtt@0.9.1-r34?arch=x86&distro=latest-stable

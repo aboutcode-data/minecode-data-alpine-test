@@ -73,3 +73,4 @@
 - pkg:apk/alpine/lazygit@0.41.0-r4?arch=riscv64&distro=v3.20
 - pkg:apk/alpine/lazygit@0.41.0-r4?arch=s390x&distro=v3.20
 - pkg:apk/alpine/lazygit@0.41.0-r4?arch=x86&distro=v3.20
+- pkg:apk/alpine/lazygit@0.41.0-r4?arch=x86_64&distro=v3.20

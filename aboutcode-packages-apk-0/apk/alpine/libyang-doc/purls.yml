@@ -68,3 +68,4 @@
 - pkg:apk/alpine/libyang-doc@2.1.55-r0?arch=s390x&distro=v3.18
 - pkg:apk/alpine/libyang-doc@2.1.55-r0?arch=x86&distro=v3.18
 - pkg:apk/alpine/libyang-doc@2.1.55-r0?arch=x86_64&distro=v3.18
+- pkg:apk/alpine/libyang-doc@2.1.128-r0?arch=aarch64&distro=v3.19

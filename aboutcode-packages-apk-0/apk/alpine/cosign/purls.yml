@@ -38,3 +38,4 @@
 - pkg:apk/alpine/cosign@2.0.1-r6?arch=x86&distro=v3.18
 - pkg:apk/alpine/cosign@2.0.1-r6?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/cosign@2.2.1-r3?arch=aarch64&distro=v3.19
+- pkg:apk/alpine/cosign@2.2.1-r3?arch=armhf&distro=v3.19

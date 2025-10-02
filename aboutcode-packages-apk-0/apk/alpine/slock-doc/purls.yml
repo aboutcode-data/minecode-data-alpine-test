@@ -15,3 +15,4 @@
 - pkg:apk/alpine/slock-doc@1.6-r0?arch=loongarch64&distro=edge
 - pkg:apk/alpine/slock-doc@1.6-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/slock-doc@1.5-r1?arch=loongarch64&distro=latest-stable
+- pkg:apk/alpine/slock-doc@1.5-r1?arch=riscv64&distro=latest-stable

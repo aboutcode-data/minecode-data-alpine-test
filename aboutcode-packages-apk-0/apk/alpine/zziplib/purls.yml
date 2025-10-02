@@ -33,3 +33,4 @@
 - pkg:apk/alpine/zziplib@0.13.69-r2?arch=s390x&distro=v3.11
 - pkg:apk/alpine/zziplib@0.13.69-r2?arch=x86&distro=v3.11
 - pkg:apk/alpine/zziplib@0.13.69-r2?arch=x86_64&distro=v3.11
+- pkg:apk/alpine/zziplib@0.13.71-r0?arch=aarch64&distro=v3.12

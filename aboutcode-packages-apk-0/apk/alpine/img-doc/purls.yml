@@ -11,3 +11,4 @@
 - pkg:apk/alpine/img-doc@0.5.11-r17?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/img-doc@0.5.11-r17?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/img-doc@0.5.11-r22?arch=aarch64&distro=v3.18
+- pkg:apk/alpine/img-doc@0.5.11-r22?arch=x86_64&distro=v3.18

@@ -86,3 +86,4 @@
 - pkg:apk/alpine/exempi-doc@2.6.5-r1?arch=riscv64&distro=v3.20
 - pkg:apk/alpine/exempi-doc@2.6.5-r1?arch=x86&distro=v3.20
 - pkg:apk/alpine/exempi-doc@2.6.5-r1?arch=x86_64&distro=v3.20
+- pkg:apk/alpine/exempi-doc@2.6.5-r1?arch=aarch64&distro=v3.21

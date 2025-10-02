@@ -40,3 +40,4 @@
 - pkg:apk/alpine/swayimg-full@1.12-r0?arch=ppc64le&distro=v3.19
 - pkg:apk/alpine/swayimg-full@1.12-r0?arch=x86&distro=v3.19
 - pkg:apk/alpine/swayimg-full@1.12-r0?arch=x86_64&distro=v3.19
+- pkg:apk/alpine/swayimg-full@2.2-r1?arch=aarch64&distro=v3.20

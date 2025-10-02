@@ -53,3 +53,4 @@
 - pkg:apk/alpine/buildah-doc@1.30.0-r7?arch=x86&distro=v3.18
 - pkg:apk/alpine/buildah-doc@1.30.0-r7?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/buildah-doc@1.33.6-r3?arch=aarch64&distro=v3.19
+- pkg:apk/alpine/buildah-doc@1.33.6-r3?arch=armhf&distro=v3.19

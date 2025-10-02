@@ -67,3 +67,4 @@
 - pkg:apk/alpine/libid3tag@0.15.1b-r8?arch=x86&distro=v3.15
 - pkg:apk/alpine/libid3tag@0.15.1b-r8?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/libid3tag@0.16.2-r0?arch=aarch64&distro=v3.16
+- pkg:apk/alpine/libid3tag@0.16.2-r0?arch=armhf&distro=v3.16

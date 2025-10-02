@@ -1,1 +1,2 @@
 - pkg:apk/alpine/filebeat-openrc@8.14.2-r8?arch=aarch64&distro=edge
+- pkg:apk/alpine/filebeat-openrc@8.14.2-r8?arch=ppc64le&distro=edge

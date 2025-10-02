@@ -95,3 +95,4 @@
 - pkg:apk/alpine/libbsd@0.11.7-r3?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/libbsd@0.6.0-r2?arch=x86&distro=v3.2
 - pkg:apk/alpine/libbsd@0.6.0-r2?arch=x86_64&distro=v3.2
+- pkg:apk/alpine/libbsd@0.12.2-r0?arch=aarch64&distro=v3.20

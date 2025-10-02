@@ -21,3 +21,4 @@
 - pkg:apk/alpine/ruby-safe_yaml@0.9.5-r1?arch=armhf&distro=v3.1
 - pkg:apk/alpine/ruby-safe_yaml@1.0.5-r1?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/ruby-safe_yaml@1.0.5-r1?arch=armhf&distro=v3.15
+- pkg:apk/alpine/ruby-safe_yaml@1.0.5-r1?arch=armv7&distro=v3.15

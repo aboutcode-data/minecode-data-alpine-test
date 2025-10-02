@@ -16,3 +16,4 @@
 - pkg:apk/alpine/cvechecker-doc@4.0-r6?arch=riscv64&distro=edge
 - pkg:apk/alpine/cvechecker-doc@4.0-r5?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/cvechecker-doc@4.0-r5?arch=riscv64&distro=latest-stable
+- pkg:apk/alpine/cvechecker-doc@3.5-r0?arch=x86&distro=v3.0

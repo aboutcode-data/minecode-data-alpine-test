@@ -51,3 +51,4 @@
 - pkg:apk/alpine/gomuks@0.3.0-r13?arch=s390x&distro=v3.19
 - pkg:apk/alpine/gomuks@0.3.0-r13?arch=x86&distro=v3.19
 - pkg:apk/alpine/gomuks@0.3.0-r13?arch=x86_64&distro=v3.19
+- pkg:apk/alpine/gomuks@0.3.0-r15?arch=aarch64&distro=v3.20

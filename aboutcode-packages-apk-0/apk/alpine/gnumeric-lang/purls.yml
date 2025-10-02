@@ -84,3 +84,4 @@
 - pkg:apk/alpine/gnumeric-lang@1.12.22-r0?arch=armhf&distro=v3.2
 - pkg:apk/alpine/gnumeric-lang@1.12.22-r0?arch=x86&distro=v3.2
 - pkg:apk/alpine/gnumeric-lang@1.12.22-r0?arch=x86_64&distro=v3.2
+- pkg:apk/alpine/gnumeric-lang@1.12.57-r1?arch=aarch64&distro=v3.20

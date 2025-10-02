@@ -14,3 +14,4 @@
 - pkg:apk/alpine/x42-plugins-doc@20221119-r0?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/x42-plugins-doc@20230512-r0?arch=x86&distro=v3.18
 - pkg:apk/alpine/x42-plugins-doc@20230512-r0?arch=x86_64&distro=v3.18
+- pkg:apk/alpine/x42-plugins-doc@20230915-r0?arch=aarch64&distro=v3.19

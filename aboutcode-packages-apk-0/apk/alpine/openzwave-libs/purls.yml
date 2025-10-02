@@ -89,3 +89,4 @@
 - pkg:apk/alpine/openzwave-libs@1.6.974-r2?arch=s390x&distro=v3.19
 - pkg:apk/alpine/openzwave-libs@1.6.974-r2?arch=x86&distro=v3.19
 - pkg:apk/alpine/openzwave-libs@1.6.974-r2?arch=x86_64&distro=v3.19
+- pkg:apk/alpine/openzwave-libs@1.6.974-r2?arch=aarch64&distro=v3.20

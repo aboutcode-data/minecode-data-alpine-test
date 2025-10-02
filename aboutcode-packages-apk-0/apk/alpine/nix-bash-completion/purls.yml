@@ -4,3 +4,4 @@
 - pkg:apk/alpine/nix-bash-completion@2.28.3-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/nix-bash-completion@2.28.3-r1?arch=x86&distro=latest-stable
 - pkg:apk/alpine/nix-bash-completion@2.28.3-r1?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/nix-bash-completion@2.22.0-r0?arch=aarch64&distro=v3.20

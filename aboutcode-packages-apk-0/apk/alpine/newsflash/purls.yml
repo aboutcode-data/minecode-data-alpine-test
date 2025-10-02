@@ -55,3 +55,4 @@
 - pkg:apk/alpine/newsflash@3.0.2-r0?arch=armv7&distro=v3.19
 - pkg:apk/alpine/newsflash@3.0.2-r0?arch=x86&distro=v3.19
 - pkg:apk/alpine/newsflash@3.0.2-r0?arch=x86_64&distro=v3.19
+- pkg:apk/alpine/newsflash@3.2.0-r0?arch=aarch64&distro=v3.20

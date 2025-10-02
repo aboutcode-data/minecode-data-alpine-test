@@ -11,3 +11,4 @@
 - pkg:apk/alpine/dtools@2.098.0-r0?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/dtools@2.098.0-r0?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/dtools@2.100.2-r0?arch=aarch64&distro=v3.17
+- pkg:apk/alpine/dtools@2.100.2-r0?arch=x86_64&distro=v3.17

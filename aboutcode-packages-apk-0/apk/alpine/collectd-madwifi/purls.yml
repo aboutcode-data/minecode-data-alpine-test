@@ -40,3 +40,4 @@
 - pkg:apk/alpine/collectd-madwifi@5.12.0-r11?arch=ppc64le&distro=v3.17
 - pkg:apk/alpine/collectd-madwifi@5.12.0-r11?arch=s390x&distro=v3.17
 - pkg:apk/alpine/collectd-madwifi@5.12.0-r11?arch=x86&distro=v3.17
+- pkg:apk/alpine/collectd-madwifi@5.12.0-r11?arch=x86_64&distro=v3.17

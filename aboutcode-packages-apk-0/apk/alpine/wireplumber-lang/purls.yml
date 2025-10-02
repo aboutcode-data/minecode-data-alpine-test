@@ -27,3 +27,4 @@
 - pkg:apk/alpine/wireplumber-lang@0.4.12-r0?arch=armv7&distro=v3.17
 - pkg:apk/alpine/wireplumber-lang@0.4.12-r0?arch=ppc64le&distro=v3.17
 - pkg:apk/alpine/wireplumber-lang@0.4.12-r0?arch=x86&distro=v3.17
+- pkg:apk/alpine/wireplumber-lang@0.4.12-r0?arch=x86_64&distro=v3.17

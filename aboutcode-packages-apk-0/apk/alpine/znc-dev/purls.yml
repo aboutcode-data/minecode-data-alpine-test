@@ -74,3 +74,4 @@
 - pkg:apk/alpine/znc-dev@1.8.2-r9?arch=x86&distro=v3.16
 - pkg:apk/alpine/znc-dev@1.8.2-r9?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/znc-dev@1.8.2-r12?arch=aarch64&distro=v3.17
+- pkg:apk/alpine/znc-dev@1.8.2-r12?arch=armhf&distro=v3.17

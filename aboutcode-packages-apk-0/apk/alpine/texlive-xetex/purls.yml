@@ -10,3 +10,4 @@
 - pkg:apk/alpine/texlive-xetex@20240210.69778-r10?arch=x86&distro=latest-stable
 - pkg:apk/alpine/texlive-xetex@20240210.69778-r10?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/texlive-xetex@20240210.69778-r10?arch=loongarch64&distro=edge
+- pkg:apk/alpine/texlive-xetex@20240210.69778-r10?arch=riscv64&distro=edge

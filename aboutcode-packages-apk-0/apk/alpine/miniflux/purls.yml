@@ -68,3 +68,4 @@
 - pkg:apk/alpine/miniflux@2.0.44-r4?arch=x86&distro=v3.18
 - pkg:apk/alpine/miniflux@2.0.44-r4?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/miniflux@2.0.50-r3?arch=aarch64&distro=v3.19
+- pkg:apk/alpine/miniflux@2.0.50-r3?arch=armhf&distro=v3.19

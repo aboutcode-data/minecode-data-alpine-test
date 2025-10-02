@@ -38,3 +38,4 @@
 - pkg:apk/alpine/minify@2.12.8-r4?arch=x86&distro=v3.18
 - pkg:apk/alpine/minify@2.12.8-r4?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/minify@2.20.9-r3?arch=aarch64&distro=v3.19
+- pkg:apk/alpine/minify@2.20.9-r3?arch=armhf&distro=v3.19

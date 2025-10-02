@@ -15,3 +15,4 @@
 - pkg:apk/alpine/perl-sub-identify-doc@0.14-r12?arch=loongarch64&distro=edge
 - pkg:apk/alpine/perl-sub-identify-doc@0.14-r12?arch=riscv64&distro=edge
 - pkg:apk/alpine/perl-sub-identify-doc@0.14-r11?arch=loongarch64&distro=latest-stable
+- pkg:apk/alpine/perl-sub-identify-doc@0.14-r11?arch=riscv64&distro=latest-stable

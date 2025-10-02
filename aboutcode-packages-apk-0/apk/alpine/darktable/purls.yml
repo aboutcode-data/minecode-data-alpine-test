@@ -22,3 +22,4 @@
 - pkg:apk/alpine/darktable@3.8.1-r3?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/darktable@3.8.1-r3?arch=ppc64le&distro=v3.16
 - pkg:apk/alpine/darktable@3.8.1-r3?arch=x86_64&distro=v3.16
+- pkg:apk/alpine/darktable@4.0.1-r2?arch=aarch64&distro=v3.17

@@ -63,3 +63,4 @@
 - pkg:apk/alpine/libmspub@0.1.4-r10?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/libmspub@0.1.4-r13?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/libmspub@0.1.4-r13?arch=armhf&distro=v3.16
+- pkg:apk/alpine/libmspub@0.1.4-r13?arch=armv7&distro=v3.16

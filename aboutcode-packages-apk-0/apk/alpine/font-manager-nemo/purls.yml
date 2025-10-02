@@ -30,3 +30,4 @@
 - pkg:apk/alpine/font-manager-nemo@0.8.8-r2?arch=armhf&distro=v3.17
 - pkg:apk/alpine/font-manager-nemo@0.8.8-r2?arch=armv7&distro=v3.17
 - pkg:apk/alpine/font-manager-nemo@0.8.8-r2?arch=x86&distro=v3.17
+- pkg:apk/alpine/font-manager-nemo@0.8.8-r2?arch=x86_64&distro=v3.17

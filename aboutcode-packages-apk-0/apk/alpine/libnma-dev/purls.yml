@@ -15,3 +15,4 @@
 - pkg:apk/alpine/libnma-dev@1.10.6-r4?arch=loongarch64&distro=edge
 - pkg:apk/alpine/libnma-dev@1.10.6-r4?arch=riscv64&distro=edge
 - pkg:apk/alpine/libnma-dev@1.10.6-r2?arch=loongarch64&distro=latest-stable
+- pkg:apk/alpine/libnma-dev@1.10.6-r2?arch=riscv64&distro=latest-stable

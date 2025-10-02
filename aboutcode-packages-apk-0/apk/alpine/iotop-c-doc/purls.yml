@@ -55,3 +55,4 @@
 - pkg:apk/alpine/iotop-c-doc@1.22-r0?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/iotop-c-doc@1.23-r0?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/iotop-c-doc@1.23-r0?arch=armhf&distro=v3.18
+- pkg:apk/alpine/iotop-c-doc@1.23-r0?arch=armv7&distro=v3.18

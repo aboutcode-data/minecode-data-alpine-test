@@ -74,3 +74,4 @@
 - pkg:apk/alpine/perl-ipc-run-doc@20220807.0-r0?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/perl-ipc-run-doc@20220807.0-r0?arch=armhf&distro=v3.17
 - pkg:apk/alpine/perl-ipc-run-doc@20220807.0-r0?arch=armv7&distro=v3.17
+- pkg:apk/alpine/perl-ipc-run-doc@20220807.0-r0?arch=ppc64le&distro=v3.17

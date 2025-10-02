@@ -63,3 +63,4 @@
 - pkg:apk/alpine/texlive-full@20230506.66984-r3?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/texlive-full@20230506.66984-r3?arch=armhf&distro=v3.19
 - pkg:apk/alpine/texlive-full@20230506.66984-r3?arch=armv7&distro=v3.19
+- pkg:apk/alpine/texlive-full@20230506.66984-r3?arch=x86&distro=v3.19

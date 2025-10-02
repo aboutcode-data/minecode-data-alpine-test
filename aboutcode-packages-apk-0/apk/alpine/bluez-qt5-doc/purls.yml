@@ -14,3 +14,4 @@
 - pkg:apk/alpine/bluez-qt5-doc@5.116.0-r2?arch=riscv64&distro=edge
 - pkg:apk/alpine/bluez-qt5-doc@5.116.0-r2?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/bluez-qt5-doc@5.116.0-r2?arch=riscv64&distro=latest-stable
+- pkg:apk/alpine/bluez-qt5-doc@5.112.0-r0?arch=aarch64&distro=v3.19

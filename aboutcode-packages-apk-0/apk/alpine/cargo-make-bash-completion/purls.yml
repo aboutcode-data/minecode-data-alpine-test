@@ -28,3 +28,4 @@
 - pkg:apk/alpine/cargo-make-bash-completion@0.36.7-r0?arch=ppc64le&distro=v3.18
 - pkg:apk/alpine/cargo-make-bash-completion@0.36.7-r0?arch=x86&distro=v3.18
 - pkg:apk/alpine/cargo-make-bash-completion@0.36.7-r0?arch=x86_64&distro=v3.18
+- pkg:apk/alpine/cargo-make-bash-completion@0.37.5-r0?arch=aarch64&distro=v3.19

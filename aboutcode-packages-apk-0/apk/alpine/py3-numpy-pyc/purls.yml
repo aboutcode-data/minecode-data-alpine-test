@@ -15,3 +15,4 @@
 - pkg:apk/alpine/py3-numpy-pyc@2.3.2-r0?arch=loongarch64&distro=edge
 - pkg:apk/alpine/py3-numpy-pyc@2.3.2-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/py3-numpy-pyc@2.2.4-r1?arch=loongarch64&distro=latest-stable
+- pkg:apk/alpine/py3-numpy-pyc@2.2.4-r1?arch=riscv64&distro=latest-stable

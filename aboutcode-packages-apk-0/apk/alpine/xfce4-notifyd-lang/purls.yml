@@ -74,3 +74,4 @@
 - pkg:apk/alpine/xfce4-notifyd-lang@0.6.3-r0?arch=x86&distro=v3.16
 - pkg:apk/alpine/xfce4-notifyd-lang@0.6.3-r0?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/xfce4-notifyd-lang@0.6.4-r0?arch=aarch64&distro=v3.17
+- pkg:apk/alpine/xfce4-notifyd-lang@0.6.4-r0?arch=armhf&distro=v3.17

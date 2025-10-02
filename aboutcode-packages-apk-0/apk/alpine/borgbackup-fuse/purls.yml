@@ -23,3 +23,4 @@
 - pkg:apk/alpine/borgbackup-fuse@1.2.8-r1?arch=riscv64&distro=v3.20
 - pkg:apk/alpine/borgbackup-fuse@1.2.8-r1?arch=s390x&distro=v3.20
 - pkg:apk/alpine/borgbackup-fuse@1.2.8-r1?arch=x86_64&distro=v3.20
+- pkg:apk/alpine/borgbackup-fuse@1.4.0-r0?arch=aarch64&distro=v3.21

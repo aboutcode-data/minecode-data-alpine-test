@@ -19,3 +19,4 @@
 - pkg:apk/alpine/v4l2loopback-src@0.12.7-r1?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/v4l2loopback-src@0.12.7-r1?arch=armhf&distro=v3.19
 - pkg:apk/alpine/v4l2loopback-src@0.12.7-r1?arch=armv7&distro=v3.19
+- pkg:apk/alpine/v4l2loopback-src@0.12.7-r1?arch=ppc64le&distro=v3.19

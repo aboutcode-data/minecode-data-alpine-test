@@ -95,3 +95,4 @@
 - pkg:apk/alpine/iso-codes-dev@3.57-r0?arch=armhf&distro=v3.2
 - pkg:apk/alpine/iso-codes-dev@3.57-r0?arch=x86&distro=v3.2
 - pkg:apk/alpine/iso-codes-dev@3.57-r0?arch=x86_64&distro=v3.2
+- pkg:apk/alpine/iso-codes-dev@4.16.0-r0?arch=aarch64&distro=v3.20

@@ -29,3 +29,4 @@
 - pkg:apk/alpine/fontforge-lang@20230101-r3?arch=x86&distro=v3.18
 - pkg:apk/alpine/fontforge-lang@20230101-r3?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/fontforge-lang@20230101-r4?arch=aarch64&distro=v3.19
+- pkg:apk/alpine/fontforge-lang@20230101-r4?arch=armhf&distro=v3.19

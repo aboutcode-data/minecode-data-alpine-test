@@ -26,3 +26,4 @@
 - pkg:apk/alpine/gnunet-lang@0.19.4-r1?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/gnunet-lang@0.19.4-r1?arch=armhf&distro=v3.19
 - pkg:apk/alpine/gnunet-lang@0.19.4-r1?arch=armv7&distro=v3.19
+- pkg:apk/alpine/gnunet-lang@0.19.4-r1?arch=x86&distro=v3.19

@@ -36,3 +36,4 @@
 - pkg:apk/alpine/knetattach@5.23.5-r1?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/knetattach@5.23.5-r1?arch=armv7&distro=v3.15
 - pkg:apk/alpine/knetattach@5.23.5-r1?arch=x86&distro=v3.15
+- pkg:apk/alpine/knetattach@5.23.5-r1?arch=x86_64&distro=v3.15

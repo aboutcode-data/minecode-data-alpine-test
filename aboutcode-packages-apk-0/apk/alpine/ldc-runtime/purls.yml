@@ -13,3 +13,4 @@
 - pkg:apk/alpine/ldc-runtime@1.26.0-r0?arch=x86_64&distro=v3.14
 - pkg:apk/alpine/ldc-runtime@1.28.0-r0?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/ldc-runtime@1.28.0-r0?arch=x86_64&distro=v3.15
+- pkg:apk/alpine/ldc-runtime@1.28.1-r0?arch=aarch64&distro=v3.16

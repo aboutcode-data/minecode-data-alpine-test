@@ -16,3 +16,4 @@
 - pkg:apk/alpine/toot@0.50.1-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/toot@0.48.1-r0?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/toot@0.48.1-r0?arch=riscv64&distro=latest-stable
+- pkg:apk/alpine/toot@0.28.0-r1?arch=aarch64&distro=v3.16

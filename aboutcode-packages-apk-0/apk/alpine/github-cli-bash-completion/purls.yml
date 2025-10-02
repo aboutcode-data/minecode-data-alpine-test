@@ -73,3 +73,4 @@
 - pkg:apk/alpine/github-cli-bash-completion@2.47.0-r4?arch=s390x&distro=v3.20
 - pkg:apk/alpine/github-cli-bash-completion@2.47.0-r4?arch=x86&distro=v3.20
 - pkg:apk/alpine/github-cli-bash-completion@2.47.0-r4?arch=x86_64&distro=v3.20
+- pkg:apk/alpine/github-cli-bash-completion@2.63.0-r5?arch=aarch64&distro=v3.21

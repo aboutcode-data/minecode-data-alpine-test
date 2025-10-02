@@ -39,3 +39,4 @@
 - pkg:apk/alpine/bloaty-dev@1.1-r10?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/bloaty-dev@1.1-r10?arch=armhf&distro=v3.17
 - pkg:apk/alpine/bloaty-dev@1.1-r10?arch=armv7&distro=v3.17
+- pkg:apk/alpine/bloaty-dev@1.1-r10?arch=ppc64le&distro=v3.17

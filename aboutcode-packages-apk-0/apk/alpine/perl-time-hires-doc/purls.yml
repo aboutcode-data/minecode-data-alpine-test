@@ -71,3 +71,4 @@
 - pkg:apk/alpine/perl-time-hires-doc@1.9764-r5?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/perl-time-hires-doc@1.9726-r0?arch=armhf&distro=v3.2
 - pkg:apk/alpine/perl-time-hires-doc@1.9726-r0?arch=x86&distro=v3.2
+- pkg:apk/alpine/perl-time-hires-doc@1.9726-r0?arch=x86_64&distro=v3.2

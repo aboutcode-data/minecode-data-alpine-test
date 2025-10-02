@@ -20,3 +20,4 @@
 - pkg:apk/alpine/libadwaita-lang@1.0.0_alpha3-r0?arch=armhf&distro=v3.15
 - pkg:apk/alpine/libadwaita-lang@1.0.0_alpha3-r0?arch=armv7&distro=v3.15
 - pkg:apk/alpine/libadwaita-lang@1.0.0_alpha3-r0?arch=ppc64le&distro=v3.15
+- pkg:apk/alpine/libadwaita-lang@1.0.0_alpha3-r0?arch=x86&distro=v3.15

@@ -23,3 +23,4 @@
 - pkg:apk/alpine/nebula@1.5.0-r2?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/nebula@1.5.0-r2?arch=ppc64le&distro=v3.15
 - pkg:apk/alpine/nebula@1.5.0-r2?arch=s390x&distro=v3.15
+- pkg:apk/alpine/nebula@1.5.0-r2?arch=x86&distro=v3.15

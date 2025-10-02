@@ -86,3 +86,4 @@
 - pkg:apk/alpine/gtksourceview-doc@3.24.11-r2?arch=s390x&distro=v3.18
 - pkg:apk/alpine/gtksourceview-doc@3.24.11-r2?arch=x86&distro=v3.18
 - pkg:apk/alpine/gtksourceview-doc@3.24.11-r2?arch=x86_64&distro=v3.18
+- pkg:apk/alpine/gtksourceview-doc@3.24.11-r3?arch=aarch64&distro=v3.19

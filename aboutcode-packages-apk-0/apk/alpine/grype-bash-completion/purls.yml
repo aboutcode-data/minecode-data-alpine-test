@@ -8,3 +8,4 @@
 - pkg:apk/alpine/grype-bash-completion@0.99.1-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/grype-bash-completion@0.98.0-r1?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/grype-bash-completion@0.98.0-r1?arch=riscv64&distro=latest-stable
+- pkg:apk/alpine/grype-bash-completion@0.61.0-r1?arch=aarch64&distro=v3.17

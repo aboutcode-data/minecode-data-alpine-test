@@ -59,3 +59,4 @@
 - pkg:apk/alpine/perl-libwww-doc@6.54-r0?arch=s390x&distro=v3.14
 - pkg:apk/alpine/perl-libwww-doc@6.54-r0?arch=x86&distro=v3.14
 - pkg:apk/alpine/perl-libwww-doc@6.54-r0?arch=x86_64&distro=v3.14
+- pkg:apk/alpine/perl-libwww-doc@6.58-r0?arch=aarch64&distro=v3.15

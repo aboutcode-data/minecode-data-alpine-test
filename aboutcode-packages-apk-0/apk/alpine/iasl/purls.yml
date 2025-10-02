@@ -78,3 +78,4 @@
 - pkg:apk/alpine/iasl@20220331-r0?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/iasl@20221020-r1?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/iasl@20221020-r1?arch=armhf&distro=v3.18
+- pkg:apk/alpine/iasl@20221020-r1?arch=armv7&distro=v3.18

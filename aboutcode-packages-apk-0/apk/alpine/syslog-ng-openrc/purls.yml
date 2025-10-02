@@ -13,3 +13,4 @@
 - pkg:apk/alpine/syslog-ng-openrc@4.8.3-r1?arch=x86&distro=latest-stable
 - pkg:apk/alpine/syslog-ng-openrc@4.10.1-r0?arch=loongarch64&distro=edge
 - pkg:apk/alpine/syslog-ng-openrc@4.10.1-r0?arch=riscv64&distro=edge
+- pkg:apk/alpine/syslog-ng-openrc@4.8.3-r1?arch=loongarch64&distro=latest-stable

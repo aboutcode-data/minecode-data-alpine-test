@@ -84,3 +84,4 @@
 - pkg:apk/alpine/notmuch-vim@0.37-r2?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/notmuch-vim@0.38.2-r1?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/notmuch-vim@0.38.2-r1?arch=armhf&distro=v3.19
+- pkg:apk/alpine/notmuch-vim@0.38.2-r1?arch=armv7&distro=v3.19

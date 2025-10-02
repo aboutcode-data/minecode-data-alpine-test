@@ -60,3 +60,4 @@
 - pkg:apk/alpine/tint2-doc@17.0.2-r0?arch=x86&distro=v3.16
 - pkg:apk/alpine/tint2-doc@17.0.2-r0?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/tint2-doc@17.0.2-r1?arch=aarch64&distro=v3.17
+- pkg:apk/alpine/tint2-doc@17.0.2-r1?arch=armhf&distro=v3.17

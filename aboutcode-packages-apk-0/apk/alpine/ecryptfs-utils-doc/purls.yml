@@ -56,3 +56,4 @@
 - pkg:apk/alpine/ecryptfs-utils-doc@111-r9?arch=x86_64&distro=v3.14
 - pkg:apk/alpine/ecryptfs-utils-doc@111-r11?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/ecryptfs-utils-doc@111-r11?arch=armhf&distro=v3.15
+- pkg:apk/alpine/ecryptfs-utils-doc@111-r11?arch=armv7&distro=v3.15

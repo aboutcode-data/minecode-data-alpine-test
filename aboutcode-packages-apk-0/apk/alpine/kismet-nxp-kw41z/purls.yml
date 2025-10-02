@@ -2,3 +2,4 @@
 - pkg:apk/alpine/kismet-nxp-kw41z@0.202307.2-r8?arch=armhf&distro=edge
 - pkg:apk/alpine/kismet-nxp-kw41z@0.202307.2-r8?arch=armv7&distro=edge
 - pkg:apk/alpine/kismet-nxp-kw41z@0.202307.2-r8?arch=ppc64le&distro=edge
+- pkg:apk/alpine/kismet-nxp-kw41z@0.202307.2-r8?arch=s390x&distro=edge

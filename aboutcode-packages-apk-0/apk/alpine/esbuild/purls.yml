@@ -13,3 +13,4 @@
 - pkg:apk/alpine/esbuild@0.25.4-r2?arch=x86&distro=latest-stable
 - pkg:apk/alpine/esbuild@0.25.4-r2?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/esbuild@0.25.9-r1?arch=loongarch64&distro=edge
+- pkg:apk/alpine/esbuild@0.25.9-r1?arch=riscv64&distro=edge

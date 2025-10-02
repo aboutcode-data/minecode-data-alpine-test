@@ -10,3 +10,4 @@
 - pkg:apk/alpine/dpdk-jobstats@23.11-r0?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/dpdk-jobstats@23.11-r0?arch=ppc64le&distro=v3.19
 - pkg:apk/alpine/dpdk-jobstats@23.11-r0?arch=x86_64&distro=v3.19
+- pkg:apk/alpine/dpdk-jobstats@24.03-r0?arch=aarch64&distro=v3.20

@@ -97,3 +97,4 @@
 - pkg:apk/alpine/arpwatch@2.1a15-r13?arch=armhf&distro=v3.2
 - pkg:apk/alpine/arpwatch@2.1a15-r13?arch=x86&distro=v3.2
 - pkg:apk/alpine/arpwatch@2.1a15-r13?arch=x86_64&distro=v3.2
+- pkg:apk/alpine/arpwatch@3.6-r0?arch=aarch64&distro=v3.20

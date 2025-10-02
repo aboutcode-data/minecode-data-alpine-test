@@ -14,3 +14,4 @@
 - pkg:apk/alpine/aaaaxy@1.2.377-r4?arch=ppc64le&distro=v3.17
 - pkg:apk/alpine/aaaaxy@1.2.377-r4?arch=x86&distro=v3.17
 - pkg:apk/alpine/aaaaxy@1.2.377-r4?arch=x86_64&distro=v3.17
+- pkg:apk/alpine/aaaaxy@1.3.524-r4?arch=aarch64&distro=v3.18

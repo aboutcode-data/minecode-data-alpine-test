@@ -47,3 +47,4 @@
 - pkg:apk/alpine/buildkit@0.13.2-r3?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/buildkit@0.18.2-r5?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/buildkit@0.18.2-r5?arch=armhf&distro=v3.21
+- pkg:apk/alpine/buildkit@0.18.2-r5?arch=armv7&distro=v3.21

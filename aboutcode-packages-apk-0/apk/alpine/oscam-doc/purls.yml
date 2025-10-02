@@ -95,3 +95,4 @@
 - pkg:apk/alpine/oscam-doc@1.20_svn20201119-r4?arch=x86&distro=v3.19
 - pkg:apk/alpine/oscam-doc@1.20_svn20201119-r4?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/oscam-doc@0_svn20150324-r2?arch=armhf&distro=v3.2
+- pkg:apk/alpine/oscam-doc@0_svn20150324-r2?arch=x86&distro=v3.2

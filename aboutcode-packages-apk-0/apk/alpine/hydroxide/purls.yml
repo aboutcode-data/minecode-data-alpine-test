@@ -15,3 +15,4 @@
 - pkg:apk/alpine/hydroxide@0.2.29-r8?arch=loongarch64&distro=edge
 - pkg:apk/alpine/hydroxide@0.2.29-r8?arch=riscv64&distro=edge
 - pkg:apk/alpine/hydroxide@0.2.29-r7?arch=loongarch64&distro=latest-stable
+- pkg:apk/alpine/hydroxide@0.2.29-r7?arch=riscv64&distro=latest-stable

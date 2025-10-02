@@ -72,3 +72,4 @@
 - pkg:apk/alpine/grub-dev@2.06-r12?arch=x86&distro=v3.18
 - pkg:apk/alpine/grub-dev@2.06-r12?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/grub-dev@2.06-r17?arch=aarch64&distro=v3.19
+- pkg:apk/alpine/grub-dev@2.06-r17?arch=armhf&distro=v3.19

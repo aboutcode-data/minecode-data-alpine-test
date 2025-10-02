@@ -78,3 +78,4 @@
 - pkg:apk/alpine/abiword-plugin-iscii@3.0.5-r9?arch=s390x&distro=v3.18
 - pkg:apk/alpine/abiword-plugin-iscii@3.0.5-r9?arch=x86&distro=v3.18
 - pkg:apk/alpine/abiword-plugin-iscii@3.0.5-r9?arch=x86_64&distro=v3.18
+- pkg:apk/alpine/abiword-plugin-iscii@3.0.5-r10?arch=aarch64&distro=v3.19

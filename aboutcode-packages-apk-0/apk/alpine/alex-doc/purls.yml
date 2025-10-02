@@ -7,3 +7,4 @@
 - pkg:apk/alpine/alex-doc@3.2.6-r3?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/alex-doc@3.2.7.4-r0?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/alex-doc@3.2.7.4-r0?arch=x86_64&distro=v3.18
+- pkg:apk/alpine/alex-doc@3.4.0.1-r0?arch=aarch64&distro=v3.19

@@ -58,3 +58,4 @@
 - pkg:apk/alpine/gjs-dev@1.76.2-r0?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/gjs-dev@1.76.2-r0?arch=armv7&distro=v3.18
 - pkg:apk/alpine/gjs-dev@1.76.2-r0?arch=ppc64le&distro=v3.18
+- pkg:apk/alpine/gjs-dev@1.76.2-r0?arch=x86&distro=v3.18

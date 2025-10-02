@@ -8,3 +8,4 @@
 - pkg:apk/alpine/grub-ieee1275@2.06-r3?arch=ppc64le&distro=v3.15
 - pkg:apk/alpine/grub-ieee1275@2.06-r3?arch=ppc64le&distro=v3.16
 - pkg:apk/alpine/grub-ieee1275@2.06-r8?arch=ppc64le&distro=v3.17
+- pkg:apk/alpine/grub-ieee1275@2.06-r12?arch=ppc64le&distro=v3.18

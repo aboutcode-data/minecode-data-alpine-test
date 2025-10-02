@@ -16,3 +16,4 @@
 - pkg:apk/alpine/passes@0.10-r3?arch=riscv64&distro=edge
 - pkg:apk/alpine/passes@0.10-r2?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/passes@0.10-r2?arch=riscv64&distro=latest-stable
+- pkg:apk/alpine/passes@0.10-r0?arch=aarch64&distro=v3.21

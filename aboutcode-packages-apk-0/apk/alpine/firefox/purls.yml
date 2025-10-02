@@ -51,3 +51,4 @@
 - pkg:apk/alpine/firefox@38.3.0-r0?arch=x86&distro=v3.2
 - pkg:apk/alpine/firefox@38.3.0-r0?arch=x86_64&distro=v3.2
 - pkg:apk/alpine/firefox@132.0.2-r0?arch=aarch64&distro=v3.20
+- pkg:apk/alpine/firefox@132.0.2-r0?arch=armv7&distro=v3.20

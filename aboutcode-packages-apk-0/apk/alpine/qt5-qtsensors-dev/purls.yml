@@ -74,3 +74,4 @@
 - pkg:apk/alpine/qt5-qtsensors-dev@5.15.9_git20230323-r1?arch=x86&distro=v3.18
 - pkg:apk/alpine/qt5-qtsensors-dev@5.15.9_git20230323-r1?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/qt5-qtsensors-dev@5.15.10_git20230424-r0?arch=aarch64&distro=v3.19
+- pkg:apk/alpine/qt5-qtsensors-dev@5.15.10_git20230424-r0?arch=armv7&distro=v3.19

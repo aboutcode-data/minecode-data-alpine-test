@@ -16,3 +16,4 @@
 - pkg:apk/alpine/remind-doc@06.00.01-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/remind-doc@05.03.02-r0?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/remind-doc@05.03.02-r0?arch=riscv64&distro=latest-stable
+- pkg:apk/alpine/remind-doc@03.01.16-r0?arch=aarch64&distro=v3.10

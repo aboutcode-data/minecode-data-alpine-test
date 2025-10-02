@@ -42,3 +42,4 @@
 - pkg:apk/alpine/khotkeys-doc@5.27.8-r0?arch=ppc64le&distro=v3.18
 - pkg:apk/alpine/khotkeys-doc@5.27.8-r0?arch=x86&distro=v3.18
 - pkg:apk/alpine/khotkeys-doc@5.27.8-r0?arch=x86_64&distro=v3.18
+- pkg:apk/alpine/khotkeys-doc@5.27.10-r0?arch=aarch64&distro=v3.19

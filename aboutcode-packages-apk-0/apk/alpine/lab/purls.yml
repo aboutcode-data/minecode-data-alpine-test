@@ -68,3 +68,4 @@
 - pkg:apk/alpine/lab@0.25.1-r14?arch=x86&distro=v3.18
 - pkg:apk/alpine/lab@0.25.1-r14?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/lab@0.25.1-r18?arch=aarch64&distro=v3.19
+- pkg:apk/alpine/lab@0.25.1-r18?arch=armhf&distro=v3.19

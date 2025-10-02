@@ -4,3 +4,4 @@
 - pkg:apk/alpine/ibus-typing-booster@2.27.73-r0?arch=ppc64le&distro=edge
 - pkg:apk/alpine/ibus-typing-booster@2.27.75-r0?arch=s390x&distro=edge
 - pkg:apk/alpine/ibus-typing-booster@2.27.75-r0?arch=x86&distro=edge
+- pkg:apk/alpine/ibus-typing-booster@2.27.75-r0?arch=x86_64&distro=edge

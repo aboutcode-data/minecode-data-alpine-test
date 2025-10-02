@@ -21,3 +21,4 @@
 - pkg:apk/alpine/pike-sdl@8.0.1738-r3?arch=s390x&distro=v3.19
 - pkg:apk/alpine/pike-sdl@8.0.1738-r3?arch=x86&distro=v3.19
 - pkg:apk/alpine/pike-sdl@8.0.1738-r3?arch=x86_64&distro=v3.19
+- pkg:apk/alpine/pike-sdl@8.0.1912-r0?arch=aarch64&distro=v3.20

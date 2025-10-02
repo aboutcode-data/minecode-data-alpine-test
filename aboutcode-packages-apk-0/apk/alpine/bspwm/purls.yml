@@ -16,3 +16,4 @@
 - pkg:apk/alpine/bspwm@0.9.11-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/bspwm@0.9.10-r4?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/bspwm@0.9.10-r4?arch=riscv64&distro=latest-stable
+- pkg:apk/alpine/bspwm@0.9.7-r0?arch=aarch64&distro=v3.10

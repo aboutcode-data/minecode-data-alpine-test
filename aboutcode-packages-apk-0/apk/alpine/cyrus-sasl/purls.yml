@@ -95,3 +95,4 @@
 - pkg:apk/alpine/cyrus-sasl@2.1.28-r5?arch=x86&distro=v3.19
 - pkg:apk/alpine/cyrus-sasl@2.1.28-r5?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/cyrus-sasl@2.1.26-r7?arch=armhf&distro=v3.2
+- pkg:apk/alpine/cyrus-sasl@2.1.26-r7?arch=x86&distro=v3.2

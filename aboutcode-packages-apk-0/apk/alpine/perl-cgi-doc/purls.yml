@@ -93,3 +93,4 @@
 - pkg:apk/alpine/perl-cgi-doc@4.60-r0?arch=x86&distro=v3.19
 - pkg:apk/alpine/perl-cgi-doc@4.60-r0?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/perl-cgi-doc@4.15-r0?arch=armhf&distro=v3.2
+- pkg:apk/alpine/perl-cgi-doc@4.15-r0?arch=x86&distro=v3.2

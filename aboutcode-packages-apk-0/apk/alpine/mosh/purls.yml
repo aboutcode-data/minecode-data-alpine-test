@@ -92,3 +92,4 @@
 - pkg:apk/alpine/mosh@1.4.0-r6?arch=x86&distro=v3.19
 - pkg:apk/alpine/mosh@1.4.0-r6?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/mosh@1.2.4-r6?arch=armhf&distro=v3.2
+- pkg:apk/alpine/mosh@1.2.4-r6?arch=x86&distro=v3.2

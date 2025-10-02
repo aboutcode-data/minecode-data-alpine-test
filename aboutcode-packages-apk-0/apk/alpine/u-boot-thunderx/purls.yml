@@ -10,3 +10,4 @@
 - pkg:apk/alpine/u-boot-thunderx@2022.10-r0?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/u-boot-thunderx@2023.04-r5?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/u-boot-thunderx@2023.10-r8?arch=aarch64&distro=v3.19
+- pkg:apk/alpine/u-boot-thunderx@2024.04-r6?arch=aarch64&distro=v3.20

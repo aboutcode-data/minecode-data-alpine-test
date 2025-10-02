@@ -83,3 +83,4 @@
 - pkg:apk/alpine/c-client@2007f-r15?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/c-client@2007f-r15?arch=armhf&distro=v3.18
 - pkg:apk/alpine/c-client@2007f-r15?arch=armv7&distro=v3.18
+- pkg:apk/alpine/c-client@2007f-r15?arch=ppc64le&distro=v3.18

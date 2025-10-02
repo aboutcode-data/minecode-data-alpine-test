@@ -15,3 +15,4 @@
 - pkg:apk/alpine/acl-static@2.3.2-r1?arch=loongarch64&distro=edge
 - pkg:apk/alpine/acl-static@2.3.2-r1?arch=riscv64&distro=edge
 - pkg:apk/alpine/acl-static@2.3.2-r1?arch=loongarch64&distro=latest-stable
+- pkg:apk/alpine/acl-static@2.3.2-r1?arch=riscv64&distro=latest-stable

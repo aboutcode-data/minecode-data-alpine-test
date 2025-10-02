@@ -42,3 +42,4 @@
 - pkg:apk/alpine/drawterm@0_hg20210414-r2?arch=ppc64le&distro=v3.18
 - pkg:apk/alpine/drawterm@0_hg20210414-r2?arch=x86&distro=v3.18
 - pkg:apk/alpine/drawterm@0_hg20210414-r2?arch=x86_64&distro=v3.18
+- pkg:apk/alpine/drawterm@0_hg20210414-r2?arch=aarch64&distro=v3.19

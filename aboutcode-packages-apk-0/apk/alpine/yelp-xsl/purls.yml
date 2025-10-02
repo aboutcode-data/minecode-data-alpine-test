@@ -92,3 +92,4 @@
 - pkg:apk/alpine/yelp-xsl@3.16.1-r0?arch=armhf&distro=v3.2
 - pkg:apk/alpine/yelp-xsl@3.16.1-r0?arch=x86&distro=v3.2
 - pkg:apk/alpine/yelp-xsl@3.16.1-r0?arch=x86_64&distro=v3.2
+- pkg:apk/alpine/yelp-xsl@42.1-r1?arch=aarch64&distro=v3.20

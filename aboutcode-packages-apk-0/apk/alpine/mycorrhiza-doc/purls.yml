@@ -45,3 +45,4 @@
 - pkg:apk/alpine/mycorrhiza-doc@1.14.0-r9?arch=x86&distro=v3.19
 - pkg:apk/alpine/mycorrhiza-doc@1.14.0-r9?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/mycorrhiza-doc@1.14.0-r12?arch=aarch64&distro=v3.20
+- pkg:apk/alpine/mycorrhiza-doc@1.14.0-r12?arch=armhf&distro=v3.20

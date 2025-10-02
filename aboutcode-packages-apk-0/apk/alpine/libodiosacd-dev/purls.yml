@@ -1,1 +1,2 @@
 - pkg:apk/alpine/libodiosacd-dev@25.4.1-r0?arch=aarch64&distro=latest-stable
+- pkg:apk/alpine/libodiosacd-dev@25.4.1-r0?arch=armhf&distro=latest-stable

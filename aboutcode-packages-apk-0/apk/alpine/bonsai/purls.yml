@@ -9,3 +9,4 @@
 - pkg:apk/alpine/bonsai@1.0.0-r1?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/bonsai@1.0.2-r1?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/bonsai@1.0.2-r1?arch=x86_64&distro=v3.19
+- pkg:apk/alpine/bonsai@1.1.0-r0?arch=aarch64&distro=v3.20

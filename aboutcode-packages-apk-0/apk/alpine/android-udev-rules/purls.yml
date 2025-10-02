@@ -23,3 +23,4 @@
 - pkg:apk/alpine/android-udev-rules@20231207-r0?arch=s390x&distro=v3.19
 - pkg:apk/alpine/android-udev-rules@20231207-r0?arch=x86&distro=v3.19
 - pkg:apk/alpine/android-udev-rules@20231207-r0?arch=x86_64&distro=v3.19
+- pkg:apk/alpine/android-udev-rules@20240221-r0?arch=aarch64&distro=v3.20

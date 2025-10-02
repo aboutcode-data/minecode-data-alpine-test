@@ -74,3 +74,4 @@
 - pkg:apk/alpine/perl-tie-hash-method-doc@0.02-r3?arch=ppc64le&distro=v3.17
 - pkg:apk/alpine/perl-tie-hash-method-doc@0.02-r3?arch=s390x&distro=v3.17
 - pkg:apk/alpine/perl-tie-hash-method-doc@0.02-r3?arch=x86&distro=v3.17
+- pkg:apk/alpine/perl-tie-hash-method-doc@0.02-r3?arch=x86_64&distro=v3.17

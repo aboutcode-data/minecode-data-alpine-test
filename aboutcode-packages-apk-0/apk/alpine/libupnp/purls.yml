@@ -21,3 +21,4 @@
 - pkg:apk/alpine/libupnp@1.6.17-r1?arch=armhf&distro=v3.1
 - pkg:apk/alpine/libupnp@1.14.0-r0?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/libupnp@1.14.0-r0?arch=armhf&distro=v3.13
+- pkg:apk/alpine/libupnp@1.14.0-r0?arch=armv7&distro=v3.13

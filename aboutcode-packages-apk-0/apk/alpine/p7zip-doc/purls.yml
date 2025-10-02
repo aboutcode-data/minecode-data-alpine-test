@@ -50,3 +50,4 @@
 - pkg:apk/alpine/p7zip-doc@16.02-r4?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/p7zip-doc@17.04-r2?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/p7zip-doc@17.04-r2?arch=armv7&distro=v3.16
+- pkg:apk/alpine/p7zip-doc@17.04-r2?arch=ppc64le&distro=v3.16

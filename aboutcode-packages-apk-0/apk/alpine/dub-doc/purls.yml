@@ -19,3 +19,4 @@
 - pkg:apk/alpine/dub-doc@1.28.0-r0?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/dub-doc@1.30.0-r0?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/dub-doc@1.30.0-r0?arch=x86_64&distro=v3.17
+- pkg:apk/alpine/dub-doc@1.32.1-r0?arch=aarch64&distro=v3.18

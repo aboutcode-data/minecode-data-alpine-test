@@ -58,3 +58,4 @@
 - pkg:apk/alpine/geth@1.10.22-r0?arch=s390x&distro=v3.16
 - pkg:apk/alpine/geth@1.10.22-r0?arch=x86&distro=v3.16
 - pkg:apk/alpine/geth@1.10.22-r0?arch=x86_64&distro=v3.16
+- pkg:apk/alpine/geth@1.10.25-r5?arch=aarch64&distro=v3.17

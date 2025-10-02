@@ -53,3 +53,4 @@
 - pkg:apk/alpine/miniflux-openrc@2.0.36-r7?arch=s390x&distro=v3.16
 - pkg:apk/alpine/miniflux-openrc@2.0.36-r7?arch=x86&distro=v3.16
 - pkg:apk/alpine/miniflux-openrc@2.0.36-r7?arch=x86_64&distro=v3.16
+- pkg:apk/alpine/miniflux-openrc@2.0.43-r2?arch=aarch64&distro=v3.17

@@ -39,3 +39,4 @@
 - pkg:apk/alpine/miniupnpc-doc@2.1.20191224-r0?arch=mips64&distro=v3.12
 - pkg:apk/alpine/miniupnpc-doc@2.1.20191224-r0?arch=ppc64le&distro=v3.12
 - pkg:apk/alpine/miniupnpc-doc@2.1.20191224-r0?arch=s390x&distro=v3.12
+- pkg:apk/alpine/miniupnpc-doc@2.1.20191224-r0?arch=x86&distro=v3.12

@@ -35,3 +35,4 @@
 - pkg:apk/alpine/pulseaudio-jack@13.0-r10?arch=mips64&distro=v3.12
 - pkg:apk/alpine/pulseaudio-jack@13.0-r10?arch=ppc64le&distro=v3.12
 - pkg:apk/alpine/pulseaudio-jack@13.0-r10?arch=s390x&distro=v3.12
+- pkg:apk/alpine/pulseaudio-jack@13.0-r10?arch=x86&distro=v3.12

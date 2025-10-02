@@ -23,3 +23,4 @@
 - pkg:apk/alpine/uutils-coreutils-doc@0.0.23-r0?arch=x86&distro=v3.19
 - pkg:apk/alpine/uutils-coreutils-doc@0.0.23-r0?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/uutils-coreutils-doc@0.0.26-r0?arch=aarch64&distro=v3.20
+- pkg:apk/alpine/uutils-coreutils-doc@0.0.26-r0?arch=armhf&distro=v3.20

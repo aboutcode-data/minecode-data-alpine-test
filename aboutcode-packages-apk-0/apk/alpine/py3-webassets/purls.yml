@@ -68,3 +68,4 @@
 - pkg:apk/alpine/py3-webassets@0.12.1-r5?arch=s390x&distro=v3.17
 - pkg:apk/alpine/py3-webassets@0.12.1-r5?arch=x86&distro=v3.17
 - pkg:apk/alpine/py3-webassets@0.12.1-r5?arch=x86_64&distro=v3.17
+- pkg:apk/alpine/py3-webassets@2.0-r2?arch=aarch64&distro=v3.18

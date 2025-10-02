@@ -16,3 +16,4 @@
 - pkg:apk/alpine/py3-pypng-pyc@0.20231004.0-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/py3-pypng-pyc@0.20231004.0-r0?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/py3-pypng-pyc@0.20231004.0-r0?arch=riscv64&distro=latest-stable
+- pkg:apk/alpine/py3-pypng-pyc@0.0.20-r4?arch=aarch64&distro=v3.18

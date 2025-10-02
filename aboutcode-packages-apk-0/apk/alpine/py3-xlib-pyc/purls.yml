@@ -16,3 +16,4 @@
 - pkg:apk/alpine/py3-xlib-pyc@0.33-r3?arch=riscv64&distro=edge
 - pkg:apk/alpine/py3-xlib-pyc@0.33-r3?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/py3-xlib-pyc@0.33-r3?arch=riscv64&distro=latest-stable
+- pkg:apk/alpine/py3-xlib-pyc@0.33-r1?arch=aarch64&distro=v3.18

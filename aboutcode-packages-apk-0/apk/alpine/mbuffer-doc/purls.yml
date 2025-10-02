@@ -23,3 +23,4 @@
 - pkg:apk/alpine/mbuffer-doc@20200505-r0?arch=x86_64&distro=v3.12
 - pkg:apk/alpine/mbuffer-doc@20200929-r0?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/mbuffer-doc@20200929-r0?arch=mips64&distro=v3.13
+- pkg:apk/alpine/mbuffer-doc@20200929-r0?arch=ppc64le&distro=v3.13

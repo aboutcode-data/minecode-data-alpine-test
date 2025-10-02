@@ -18,3 +18,4 @@
 - pkg:apk/alpine/tinc-pre@1.1.18-r0?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/tinc-pre@1.1.18-r0?arch=mips64&distro=v3.13
 - pkg:apk/alpine/tinc-pre@1.1.18-r0?arch=ppc64le&distro=v3.13
+- pkg:apk/alpine/tinc-pre@1.1.18-r0?arch=x86&distro=v3.13

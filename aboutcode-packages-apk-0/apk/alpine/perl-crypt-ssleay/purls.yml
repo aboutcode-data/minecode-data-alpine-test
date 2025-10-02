@@ -16,3 +16,4 @@
 - pkg:apk/alpine/perl-crypt-ssleay@0.72-r23?arch=riscv64&distro=edge
 - pkg:apk/alpine/perl-crypt-ssleay@0.72-r22?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/perl-crypt-ssleay@0.72-r22?arch=riscv64&distro=latest-stable
+- pkg:apk/alpine/perl-crypt-ssleay@0.72-r0?arch=x86&distro=v3.0

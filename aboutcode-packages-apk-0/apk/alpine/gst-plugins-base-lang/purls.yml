@@ -16,3 +16,4 @@
 - pkg:apk/alpine/gst-plugins-base-lang@1.26.6-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/gst-plugins-base-lang@1.26.3-r0?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/gst-plugins-base-lang@1.26.3-r0?arch=riscv64&distro=latest-stable
+- pkg:apk/alpine/gst-plugins-base-lang@0.10.36-r2?arch=x86&distro=v3.0

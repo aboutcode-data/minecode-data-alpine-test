@@ -16,3 +16,4 @@
 - pkg:apk/alpine/ffmpeg-dev@8.0-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/ffmpeg-dev@6.1.2-r2?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/ffmpeg-dev@6.1.2-r2?arch=riscv64&distro=latest-stable
+- pkg:apk/alpine/ffmpeg-dev@2.2.7-r0?arch=x86&distro=v3.0

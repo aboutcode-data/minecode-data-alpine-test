@@ -16,3 +16,4 @@
 - pkg:apk/alpine/cups-filters@1.28.17-r8?arch=riscv64&distro=edge
 - pkg:apk/alpine/cups-filters@1.28.17-r8?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/cups-filters@1.28.17-r8?arch=riscv64&distro=latest-stable
+- pkg:apk/alpine/cups-filters@1.0.53-r1?arch=x86&distro=v3.0

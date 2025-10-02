@@ -16,3 +16,4 @@
 - pkg:apk/alpine/pidgin@2.14.14-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/pidgin@2.14.14-r0?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/pidgin@2.14.14-r0?arch=riscv64&distro=latest-stable
+- pkg:apk/alpine/pidgin@2.10.9-r0?arch=x86&distro=v3.0

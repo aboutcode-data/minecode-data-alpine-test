@@ -16,3 +16,4 @@
 - pkg:apk/alpine/perl-scope-guard-doc@0.21-r5?arch=riscv64&distro=edge
 - pkg:apk/alpine/perl-scope-guard-doc@0.21-r5?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/perl-scope-guard-doc@0.21-r5?arch=riscv64&distro=latest-stable
+- pkg:apk/alpine/perl-scope-guard-doc@0.20-r0?arch=x86&distro=v3.0

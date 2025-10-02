@@ -61,3 +61,4 @@
 - pkg:apk/alpine/imagemagick-c%2B%2B@7.0.11.14-r1?arch=x86_64&distro=v3.14
 - pkg:apk/alpine/imagemagick-c%2B%2B@7.1.0.16-r0?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/imagemagick-c%2B%2B@7.1.0.16-r0?arch=armhf&distro=v3.15
+- pkg:apk/alpine/imagemagick-c%2B%2B@7.1.0.16-r0?arch=armv7&distro=v3.15

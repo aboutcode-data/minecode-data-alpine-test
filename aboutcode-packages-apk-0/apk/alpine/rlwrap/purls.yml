@@ -21,3 +21,4 @@
 - pkg:apk/alpine/rlwrap@0.37-r0?arch=armhf&distro=v3.1
 - pkg:apk/alpine/rlwrap@0.45.2-r1?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/rlwrap@0.45.2-r1?arch=armhf&distro=v3.15
+- pkg:apk/alpine/rlwrap@0.45.2-r1?arch=armv7&distro=v3.15

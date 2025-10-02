@@ -46,3 +46,4 @@
 - pkg:apk/alpine/elinks-lang@0.13-r6?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/elinks-lang@0.13-r6?arch=armhf&distro=v3.13
 - pkg:apk/alpine/elinks-lang@0.13-r6?arch=armv7&distro=v3.13
+- pkg:apk/alpine/elinks-lang@0.13-r6?arch=mips64&distro=v3.13

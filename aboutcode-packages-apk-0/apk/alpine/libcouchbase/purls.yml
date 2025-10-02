@@ -16,3 +16,4 @@
 - pkg:apk/alpine/libcouchbase@3.3.18-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/libcouchbase@3.3.12-r0?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/libcouchbase@3.3.12-r0?arch=riscv64&distro=latest-stable
+- pkg:apk/alpine/libcouchbase@2.10.3-r1?arch=aarch64&distro=v3.10

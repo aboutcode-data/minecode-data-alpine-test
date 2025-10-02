@@ -31,3 +31,4 @@
 - pkg:apk/alpine/httm@0.32.3-r0?arch=armv7&distro=v3.19
 - pkg:apk/alpine/httm@0.32.3-r0?arch=ppc64le&distro=v3.19
 - pkg:apk/alpine/httm@0.32.3-r0?arch=x86&distro=v3.19
+- pkg:apk/alpine/httm@0.32.3-r0?arch=x86_64&distro=v3.19

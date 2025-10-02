@@ -15,3 +15,4 @@
 - pkg:apk/alpine/cargo-nextest@0.9.97-r0?arch=loongarch64&distro=edge
 - pkg:apk/alpine/cargo-nextest@0.9.97-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/cargo-nextest@0.9.94-r0?arch=loongarch64&distro=latest-stable
+- pkg:apk/alpine/cargo-nextest@0.9.94-r0?arch=riscv64&distro=latest-stable

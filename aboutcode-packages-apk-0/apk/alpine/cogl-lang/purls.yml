@@ -15,3 +15,4 @@
 - pkg:apk/alpine/cogl-lang@1.22.8-r3?arch=loongarch64&distro=edge
 - pkg:apk/alpine/cogl-lang@1.22.8-r3?arch=riscv64&distro=edge
 - pkg:apk/alpine/cogl-lang@1.22.8-r3?arch=loongarch64&distro=latest-stable
+- pkg:apk/alpine/cogl-lang@1.22.8-r3?arch=riscv64&distro=latest-stable

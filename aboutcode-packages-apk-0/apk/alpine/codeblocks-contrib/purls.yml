@@ -21,3 +21,4 @@
 - pkg:apk/alpine/codeblocks-contrib@20.03-r6?arch=s390x&distro=v3.19
 - pkg:apk/alpine/codeblocks-contrib@20.03-r6?arch=x86&distro=v3.19
 - pkg:apk/alpine/codeblocks-contrib@20.03-r6?arch=x86_64&distro=v3.19
+- pkg:apk/alpine/codeblocks-contrib@20.03-r8?arch=aarch64&distro=v3.20

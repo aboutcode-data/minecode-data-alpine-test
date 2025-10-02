@@ -25,3 +25,4 @@
 - pkg:apk/alpine/chez-scheme-doc@9.6.4-r0?arch=armhf&distro=v3.19
 - pkg:apk/alpine/chez-scheme-doc@9.6.4-r0?arch=x86&distro=v3.19
 - pkg:apk/alpine/chez-scheme-doc@9.6.4-r0?arch=x86_64&distro=v3.19
+- pkg:apk/alpine/chez-scheme-doc@10.0.0-r1?arch=aarch64&distro=v3.20

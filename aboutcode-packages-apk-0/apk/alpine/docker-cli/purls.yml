@@ -87,3 +87,4 @@
 - pkg:apk/alpine/docker-cli@25.0.5-r1?arch=s390x&distro=v3.19
 - pkg:apk/alpine/docker-cli@25.0.5-r1?arch=x86&distro=v3.19
 - pkg:apk/alpine/docker-cli@25.0.5-r1?arch=x86_64&distro=v3.19
+- pkg:apk/alpine/docker-cli@26.1.5-r0?arch=aarch64&distro=v3.20

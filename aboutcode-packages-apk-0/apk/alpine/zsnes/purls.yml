@@ -9,3 +9,4 @@
 - pkg:apk/alpine/zsnes@1.51-r11?arch=x86&distro=v3.14
 - pkg:apk/alpine/zsnes@1.51-r12?arch=x86&distro=v3.15
 - pkg:apk/alpine/zsnes@1.51-r12?arch=x86&distro=v3.16
+- pkg:apk/alpine/zsnes@1.51-r13?arch=x86&distro=v3.17

@@ -26,3 +26,4 @@
 - pkg:apk/alpine/postfixadmin@2.3.5-r0?arch=armhf&distro=v3.1
 - pkg:apk/alpine/postfixadmin@3.2.2-r0?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/postfixadmin@3.2.2-r0?arch=armhf&distro=v3.10
+- pkg:apk/alpine/postfixadmin@3.2.2-r0?arch=armv7&distro=v3.10

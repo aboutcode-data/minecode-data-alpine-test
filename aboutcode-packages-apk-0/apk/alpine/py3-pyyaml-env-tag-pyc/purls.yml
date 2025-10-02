@@ -16,3 +16,4 @@
 - pkg:apk/alpine/py3-pyyaml-env-tag-pyc@0.1-r4?arch=riscv64&distro=edge
 - pkg:apk/alpine/py3-pyyaml-env-tag-pyc@0.1-r4?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/py3-pyyaml-env-tag-pyc@0.1-r4?arch=riscv64&distro=latest-stable
+- pkg:apk/alpine/py3-pyyaml-env-tag-pyc@0.1-r3?arch=aarch64&distro=v3.19

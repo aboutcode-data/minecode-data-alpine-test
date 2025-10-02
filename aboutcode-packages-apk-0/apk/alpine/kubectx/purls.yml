@@ -15,3 +15,4 @@
 - pkg:apk/alpine/kubectx@0.9.5-r16?arch=loongarch64&distro=edge
 - pkg:apk/alpine/kubectx@0.9.5-r16?arch=riscv64&distro=edge
 - pkg:apk/alpine/kubectx@0.9.5-r15?arch=loongarch64&distro=latest-stable
+- pkg:apk/alpine/kubectx@0.9.5-r15?arch=riscv64&distro=latest-stable

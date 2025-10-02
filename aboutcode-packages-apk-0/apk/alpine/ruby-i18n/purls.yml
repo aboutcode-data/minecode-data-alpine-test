@@ -16,3 +16,4 @@
 - pkg:apk/alpine/ruby-i18n@1.14.7-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/ruby-i18n@1.14.7-r0?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/ruby-i18n@1.14.7-r0?arch=riscv64&distro=latest-stable
+- pkg:apk/alpine/ruby-i18n@0.6.11-r0?arch=x86&distro=v3.0

@@ -16,3 +16,4 @@
 - pkg:apk/alpine/quagga-doc@1.2.4-r10?arch=riscv64&distro=edge
 - pkg:apk/alpine/quagga-doc@1.2.4-r10?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/quagga-doc@1.2.4-r10?arch=riscv64&distro=latest-stable
+- pkg:apk/alpine/quagga-doc@0.99.23.1-r2?arch=x86&distro=v3.0

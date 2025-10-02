@@ -16,3 +16,4 @@
 - pkg:apk/alpine/perl-file-rsync@0.76-r8?arch=riscv64&distro=edge
 - pkg:apk/alpine/perl-file-rsync@0.76-r6?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/perl-file-rsync@0.76-r6?arch=riscv64&distro=latest-stable
+- pkg:apk/alpine/perl-file-rsync@0.70-r1?arch=x86&distro=v3.0

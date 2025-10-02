@@ -16,3 +16,4 @@
 - pkg:apk/alpine/signon-plugin-oauth2@0.25_git20231124-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/signon-plugin-oauth2@0.25_git20231124-r0?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/signon-plugin-oauth2@0.25_git20231124-r0?arch=riscv64&distro=latest-stable
+- pkg:apk/alpine/signon-plugin-oauth2@0.24-r1?arch=aarch64&distro=v3.12

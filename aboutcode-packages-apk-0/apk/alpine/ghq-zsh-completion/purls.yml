@@ -1,1 +1,2 @@
 - pkg:apk/alpine/ghq-zsh-completion@1.8.0-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/ghq-zsh-completion@1.8.0-r4?arch=armhf&distro=edge

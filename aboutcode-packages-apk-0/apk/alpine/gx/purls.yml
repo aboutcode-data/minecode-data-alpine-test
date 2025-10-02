@@ -1,1 +1,2 @@
 - pkg:apk/alpine/gx@0.14.3-r33?arch=aarch64&distro=edge
+- pkg:apk/alpine/gx@0.14.3-r33?arch=armhf&distro=edge

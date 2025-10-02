@@ -65,3 +65,4 @@
 - pkg:apk/alpine/containers-common@0.60.4-r0?arch=ppc64le&distro=v3.20
 - pkg:apk/alpine/containers-common@0.60.4-r0?arch=riscv64&distro=v3.20
 - pkg:apk/alpine/containers-common@0.60.4-r0?arch=s390x&distro=v3.20
+- pkg:apk/alpine/containers-common@0.60.4-r0?arch=x86&distro=v3.20

@@ -23,3 +23,4 @@
 - pkg:apk/alpine/mpd-mpris@0.3.1-r4?arch=s390x&distro=v3.16
 - pkg:apk/alpine/mpd-mpris@0.3.1-r4?arch=x86&distro=v3.16
 - pkg:apk/alpine/mpd-mpris@0.3.1-r4?arch=x86_64&distro=v3.16
+- pkg:apk/alpine/mpd-mpris@0.3.1-r9?arch=aarch64&distro=v3.17

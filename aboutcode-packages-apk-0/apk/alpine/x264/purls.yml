@@ -73,3 +73,4 @@
 - pkg:apk/alpine/x264@0.163_git20210613-r0?arch=s390x&distro=v3.16
 - pkg:apk/alpine/x264@0.163_git20210613-r0?arch=x86&distro=v3.16
 - pkg:apk/alpine/x264@0.163_git20210613-r0?arch=x86_64&distro=v3.16
+- pkg:apk/alpine/x264@0.164_git20220602-r0?arch=aarch64&distro=v3.17

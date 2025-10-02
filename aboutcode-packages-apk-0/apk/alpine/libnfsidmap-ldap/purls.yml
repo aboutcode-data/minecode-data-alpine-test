@@ -95,3 +95,4 @@
 - pkg:apk/alpine/libnfsidmap-ldap@2.6.4-r0?arch=x86&distro=v3.19
 - pkg:apk/alpine/libnfsidmap-ldap@2.6.4-r0?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/libnfsidmap-ldap@0.25-r1?arch=armhf&distro=v3.2
+- pkg:apk/alpine/libnfsidmap-ldap@0.25-r1?arch=x86&distro=v3.2

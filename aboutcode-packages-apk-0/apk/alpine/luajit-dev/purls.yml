@@ -90,3 +90,4 @@
 - pkg:apk/alpine/luajit-dev@2.1_p20230410-r3?arch=x86&distro=v3.19
 - pkg:apk/alpine/luajit-dev@2.1_p20230410-r3?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/luajit-dev@2.0.4-r0?arch=armhf&distro=v3.2
+- pkg:apk/alpine/luajit-dev@2.0.4-r0?arch=x86&distro=v3.2

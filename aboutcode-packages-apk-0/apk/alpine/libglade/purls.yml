@@ -34,3 +34,4 @@
 - pkg:apk/alpine/libglade@2.6.4-r15?arch=x86&distro=v3.13
 - pkg:apk/alpine/libglade@2.6.4-r15?arch=x86_64&distro=v3.13
 - pkg:apk/alpine/libglade@2.6.4-r12?arch=armhf&distro=v3.2
+- pkg:apk/alpine/libglade@2.6.4-r12?arch=x86&distro=v3.2

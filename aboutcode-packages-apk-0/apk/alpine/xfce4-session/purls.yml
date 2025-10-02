@@ -95,3 +95,4 @@
 - pkg:apk/alpine/xfce4-session@4.18.3-r0?arch=x86&distro=v3.19
 - pkg:apk/alpine/xfce4-session@4.18.3-r0?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/xfce4-session@4.12.1-r0?arch=armhf&distro=v3.2
+- pkg:apk/alpine/xfce4-session@4.12.1-r0?arch=x86&distro=v3.2

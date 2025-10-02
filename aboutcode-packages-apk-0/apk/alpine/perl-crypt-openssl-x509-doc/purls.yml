@@ -19,3 +19,4 @@
 - pkg:apk/alpine/perl-crypt-openssl-x509-doc@1.813-r1?arch=aarch64&distro=v3.12
 - pkg:apk/alpine/perl-crypt-openssl-x509-doc@1.813-r1?arch=armhf&distro=v3.12
 - pkg:apk/alpine/perl-crypt-openssl-x509-doc@1.813-r1?arch=armv7&distro=v3.12
+- pkg:apk/alpine/perl-crypt-openssl-x509-doc@1.813-r1?arch=mips64&distro=v3.12

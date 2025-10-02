@@ -79,3 +79,4 @@
 - pkg:apk/alpine/restic-doc@0.15.2-r5?arch=x86&distro=v3.18
 - pkg:apk/alpine/restic-doc@0.15.2-r5?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/restic-doc@0.16.4-r2?arch=aarch64&distro=v3.19
+- pkg:apk/alpine/restic-doc@0.16.4-r2?arch=armhf&distro=v3.19

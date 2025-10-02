@@ -31,3 +31,4 @@
 - pkg:apk/alpine/quassel-libs-common@0.14.0-r14?arch=x86&distro=v3.18
 - pkg:apk/alpine/quassel-libs-common@0.14.0-r14?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/quassel-libs-common@0.14.0-r16?arch=aarch64&distro=v3.19
+- pkg:apk/alpine/quassel-libs-common@0.14.0-r16?arch=armhf&distro=v3.19

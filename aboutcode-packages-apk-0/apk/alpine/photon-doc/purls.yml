@@ -15,3 +15,4 @@
 - pkg:apk/alpine/photon-doc@1.0.1-r18?arch=loongarch64&distro=edge
 - pkg:apk/alpine/photon-doc@1.0.1-r18?arch=riscv64&distro=edge
 - pkg:apk/alpine/photon-doc@1.0.1-r16?arch=loongarch64&distro=latest-stable
+- pkg:apk/alpine/photon-doc@1.0.1-r16?arch=riscv64&distro=latest-stable

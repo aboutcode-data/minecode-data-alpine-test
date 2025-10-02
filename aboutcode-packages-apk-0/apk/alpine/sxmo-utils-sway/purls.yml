@@ -25,3 +25,4 @@
 - pkg:apk/alpine/sxmo-utils-sway@1.15.2-r4?arch=armhf&distro=v3.20
 - pkg:apk/alpine/sxmo-utils-sway@1.15.2-r4?arch=armv7&distro=v3.20
 - pkg:apk/alpine/sxmo-utils-sway@1.15.2-r4?arch=riscv64&distro=v3.20
+- pkg:apk/alpine/sxmo-utils-sway@1.15.2-r4?arch=s390x&distro=v3.20

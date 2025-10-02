@@ -95,3 +95,4 @@
 - pkg:apk/alpine/xfce4-panel-doc@4.18.5-r0?arch=x86&distro=v3.19
 - pkg:apk/alpine/xfce4-panel-doc@4.18.5-r0?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/xfce4-panel-doc@4.12.0-r1?arch=armhf&distro=v3.2
+- pkg:apk/alpine/xfce4-panel-doc@4.12.0-r1?arch=x86&distro=v3.2

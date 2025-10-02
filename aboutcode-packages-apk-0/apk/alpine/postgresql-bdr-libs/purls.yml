@@ -56,3 +56,4 @@
 - pkg:apk/alpine/postgresql-bdr-libs@9.4.14_p1-r12?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/postgresql-bdr-libs@9.4.14_p1-r13?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/postgresql-bdr-libs@9.4.14_p1-r13?arch=armhf&distro=v3.16
+- pkg:apk/alpine/postgresql-bdr-libs@9.4.14_p1-r13?arch=armv7&distro=v3.16

@@ -24,3 +24,4 @@
 - pkg:apk/alpine/k0sctl@0.14.0-r6?arch=x86&distro=v3.17
 - pkg:apk/alpine/k0sctl@0.14.0-r6?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/k0sctl@0.15.0-r8?arch=aarch64&distro=v3.18
+- pkg:apk/alpine/k0sctl@0.15.0-r8?arch=armhf&distro=v3.18

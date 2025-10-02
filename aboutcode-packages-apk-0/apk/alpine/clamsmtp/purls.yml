@@ -44,3 +44,4 @@
 - pkg:apk/alpine/clamsmtp@1.10-r18?arch=armv7&distro=v3.13
 - pkg:apk/alpine/clamsmtp@1.10-r18?arch=mips64&distro=v3.13
 - pkg:apk/alpine/clamsmtp@1.10-r18?arch=ppc64le&distro=v3.13
+- pkg:apk/alpine/clamsmtp@1.10-r18?arch=x86&distro=v3.13

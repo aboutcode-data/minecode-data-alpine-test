@@ -58,3 +58,4 @@
 - pkg:apk/alpine/kirigami-addons@0.11.0-r1?arch=s390x&distro=v3.19
 - pkg:apk/alpine/kirigami-addons@0.11.0-r1?arch=x86&distro=v3.19
 - pkg:apk/alpine/kirigami-addons@0.11.0-r1?arch=x86_64&distro=v3.19
+- pkg:apk/alpine/kirigami-addons@1.2.1-r0?arch=aarch64&distro=v3.20

@@ -107,3 +107,4 @@
 - pkg:apk/alpine/libevhtp-dev@1.2.18-r6?arch=armhf&distro=v3.21
 - pkg:apk/alpine/libevhtp-dev@1.2.18-r6?arch=armv7&distro=v3.21
 - pkg:apk/alpine/libevhtp-dev@1.2.18-r6?arch=loongarch64&distro=v3.21
+- pkg:apk/alpine/libevhtp-dev@1.2.18-r6?arch=ppc64le&distro=v3.21

@@ -14,3 +14,4 @@
 - pkg:apk/alpine/rustup-zsh-completion@1.24.3-r1?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/rustup-zsh-completion@1.24.3-r1?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/rustup-zsh-completion@1.25.2-r0?arch=aarch64&distro=v3.17
+- pkg:apk/alpine/rustup-zsh-completion@1.25.2-r0?arch=x86_64&distro=v3.17

@@ -23,3 +23,4 @@
 - pkg:apk/alpine/alpine-baselayout-data@3.2.0-r23?arch=s390x&distro=v3.16
 - pkg:apk/alpine/alpine-baselayout-data@3.2.0-r23?arch=x86&distro=v3.16
 - pkg:apk/alpine/alpine-baselayout-data@3.2.0-r23?arch=x86_64&distro=v3.16
+- pkg:apk/alpine/alpine-baselayout-data@3.4.0-r0?arch=aarch64&distro=v3.17

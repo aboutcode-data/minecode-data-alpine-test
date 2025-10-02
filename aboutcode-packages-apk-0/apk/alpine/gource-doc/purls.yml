@@ -81,3 +81,4 @@
 - pkg:apk/alpine/gource-doc@0.54-r1?arch=x86&distro=v3.19
 - pkg:apk/alpine/gource-doc@0.54-r1?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/gource-doc@0.54-r2?arch=aarch64&distro=v3.20
+- pkg:apk/alpine/gource-doc@0.54-r2?arch=armhf&distro=v3.20

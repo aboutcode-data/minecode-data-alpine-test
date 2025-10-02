@@ -68,3 +68,4 @@
 - pkg:apk/alpine/gtk-update-icon-cache@3.24.41-r0?arch=armv7&distro=v3.16
 - pkg:apk/alpine/gtk-update-icon-cache@2.24.33-r3?arch=armv7&distro=v3.16
 - pkg:apk/alpine/gtk-update-icon-cache@3.24.41-r0?arch=ppc64le&distro=v3.16
+- pkg:apk/alpine/gtk-update-icon-cache@2.24.33-r3?arch=ppc64le&distro=v3.16

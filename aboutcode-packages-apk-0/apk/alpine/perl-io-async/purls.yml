@@ -73,3 +73,4 @@
 - pkg:apk/alpine/perl-io-async@0.79-r0?arch=s390x&distro=v3.16
 - pkg:apk/alpine/perl-io-async@0.79-r0?arch=x86&distro=v3.16
 - pkg:apk/alpine/perl-io-async@0.79-r0?arch=x86_64&distro=v3.16
+- pkg:apk/alpine/perl-io-async@0.802-r1?arch=aarch64&distro=v3.19

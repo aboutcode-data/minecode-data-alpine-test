@@ -68,3 +68,4 @@
 - pkg:apk/alpine/perl-moosex-types@0.50-r3?arch=s390x&distro=v3.18
 - pkg:apk/alpine/perl-moosex-types@0.50-r3?arch=x86&distro=v3.18
 - pkg:apk/alpine/perl-moosex-types@0.50-r3?arch=x86_64&distro=v3.18
+- pkg:apk/alpine/perl-moosex-types@0.50-r4?arch=aarch64&distro=v3.19

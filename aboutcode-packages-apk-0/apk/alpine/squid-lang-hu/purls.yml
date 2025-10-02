@@ -13,3 +13,4 @@
 - pkg:apk/alpine/squid-lang-hu@6.12-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/squid-lang-hu@6.12-r1?arch=loongarch64&distro=edge
 - pkg:apk/alpine/squid-lang-hu@6.12-r1?arch=riscv64&distro=edge
+- pkg:apk/alpine/squid-lang-hu@6.12-r0?arch=loongarch64&distro=latest-stable

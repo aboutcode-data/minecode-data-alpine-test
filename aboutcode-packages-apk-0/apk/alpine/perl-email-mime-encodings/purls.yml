@@ -16,3 +16,4 @@
 - pkg:apk/alpine/perl-email-mime-encodings@1.317-r1?arch=riscv64&distro=edge
 - pkg:apk/alpine/perl-email-mime-encodings@1.317-r1?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/perl-email-mime-encodings@1.317-r1?arch=riscv64&distro=latest-stable
+- pkg:apk/alpine/perl-email-mime-encodings@1.313-r0?arch=x86&distro=v3.0

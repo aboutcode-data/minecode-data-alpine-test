@@ -16,3 +16,4 @@
 - pkg:apk/alpine/nuttcp@8.2.2-r1?arch=riscv64&distro=edge
 - pkg:apk/alpine/nuttcp@8.2.2-r1?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/nuttcp@8.2.2-r1?arch=riscv64&distro=latest-stable
+- pkg:apk/alpine/nuttcp@6.1.2-r0?arch=x86&distro=v3.0

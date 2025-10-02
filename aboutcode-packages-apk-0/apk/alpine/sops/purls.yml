@@ -16,3 +16,4 @@
 - pkg:apk/alpine/sops@3.10.2-r2?arch=riscv64&distro=edge
 - pkg:apk/alpine/sops@3.9.4-r8?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/sops@3.9.4-r8?arch=riscv64&distro=latest-stable
+- pkg:apk/alpine/sops@3.8.1-r6?arch=aarch64&distro=v3.20

@@ -74,3 +74,4 @@
 - pkg:apk/alpine/rsyslog-mmnormalize@8.2306.0-r2?arch=x86&distro=v3.18
 - pkg:apk/alpine/rsyslog-mmnormalize@8.2306.0-r2?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/rsyslog-mmnormalize@8.2310.0-r0?arch=aarch64&distro=v3.19
+- pkg:apk/alpine/rsyslog-mmnormalize@8.2310.0-r0?arch=armhf&distro=v3.19

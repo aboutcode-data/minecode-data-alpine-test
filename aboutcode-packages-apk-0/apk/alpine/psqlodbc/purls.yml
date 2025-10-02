@@ -16,3 +16,4 @@
 - pkg:apk/alpine/psqlodbc@16.00.0005-r1?arch=riscv64&distro=edge
 - pkg:apk/alpine/psqlodbc@16.00.0005-r0?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/psqlodbc@16.00.0005-r0?arch=riscv64&distro=latest-stable
+- pkg:apk/alpine/psqlodbc@09.02.0100-r0?arch=x86&distro=v3.0

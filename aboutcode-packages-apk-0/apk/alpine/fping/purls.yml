@@ -16,3 +16,4 @@
 - pkg:apk/alpine/fping@5.3-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/fping@5.3-r0?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/fping@5.3-r0?arch=riscv64&distro=latest-stable
+- pkg:apk/alpine/fping@3.10-r1?arch=x86&distro=v3.0

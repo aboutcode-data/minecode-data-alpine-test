@@ -41,3 +41,4 @@
 - pkg:apk/alpine/ncurses-static@6.2_p20210109-r1?arch=aarch64&distro=v3.13
 - pkg:apk/alpine/ncurses-static@6.2_p20210109-r1?arch=armhf&distro=v3.13
 - pkg:apk/alpine/ncurses-static@6.2_p20210109-r1?arch=armv7&distro=v3.13
+- pkg:apk/alpine/ncurses-static@6.2_p20210109-r0?arch=mips64&distro=v3.13

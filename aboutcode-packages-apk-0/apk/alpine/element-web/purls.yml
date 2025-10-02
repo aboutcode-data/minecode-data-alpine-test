@@ -28,3 +28,4 @@
 - pkg:apk/alpine/element-web@1.11.85-r0?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/element-web@1.11.87-r0?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/element-web@1.11.87-r0?arch=loongarch64&distro=v3.21
+- pkg:apk/alpine/element-web@1.11.87-r0?arch=ppc64le&distro=v3.21

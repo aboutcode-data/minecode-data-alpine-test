@@ -16,3 +16,4 @@
 - pkg:apk/alpine/eza@0.21.4-r1?arch=riscv64&distro=edge
 - pkg:apk/alpine/eza@0.21.3-r1?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/eza@0.21.3-r1?arch=riscv64&distro=latest-stable
+- pkg:apk/alpine/eza@0.16.2-r0?arch=aarch64&distro=v3.19

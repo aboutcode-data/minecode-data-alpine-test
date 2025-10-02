@@ -19,3 +19,4 @@
 - pkg:apk/alpine/libcgroup-pam@0.38-r1?arch=armhf&distro=v3.1
 - pkg:apk/alpine/libcgroup-pam@2.0.2-r0?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/libcgroup-pam@2.0.2-r0?arch=armhf&distro=v3.16
+- pkg:apk/alpine/libcgroup-pam@2.0.2-r0?arch=armv7&distro=v3.16

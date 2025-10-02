@@ -18,3 +18,4 @@
 - pkg:apk/alpine/prometheus@2.14.0-r2?arch=s390x&distro=v3.11
 - pkg:apk/alpine/prometheus@2.14.0-r2?arch=x86&distro=v3.11
 - pkg:apk/alpine/prometheus@2.14.0-r2?arch=x86_64&distro=v3.11
+- pkg:apk/alpine/prometheus@2.18.2-r0?arch=aarch64&distro=v3.12

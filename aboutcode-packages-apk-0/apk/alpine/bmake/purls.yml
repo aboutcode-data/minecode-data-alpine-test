@@ -16,3 +16,4 @@
 - pkg:apk/alpine/bmake@20250804-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/bmake@20250414-r0?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/bmake@20250414-r0?arch=riscv64&distro=latest-stable
+- pkg:apk/alpine/bmake@20200524-r0?arch=aarch64&distro=v3.12

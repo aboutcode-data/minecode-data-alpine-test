@@ -28,3 +28,4 @@
 - pkg:apk/alpine/php7-pecl-vips@1.0.12-r0?arch=armhf&distro=v3.15
 - pkg:apk/alpine/php7-pecl-vips@1.0.12-r0?arch=armv7&distro=v3.15
 - pkg:apk/alpine/php7-pecl-vips@1.0.12-r0?arch=s390x&distro=v3.15
+- pkg:apk/alpine/php7-pecl-vips@1.0.12-r0?arch=x86&distro=v3.15

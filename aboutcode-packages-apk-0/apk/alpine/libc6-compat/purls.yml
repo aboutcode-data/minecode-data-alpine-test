@@ -18,3 +18,4 @@
 - pkg:apk/alpine/libc6-compat@1.1.24-r10?arch=mips64&distro=v3.12
 - pkg:apk/alpine/libc6-compat@1.1.24-r10?arch=ppc64le&distro=v3.12
 - pkg:apk/alpine/libc6-compat@1.1.24-r10?arch=s390x&distro=v3.12
+- pkg:apk/alpine/libc6-compat@1.1.24-r10?arch=x86&distro=v3.12

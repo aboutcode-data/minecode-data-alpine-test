@@ -1,1 +1,2 @@
 - pkg:apk/alpine/eclipse-ecj@4.37-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/eclipse-ecj@4.36-r1?arch=ppc64le&distro=edge

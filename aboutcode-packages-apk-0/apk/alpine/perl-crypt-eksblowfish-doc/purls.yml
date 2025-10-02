@@ -8,3 +8,4 @@
 - pkg:apk/alpine/perl-crypt-eksblowfish-doc@0.009-r14?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/perl-crypt-eksblowfish-doc@0.009-r14?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/perl-crypt-eksblowfish-doc@0.009-r14?arch=armv7&distro=latest-stable
+- pkg:apk/alpine/perl-crypt-eksblowfish-doc@0.009-r14?arch=ppc64le&distro=latest-stable

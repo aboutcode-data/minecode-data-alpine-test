@@ -16,3 +16,4 @@
 - pkg:apk/alpine/aqbanking@6.6.1-r1?arch=riscv64&distro=edge
 - pkg:apk/alpine/aqbanking@6.6.0-r0?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/aqbanking@6.6.0-r0?arch=riscv64&distro=latest-stable
+- pkg:apk/alpine/aqbanking@5.7.8-r1?arch=aarch64&distro=v3.10

@@ -16,3 +16,4 @@
 - pkg:apk/alpine/libzmf-dev@0.0.2-r20?arch=riscv64&distro=edge
 - pkg:apk/alpine/libzmf-dev@0.0.2-r20?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/libzmf-dev@0.0.2-r20?arch=riscv64&distro=latest-stable
+- pkg:apk/alpine/libzmf-dev@0.0.2-r1?arch=aarch64&distro=v3.10

@@ -16,3 +16,4 @@
 - pkg:apk/alpine/libcgroup-pam@3.2.0-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/libcgroup-pam@3.2.0-r0?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/libcgroup-pam@3.2.0-r0?arch=riscv64&distro=latest-stable
+- pkg:apk/alpine/libcgroup-pam@0.38-r1?arch=armhf&distro=v3.1

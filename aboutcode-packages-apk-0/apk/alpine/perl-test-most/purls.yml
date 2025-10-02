@@ -16,3 +16,4 @@
 - pkg:apk/alpine/perl-test-most@0.38-r1?arch=riscv64&distro=edge
 - pkg:apk/alpine/perl-test-most@0.38-r1?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/perl-test-most@0.38-r1?arch=riscv64&distro=latest-stable
+- pkg:apk/alpine/perl-test-most@0.35-r2?arch=aarch64&distro=v3.10

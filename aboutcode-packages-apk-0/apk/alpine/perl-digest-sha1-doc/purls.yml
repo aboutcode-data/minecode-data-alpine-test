@@ -42,3 +42,4 @@
 - pkg:apk/alpine/perl-digest-sha1-doc@2.13-r12?arch=ppc64le&distro=v3.12
 - pkg:apk/alpine/perl-digest-sha1-doc@2.13-r12?arch=s390x&distro=v3.12
 - pkg:apk/alpine/perl-digest-sha1-doc@2.13-r12?arch=x86&distro=v3.12
+- pkg:apk/alpine/perl-digest-sha1-doc@2.13-r12?arch=x86_64&distro=v3.12

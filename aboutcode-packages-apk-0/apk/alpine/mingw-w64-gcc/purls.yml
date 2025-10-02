@@ -17,3 +17,4 @@
 - pkg:apk/alpine/mingw-w64-gcc@12.2.0-r2?arch=x86&distro=v3.17
 - pkg:apk/alpine/mingw-w64-gcc@12.2.0-r2?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/mingw-w64-gcc@12.2.0-r3?arch=x86&distro=v3.18
+- pkg:apk/alpine/mingw-w64-gcc@12.2.0-r3?arch=x86_64&distro=v3.18

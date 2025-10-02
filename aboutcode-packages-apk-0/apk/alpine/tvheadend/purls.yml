@@ -15,3 +15,4 @@
 - pkg:apk/alpine/tvheadend@4.3_git20250922-r0?arch=loongarch64&distro=edge
 - pkg:apk/alpine/tvheadend@4.3_git20250922-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/tvheadend@4.2.8-r8?arch=loongarch64&distro=latest-stable
+- pkg:apk/alpine/tvheadend@4.2.8-r8?arch=riscv64&distro=latest-stable

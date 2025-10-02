@@ -15,3 +15,4 @@
 - pkg:apk/alpine/totem-video-thumbnailer@43.2-r2?arch=loongarch64&distro=edge
 - pkg:apk/alpine/totem-video-thumbnailer@43.2-r2?arch=riscv64&distro=edge
 - pkg:apk/alpine/totem-video-thumbnailer@43.2-r0?arch=loongarch64&distro=latest-stable
+- pkg:apk/alpine/totem-video-thumbnailer@43.2-r0?arch=riscv64&distro=latest-stable

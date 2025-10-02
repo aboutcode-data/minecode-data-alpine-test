@@ -15,3 +15,4 @@
 - pkg:apk/alpine/perl-crypt-openssl-rsa@0.35-r0?arch=loongarch64&distro=edge
 - pkg:apk/alpine/perl-crypt-openssl-rsa@0.35-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/perl-crypt-openssl-rsa@0.33-r4?arch=loongarch64&distro=latest-stable
+- pkg:apk/alpine/perl-crypt-openssl-rsa@0.33-r4?arch=riscv64&distro=latest-stable

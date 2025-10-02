@@ -16,3 +16,4 @@
 - pkg:apk/alpine/postgresql-uint@1.20231206-r1?arch=riscv64&distro=edge
 - pkg:apk/alpine/postgresql-uint@1.20231206-r1?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/postgresql-uint@1.20231206-r1?arch=riscv64&distro=latest-stable
+- pkg:apk/alpine/postgresql-uint@1.20200704-r2?arch=aarch64&distro=v3.15

@@ -96,3 +96,4 @@
 - pkg:apk/alpine/font-screen-cyrillic@1.0.5-r1?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/font-screen-cyrillic@1.0.1-r2?arch=armhf&distro=v3.2
 - pkg:apk/alpine/font-screen-cyrillic@1.0.1-r2?arch=x86&distro=v3.2
+- pkg:apk/alpine/font-screen-cyrillic@1.0.1-r2?arch=x86_64&distro=v3.2

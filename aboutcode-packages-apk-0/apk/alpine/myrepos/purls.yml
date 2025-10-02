@@ -96,3 +96,4 @@
 - pkg:apk/alpine/myrepos@1.20180726-r1?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/myrepos@1.20150503-r0?arch=armhf&distro=v3.2
 - pkg:apk/alpine/myrepos@1.20150503-r0?arch=x86&distro=v3.2
+- pkg:apk/alpine/myrepos@1.20150503-r0?arch=x86_64&distro=v3.2

@@ -16,3 +16,4 @@
 - pkg:apk/alpine/capnproto@1.2.0-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/capnproto@1.1.0-r0?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/capnproto@1.1.0-r0?arch=riscv64&distro=latest-stable
+- pkg:apk/alpine/capnproto@0.8.0-r1?arch=aarch64&distro=v3.14

@@ -49,3 +49,4 @@
 - pkg:apk/alpine/perl-net-ipv4addr-doc@0.10-r4?arch=s390x&distro=v3.13
 - pkg:apk/alpine/perl-net-ipv4addr-doc@0.10-r4?arch=x86&distro=v3.13
 - pkg:apk/alpine/perl-net-ipv4addr-doc@0.10-r4?arch=x86_64&distro=v3.13
+- pkg:apk/alpine/perl-net-ipv4addr-doc@0.10-r4?arch=aarch64&distro=v3.14

@@ -53,3 +53,4 @@
 - pkg:apk/alpine/libutempter@1.2.1-r3?arch=ppc64le&distro=v3.15
 - pkg:apk/alpine/libutempter@1.2.1-r3?arch=s390x&distro=v3.15
 - pkg:apk/alpine/libutempter@1.2.1-r3?arch=x86&distro=v3.15
+- pkg:apk/alpine/libutempter@1.2.1-r3?arch=x86_64&distro=v3.15

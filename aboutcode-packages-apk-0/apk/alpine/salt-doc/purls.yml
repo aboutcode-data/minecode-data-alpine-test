@@ -55,3 +55,4 @@
 - pkg:apk/alpine/salt-doc@3004-r0?arch=ppc64le&distro=v3.15
 - pkg:apk/alpine/salt-doc@3004-r0?arch=x86&distro=v3.15
 - pkg:apk/alpine/salt-doc@3004-r0?arch=x86_64&distro=v3.15
+- pkg:apk/alpine/salt-doc@3004.2-r1?arch=aarch64&distro=v3.16

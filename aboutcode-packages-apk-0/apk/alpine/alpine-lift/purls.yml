@@ -1,1 +1,2 @@
 - pkg:apk/alpine/alpine-lift@0.2.0-r26?arch=aarch64&distro=edge
+- pkg:apk/alpine/alpine-lift@0.2.0-r26?arch=armhf&distro=edge

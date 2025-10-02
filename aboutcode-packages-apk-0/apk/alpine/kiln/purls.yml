@@ -54,3 +54,4 @@
 - pkg:apk/alpine/kiln@0.4.0-r5?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/kiln@0.4.0-r11?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/kiln@0.4.0-r11?arch=armhf&distro=v3.18
+- pkg:apk/alpine/kiln@0.4.0-r11?arch=armv7&distro=v3.18

@@ -16,3 +16,4 @@
 - pkg:apk/alpine/lxc-libs@6.0.5-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/lxc-libs@6.0.4-r0?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/lxc-libs@6.0.4-r0?arch=riscv64&distro=latest-stable
+- pkg:apk/alpine/lxc-libs@1.0.6-r2?arch=x86&distro=v3.0

@@ -16,3 +16,4 @@
 - pkg:apk/alpine/dropbear@2025.88-r1?arch=riscv64&distro=edge
 - pkg:apk/alpine/dropbear@2025.88-r1?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/dropbear@2025.88-r1?arch=riscv64&distro=latest-stable
+- pkg:apk/alpine/dropbear@2013.58-r0?arch=x86&distro=v3.0

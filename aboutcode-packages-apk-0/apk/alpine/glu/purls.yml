@@ -16,3 +16,4 @@
 - pkg:apk/alpine/glu@9.0.3-r4?arch=riscv64&distro=edge
 - pkg:apk/alpine/glu@9.0.3-r4?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/glu@9.0.3-r4?arch=riscv64&distro=latest-stable
+- pkg:apk/alpine/glu@9.0.0-r2?arch=x86&distro=v3.0

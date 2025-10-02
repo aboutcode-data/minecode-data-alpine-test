@@ -68,3 +68,4 @@
 - pkg:apk/alpine/ucspi-tcp6-doc@1.05-r0?arch=s390x&distro=v3.16
 - pkg:apk/alpine/ucspi-tcp6-doc@1.05-r0?arch=x86&distro=v3.16
 - pkg:apk/alpine/ucspi-tcp6-doc@1.05-r0?arch=x86_64&distro=v3.16
+- pkg:apk/alpine/ucspi-tcp6-doc@1.05-r2?arch=aarch64&distro=v3.17

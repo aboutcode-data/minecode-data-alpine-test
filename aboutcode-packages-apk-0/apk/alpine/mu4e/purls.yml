@@ -52,3 +52,4 @@
 - pkg:apk/alpine/mu4e@1.10.8-r0?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/mu4e@1.10.8-r0?arch=armhf&distro=v3.19
 - pkg:apk/alpine/mu4e@1.10.8-r0?arch=armv7&distro=v3.19
+- pkg:apk/alpine/mu4e@1.10.8-r0?arch=ppc64le&distro=v3.19

@@ -66,3 +66,4 @@
 - pkg:apk/alpine/net-tools@1.60_git20140218-r2?arch=s390x&distro=v3.15
 - pkg:apk/alpine/net-tools@1.60_git20140218-r2?arch=x86&distro=v3.15
 - pkg:apk/alpine/net-tools@1.60_git20140218-r2?arch=x86_64&distro=v3.15
+- pkg:apk/alpine/net-tools@2.10-r0?arch=aarch64&distro=v3.16

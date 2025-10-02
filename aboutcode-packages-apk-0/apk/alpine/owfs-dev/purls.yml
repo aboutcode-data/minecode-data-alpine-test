@@ -15,3 +15,4 @@
 - pkg:apk/alpine/owfs-dev@3.2_p4-r1?arch=loongarch64&distro=edge
 - pkg:apk/alpine/owfs-dev@3.2_p4-r1?arch=riscv64&distro=edge
 - pkg:apk/alpine/owfs-dev@3.2_p4-r1?arch=loongarch64&distro=latest-stable
+- pkg:apk/alpine/owfs-dev@3.2_p4-r1?arch=riscv64&distro=latest-stable

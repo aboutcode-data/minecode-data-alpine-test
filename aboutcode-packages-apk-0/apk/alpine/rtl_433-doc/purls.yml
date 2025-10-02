@@ -31,3 +31,4 @@
 - pkg:apk/alpine/rtl_433-doc@21.12-r3?arch=x86&distro=v3.17
 - pkg:apk/alpine/rtl_433-doc@21.12-r3?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/rtl_433-doc@22.11-r1?arch=aarch64&distro=v3.18
+- pkg:apk/alpine/rtl_433-doc@22.11-r1?arch=armhf&distro=v3.18

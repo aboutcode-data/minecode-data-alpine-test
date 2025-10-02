@@ -22,3 +22,4 @@
 - pkg:apk/alpine/traefik@2.9.4-r5?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/traefik@2.10.4-r4?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/traefik@2.10.4-r4?arch=x86_64&distro=v3.18
+- pkg:apk/alpine/traefik@2.10.6-r3?arch=aarch64&distro=v3.19

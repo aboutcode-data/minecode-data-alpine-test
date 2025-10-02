@@ -16,3 +16,4 @@
 - pkg:apk/alpine/perl-class-method-modifiers@2.15-r2?arch=riscv64&distro=edge
 - pkg:apk/alpine/perl-class-method-modifiers@2.15-r1?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/perl-class-method-modifiers@2.15-r1?arch=riscv64&distro=latest-stable
+- pkg:apk/alpine/perl-class-method-modifiers@2.11-r0?arch=armhf&distro=v3.1

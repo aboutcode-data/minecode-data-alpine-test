@@ -78,3 +78,4 @@
 - pkg:apk/alpine/libzmf-doc@0.0.2-r17?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/libzmf-doc@0.0.2-r17?arch=armhf&distro=v3.18
 - pkg:apk/alpine/libzmf-doc@0.0.2-r17?arch=armv7&distro=v3.18
+- pkg:apk/alpine/libzmf-doc@0.0.2-r17?arch=ppc64le&distro=v3.18

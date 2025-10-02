@@ -44,3 +44,4 @@
 - pkg:apk/alpine/openssl-libs-static@1.1.1t-r2?arch=armv7&distro=v3.14
 - pkg:apk/alpine/openssl-libs-static@1.1.1l-r0?arch=mips64&distro=v3.14
 - pkg:apk/alpine/openssl-libs-static@1.1.1t-r2?arch=ppc64le&distro=v3.14
+- pkg:apk/alpine/openssl-libs-static@1.1.1t-r2?arch=s390x&distro=v3.14

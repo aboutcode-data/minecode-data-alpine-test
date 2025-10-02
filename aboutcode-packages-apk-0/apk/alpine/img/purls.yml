@@ -15,3 +15,4 @@
 - pkg:apk/alpine/img@0.5.11-r25?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/img@0.5.11-r25?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/img@0.5.11-r27?arch=aarch64&distro=v3.20
+- pkg:apk/alpine/img@0.5.11-r27?arch=x86_64&distro=v3.20

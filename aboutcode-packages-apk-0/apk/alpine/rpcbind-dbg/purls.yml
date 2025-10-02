@@ -16,3 +16,4 @@
 - pkg:apk/alpine/rpcbind-dbg@1.2.8-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/rpcbind-dbg@1.2.7-r0?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/rpcbind-dbg@1.2.7-r0?arch=riscv64&distro=latest-stable
+- pkg:apk/alpine/rpcbind-dbg@0.2.3_rc2-r1?arch=armhf&distro=v3.1

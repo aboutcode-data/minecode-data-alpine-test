@@ -88,3 +88,4 @@
 - pkg:apk/alpine/tinyssh-openrc@20230101-r3?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/tinyssh-openrc@20240101-r1?arch=aarch64&distro=v3.20
 - pkg:apk/alpine/tinyssh-openrc@20240101-r1?arch=armhf&distro=v3.20
+- pkg:apk/alpine/tinyssh-openrc@20240101-r1?arch=armv7&distro=v3.20

@@ -16,3 +16,4 @@
 - pkg:apk/alpine/maturin-zsh-completion@1.8.3-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/maturin-zsh-completion@1.8.3-r0?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/maturin-zsh-completion@1.8.3-r0?arch=riscv64&distro=latest-stable
+- pkg:apk/alpine/maturin-zsh-completion@0.12.16-r0?arch=aarch64&distro=v3.16

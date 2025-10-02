@@ -16,3 +16,4 @@
 - pkg:apk/alpine/cosign-bash-completion@2.4.3-r6?arch=riscv64&distro=edge
 - pkg:apk/alpine/cosign-bash-completion@2.4.3-r5?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/cosign-bash-completion@2.4.3-r5?arch=riscv64&distro=latest-stable
+- pkg:apk/alpine/cosign-bash-completion@1.10.1-r2?arch=aarch64&distro=v3.16

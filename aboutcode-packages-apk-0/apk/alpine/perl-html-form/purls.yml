@@ -21,3 +21,4 @@
 - pkg:apk/alpine/perl-html-form@6.03-r0?arch=armhf&distro=v3.1
 - pkg:apk/alpine/perl-html-form@6.07-r0?arch=aarch64&distro=v3.12
 - pkg:apk/alpine/perl-html-form@6.07-r0?arch=armhf&distro=v3.12
+- pkg:apk/alpine/perl-html-form@6.07-r0?arch=armv7&distro=v3.12

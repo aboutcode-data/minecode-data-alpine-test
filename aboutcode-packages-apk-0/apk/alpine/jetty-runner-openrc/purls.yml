@@ -54,3 +54,4 @@
 - pkg:apk/alpine/jetty-runner-openrc@9.4.15.20190215-r10?arch=armv7&distro=v3.15
 - pkg:apk/alpine/jetty-runner-openrc@9.4.15.20190215-r10?arch=ppc64le&distro=v3.15
 - pkg:apk/alpine/jetty-runner-openrc@9.4.15.20190215-r10?arch=s390x&distro=v3.15
+- pkg:apk/alpine/jetty-runner-openrc@9.4.15.20190215-r10?arch=x86&distro=v3.15

@@ -55,3 +55,4 @@
 - pkg:apk/alpine/gtk%2B@2.24.31-r1?arch=s390x&distro=v3.16
 - pkg:apk/alpine/gtk%2B@2.24.31-r1?arch=x86&distro=v3.16
 - pkg:apk/alpine/gtk%2B@2.24.31-r1?arch=x86_64&distro=v3.16
+- pkg:apk/alpine/gtk%2B@2.24-r1?arch=armhf&distro=v3.2

@@ -94,3 +94,4 @@
 - pkg:apk/alpine/nss@3.99-r0?arch=s390x&distro=v3.19
 - pkg:apk/alpine/nss@3.99-r0?arch=x86&distro=v3.19
 - pkg:apk/alpine/nss@3.99-r0?arch=x86_64&distro=v3.19
+- pkg:apk/alpine/nss@3.19.2.3-r0?arch=armhf&distro=v3.2

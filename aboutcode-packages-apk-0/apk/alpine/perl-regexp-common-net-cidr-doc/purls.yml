@@ -94,3 +94,4 @@
 - pkg:apk/alpine/perl-regexp-common-net-cidr-doc@0.03-r3?arch=s390x&distro=v3.19
 - pkg:apk/alpine/perl-regexp-common-net-cidr-doc@0.03-r3?arch=x86&distro=v3.19
 - pkg:apk/alpine/perl-regexp-common-net-cidr-doc@0.03-r3?arch=x86_64&distro=v3.19
+- pkg:apk/alpine/perl-regexp-common-net-cidr-doc@0.02-r0?arch=armhf&distro=v3.2

@@ -94,3 +94,4 @@
 - pkg:apk/alpine/apache-mod-auth-ntlm-winbind@0.1-r8?arch=s390x&distro=v3.19
 - pkg:apk/alpine/apache-mod-auth-ntlm-winbind@0.1-r8?arch=x86&distro=v3.19
 - pkg:apk/alpine/apache-mod-auth-ntlm-winbind@0.1-r8?arch=x86_64&distro=v3.19
+- pkg:apk/alpine/apache-mod-auth-ntlm-winbind@0.1-r6?arch=armhf&distro=v3.2

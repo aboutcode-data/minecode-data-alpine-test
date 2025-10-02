@@ -47,3 +47,4 @@
 - pkg:apk/alpine/grub-mkfont@2.06-r8?arch=x86&distro=v3.17
 - pkg:apk/alpine/grub-mkfont@2.06-r8?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/grub-mkfont@2.06-r12?arch=aarch64&distro=v3.18
+- pkg:apk/alpine/grub-mkfont@2.06-r12?arch=armhf&distro=v3.18

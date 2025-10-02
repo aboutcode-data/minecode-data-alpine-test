@@ -15,3 +15,4 @@
 - pkg:apk/alpine/gnome-console@49.0-r0?arch=loongarch64&distro=edge
 - pkg:apk/alpine/gnome-console@49.0-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/gnome-console@48.1-r0?arch=loongarch64&distro=latest-stable
+- pkg:apk/alpine/gnome-console@48.1-r0?arch=riscv64&distro=latest-stable

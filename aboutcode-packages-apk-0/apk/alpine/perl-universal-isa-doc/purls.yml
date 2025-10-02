@@ -75,3 +75,4 @@
 - pkg:apk/alpine/perl-universal-isa-doc@1.20171012-r2?arch=s390x&distro=v3.18
 - pkg:apk/alpine/perl-universal-isa-doc@1.20171012-r2?arch=x86&distro=v3.18
 - pkg:apk/alpine/perl-universal-isa-doc@1.20171012-r2?arch=x86_64&distro=v3.18
+- pkg:apk/alpine/perl-universal-isa-doc@1.20171012-r3?arch=aarch64&distro=v3.19

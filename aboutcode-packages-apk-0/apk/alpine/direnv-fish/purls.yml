@@ -46,3 +46,4 @@
 - pkg:apk/alpine/direnv-fish@2.32.1-r9?arch=x86&distro=v3.17
 - pkg:apk/alpine/direnv-fish@2.32.1-r9?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/direnv-fish@2.32.2-r10?arch=aarch64&distro=v3.18
+- pkg:apk/alpine/direnv-fish@2.32.2-r10?arch=armhf&distro=v3.18

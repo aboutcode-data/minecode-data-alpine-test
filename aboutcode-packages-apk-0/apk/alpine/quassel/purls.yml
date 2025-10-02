@@ -82,3 +82,4 @@
 - pkg:apk/alpine/quassel@0.14.0-r11?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/quassel@0.14.0-r14?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/quassel@0.14.0-r14?arch=armhf&distro=v3.18
+- pkg:apk/alpine/quassel@0.14.0-r14?arch=armv7&distro=v3.18

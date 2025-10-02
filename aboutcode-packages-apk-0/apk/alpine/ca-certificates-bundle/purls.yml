@@ -16,3 +16,4 @@
 - pkg:apk/alpine/ca-certificates-bundle@20250619-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/ca-certificates-bundle@20250619-r0?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/ca-certificates-bundle@20250619-r0?arch=riscv64&distro=latest-stable
+- pkg:apk/alpine/ca-certificates-bundle@20220614-r0?arch=aarch64&distro=v3.12

@@ -60,3 +60,4 @@
 - pkg:apk/alpine/libmspub-dev@0.1.4-r10?arch=ppc64le&distro=v3.15
 - pkg:apk/alpine/libmspub-dev@0.1.4-r10?arch=s390x&distro=v3.15
 - pkg:apk/alpine/libmspub-dev@0.1.4-r10?arch=x86&distro=v3.15
+- pkg:apk/alpine/libmspub-dev@0.1.4-r10?arch=x86_64&distro=v3.15

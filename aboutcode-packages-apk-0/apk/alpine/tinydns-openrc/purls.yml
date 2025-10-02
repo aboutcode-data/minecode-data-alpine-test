@@ -27,3 +27,4 @@
 - pkg:apk/alpine/tinydns-openrc@1.05-r53?arch=armhf&distro=v3.20
 - pkg:apk/alpine/tinydns-openrc@1.05-r53?arch=armv7&distro=v3.20
 - pkg:apk/alpine/tinydns-openrc@1.05-r53?arch=ppc64le&distro=v3.20
+- pkg:apk/alpine/tinydns-openrc@1.05-r53?arch=riscv64&distro=v3.20

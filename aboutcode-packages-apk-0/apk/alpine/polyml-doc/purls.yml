@@ -14,3 +14,4 @@
 - pkg:apk/alpine/polyml-doc@5.9.1-r2?arch=riscv64&distro=edge
 - pkg:apk/alpine/polyml-doc@5.9.1-r1?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/polyml-doc@5.9.1-r1?arch=riscv64&distro=latest-stable
+- pkg:apk/alpine/polyml-doc@5.9-r0?arch=aarch64&distro=v3.18

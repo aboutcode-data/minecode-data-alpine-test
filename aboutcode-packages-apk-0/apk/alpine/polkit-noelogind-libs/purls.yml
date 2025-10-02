@@ -16,3 +16,4 @@
 - pkg:apk/alpine/polkit-noelogind-libs@126-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/polkit-noelogind-libs@126-r0?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/polkit-noelogind-libs@126-r0?arch=riscv64&distro=latest-stable
+- pkg:apk/alpine/polkit-noelogind-libs@122-r5?arch=aarch64&distro=v3.18

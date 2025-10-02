@@ -52,3 +52,4 @@
 - pkg:apk/alpine/prometheus-snmp-exporter@0.20.0-r16?arch=s390x&distro=v3.17
 - pkg:apk/alpine/prometheus-snmp-exporter@0.20.0-r16?arch=x86&distro=v3.17
 - pkg:apk/alpine/prometheus-snmp-exporter@0.20.0-r16?arch=x86_64&distro=v3.17
+- pkg:apk/alpine/prometheus-snmp-exporter@0.21.0-r8?arch=aarch64&distro=v3.18

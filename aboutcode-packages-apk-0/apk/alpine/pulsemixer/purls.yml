@@ -61,3 +61,4 @@
 - pkg:apk/alpine/pulsemixer@1.5.1-r3?arch=s390x&distro=v3.17
 - pkg:apk/alpine/pulsemixer@1.5.1-r3?arch=x86&distro=v3.17
 - pkg:apk/alpine/pulsemixer@1.5.1-r3?arch=x86_64&distro=v3.17
+- pkg:apk/alpine/pulsemixer@1.5.1-r4?arch=aarch64&distro=v3.18

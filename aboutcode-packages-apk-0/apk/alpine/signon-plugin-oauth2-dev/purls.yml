@@ -19,3 +19,4 @@
 - pkg:apk/alpine/signon-plugin-oauth2-dev@0.24-r1?arch=aarch64&distro=v3.12
 - pkg:apk/alpine/signon-plugin-oauth2-dev@0.24-r1?arch=armhf&distro=v3.12
 - pkg:apk/alpine/signon-plugin-oauth2-dev@0.24-r1?arch=armv7&distro=v3.12
+- pkg:apk/alpine/signon-plugin-oauth2-dev@0.24-r1?arch=mips64&distro=v3.12

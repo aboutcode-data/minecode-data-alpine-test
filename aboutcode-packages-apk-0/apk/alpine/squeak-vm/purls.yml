@@ -1,1 +1,2 @@
 - pkg:apk/alpine/squeak-vm@4.10.2.2614-r1?arch=armv7&distro=edge
+- pkg:apk/alpine/squeak-vm@4.10.2.2614-r1?arch=s390x&distro=edge

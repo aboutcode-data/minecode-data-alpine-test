@@ -22,3 +22,4 @@
 - pkg:apk/alpine/py3-awscrt-pyc@0.20.2-r0?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/py3-awscrt-pyc@0.20.3-r1?arch=aarch64&distro=v3.20
 - pkg:apk/alpine/py3-awscrt-pyc@0.20.3-r1?arch=riscv64&distro=v3.20
+- pkg:apk/alpine/py3-awscrt-pyc@0.20.3-r1?arch=x86&distro=v3.20

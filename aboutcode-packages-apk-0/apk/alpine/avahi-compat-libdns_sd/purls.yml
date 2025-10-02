@@ -87,3 +87,4 @@
 - pkg:apk/alpine/avahi-compat-libdns_sd@0.8-r13?arch=s390x&distro=v3.18
 - pkg:apk/alpine/avahi-compat-libdns_sd@0.8-r13?arch=x86&distro=v3.18
 - pkg:apk/alpine/avahi-compat-libdns_sd@0.8-r13?arch=x86_64&distro=v3.18
+- pkg:apk/alpine/avahi-compat-libdns_sd@0.8-r16?arch=aarch64&distro=v3.19

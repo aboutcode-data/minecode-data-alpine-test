@@ -16,3 +16,4 @@
 - pkg:apk/alpine/dconf-editor-bash-completion@49.0-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/dconf-editor-bash-completion@45.0.1-r1?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/dconf-editor-bash-completion@45.0.1-r1?arch=riscv64&distro=latest-stable
+- pkg:apk/alpine/dconf-editor-bash-completion@3.38.3-r2?arch=aarch64&distro=v3.16

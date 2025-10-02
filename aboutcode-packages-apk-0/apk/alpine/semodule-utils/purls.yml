@@ -16,3 +16,4 @@
 - pkg:apk/alpine/semodule-utils@3.9-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/semodule-utils@3.7-r0?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/semodule-utils@3.7-r0?arch=riscv64&distro=latest-stable
+- pkg:apk/alpine/semodule-utils@3.3-r1?arch=aarch64&distro=v3.16

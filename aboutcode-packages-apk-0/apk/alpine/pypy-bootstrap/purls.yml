@@ -1,1 +1,2 @@
 - pkg:apk/alpine/pypy-bootstrap@7.3.12-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/pypy-bootstrap@7.3.12-r0?arch=ppc64le&distro=edge

@@ -62,3 +62,4 @@
 - pkg:apk/alpine/encfs-doc@1.9.5-r12?arch=x86&distro=v3.15
 - pkg:apk/alpine/encfs-doc@1.9.5-r12?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/encfs-doc@1.9.5-r14?arch=aarch64&distro=v3.16
+- pkg:apk/alpine/encfs-doc@1.9.5-r14?arch=armhf&distro=v3.16

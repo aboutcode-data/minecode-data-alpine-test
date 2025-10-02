@@ -65,3 +65,4 @@
 - pkg:apk/alpine/aws-cli-bash-completion@2.15.57-r0?arch=aarch64&distro=v3.20
 - pkg:apk/alpine/aws-cli-bash-completion@2.15.57-r0?arch=riscv64&distro=v3.20
 - pkg:apk/alpine/aws-cli-bash-completion@2.15.57-r0?arch=x86_64&distro=v3.20
+- pkg:apk/alpine/aws-cli-bash-completion@2.22.10-r0?arch=aarch64&distro=v3.21

@@ -12,3 +12,4 @@
 - pkg:apk/alpine/texlive-dbg@20240210.69778-r10?arch=loongarch64&distro=edge
 - pkg:apk/alpine/texlive-dbg@20240210.69778-r10?arch=riscv64&distro=edge
 - pkg:apk/alpine/texlive-dbg@20220403.62885-r2?arch=aarch64&distro=v3.16
+- pkg:apk/alpine/texlive-dbg@20220403.62885-r2?arch=armhf&distro=v3.16

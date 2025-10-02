@@ -94,3 +94,4 @@
 - pkg:apk/alpine/perl-list-allutils@0.19-r2?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/perl-list-allutils@0.09-r0?arch=armhf&distro=v3.2
 - pkg:apk/alpine/perl-list-allutils@0.09-r0?arch=x86&distro=v3.2
+- pkg:apk/alpine/perl-list-allutils@0.09-r0?arch=x86_64&distro=v3.2

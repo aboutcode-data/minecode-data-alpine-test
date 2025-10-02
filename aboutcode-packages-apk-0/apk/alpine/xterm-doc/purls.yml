@@ -15,3 +15,4 @@
 - pkg:apk/alpine/xterm-doc@402-r0?arch=loongarch64&distro=edge
 - pkg:apk/alpine/xterm-doc@402-r0?arch=riscv64&distro=edge
 - pkg:apk/alpine/xterm-doc@399-r0?arch=loongarch64&distro=latest-stable
+- pkg:apk/alpine/xterm-doc@399-r0?arch=riscv64&distro=latest-stable

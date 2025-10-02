@@ -41,3 +41,4 @@
 - pkg:apk/alpine/dep@0.5.4-r6?arch=x86&distro=v3.15
 - pkg:apk/alpine/dep@0.5.4-r6?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/dep@0.5.4-r12?arch=aarch64&distro=v3.16
+- pkg:apk/alpine/dep@0.5.4-r12?arch=armhf&distro=v3.16

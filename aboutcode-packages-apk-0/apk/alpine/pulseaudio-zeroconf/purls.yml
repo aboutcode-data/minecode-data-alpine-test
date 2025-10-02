@@ -37,3 +37,4 @@
 - pkg:apk/alpine/pulseaudio-zeroconf@13.0-r10?arch=s390x&distro=v3.12
 - pkg:apk/alpine/pulseaudio-zeroconf@13.0-r10?arch=x86&distro=v3.12
 - pkg:apk/alpine/pulseaudio-zeroconf@13.0-r10?arch=x86_64&distro=v3.12
+- pkg:apk/alpine/pulseaudio-zeroconf@14.1-r0?arch=aarch64&distro=v3.13

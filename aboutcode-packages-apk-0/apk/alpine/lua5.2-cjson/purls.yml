@@ -51,3 +51,4 @@
 - pkg:apk/alpine/lua5.2-cjson@2.1.0-r9?arch=s390x&distro=v3.13
 - pkg:apk/alpine/lua5.2-cjson@2.1.0-r9?arch=x86&distro=v3.13
 - pkg:apk/alpine/lua5.2-cjson@2.1.0-r9?arch=x86_64&distro=v3.13
+- pkg:apk/alpine/lua5.2-cjson@2.1.0-r10?arch=aarch64&distro=v3.14

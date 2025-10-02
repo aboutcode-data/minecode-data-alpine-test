@@ -31,3 +31,4 @@
 - pkg:apk/alpine/xwayland-dbg@21.1.2-r1?arch=s390x&distro=v3.15
 - pkg:apk/alpine/xwayland-dbg@21.1.2-r1?arch=x86&distro=v3.15
 - pkg:apk/alpine/xwayland-dbg@21.1.2-r1?arch=x86_64&distro=v3.15
+- pkg:apk/alpine/xwayland-dbg@22.1.1-r0?arch=aarch64&distro=v3.16

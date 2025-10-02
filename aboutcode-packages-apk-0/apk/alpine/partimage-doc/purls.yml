@@ -81,3 +81,4 @@
 - pkg:apk/alpine/partimage-doc@0.6.9-r13?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/partimage-doc@0.6.9-r13?arch=armhf&distro=v3.18
 - pkg:apk/alpine/partimage-doc@0.6.9-r13?arch=armv7&distro=v3.18
+- pkg:apk/alpine/partimage-doc@0.6.9-r13?arch=ppc64le&distro=v3.18

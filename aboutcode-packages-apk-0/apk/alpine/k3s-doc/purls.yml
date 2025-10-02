@@ -45,3 +45,4 @@
 - pkg:apk/alpine/k3s-doc@1.23.12.1-r0?arch=s390x&distro=v3.16
 - pkg:apk/alpine/k3s-doc@1.23.12.1-r0?arch=x86&distro=v3.16
 - pkg:apk/alpine/k3s-doc@1.23.12.1-r0?arch=x86_64&distro=v3.16
+- pkg:apk/alpine/k3s-doc@1.25.4.1-r5?arch=aarch64&distro=v3.17

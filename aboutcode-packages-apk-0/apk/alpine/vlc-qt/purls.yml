@@ -67,3 +67,4 @@
 - pkg:apk/alpine/vlc-qt@3.0.18-r8?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/vlc-qt@3.0.18-r8?arch=armv7&distro=v3.18
 - pkg:apk/alpine/vlc-qt@3.0.18-r8?arch=ppc64le&distro=v3.18
+- pkg:apk/alpine/vlc-qt@3.0.18-r8?arch=x86&distro=v3.18

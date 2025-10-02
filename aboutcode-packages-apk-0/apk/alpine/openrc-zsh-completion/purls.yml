@@ -42,3 +42,4 @@
 - pkg:apk/alpine/openrc-zsh-completion@0.42.1-r22?arch=armhf&distro=v3.13
 - pkg:apk/alpine/openrc-zsh-completion@0.42.1-r22?arch=armv7&distro=v3.13
 - pkg:apk/alpine/openrc-zsh-completion@0.42.1-r20?arch=mips64&distro=v3.13
+- pkg:apk/alpine/openrc-zsh-completion@0.42.1-r22?arch=ppc64le&distro=v3.13

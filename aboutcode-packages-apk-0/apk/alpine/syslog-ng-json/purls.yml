@@ -37,3 +37,4 @@
 - pkg:apk/alpine/syslog-ng-json@3.27.1-r0?arch=s390x&distro=v3.12
 - pkg:apk/alpine/syslog-ng-json@3.27.1-r0?arch=x86&distro=v3.12
 - pkg:apk/alpine/syslog-ng-json@3.27.1-r0?arch=x86_64&distro=v3.12
+- pkg:apk/alpine/syslog-ng-json@3.30.1-r0?arch=aarch64&distro=v3.13

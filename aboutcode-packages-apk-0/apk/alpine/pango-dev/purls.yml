@@ -96,3 +96,4 @@
 - pkg:apk/alpine/pango-dev@1.51.0-r0?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/pango-dev@1.36.8-r2?arch=armhf&distro=v3.2
 - pkg:apk/alpine/pango-dev@1.36.8-r2?arch=x86&distro=v3.2
+- pkg:apk/alpine/pango-dev@1.36.8-r2?arch=x86_64&distro=v3.2

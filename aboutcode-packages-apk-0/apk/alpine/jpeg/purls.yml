@@ -96,3 +96,4 @@
 - pkg:apk/alpine/jpeg@9e-r1?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/jpeg@8-r6?arch=armhf&distro=v3.2
 - pkg:apk/alpine/jpeg@8-r6?arch=x86&distro=v3.2
+- pkg:apk/alpine/jpeg@8-r6?arch=x86_64&distro=v3.2

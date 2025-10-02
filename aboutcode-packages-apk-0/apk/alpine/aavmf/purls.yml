@@ -4,3 +4,4 @@
 - pkg:apk/alpine/aavmf@0.0.202208-r0?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/aavmf@0.0.202302-r0?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/aavmf@0.0.202308-r0?arch=aarch64&distro=v3.19
+- pkg:apk/alpine/aavmf@0.0.202308-r1?arch=aarch64&distro=v3.20

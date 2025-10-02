@@ -87,3 +87,4 @@
 - pkg:apk/alpine/librsvg-dev@2.57.3-r0?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/librsvg-dev@2.40.12-r0?arch=armhf&distro=v3.2
 - pkg:apk/alpine/librsvg-dev@2.40.12-r0?arch=x86&distro=v3.2
+- pkg:apk/alpine/librsvg-dev@2.40.12-r0?arch=x86_64&distro=v3.2

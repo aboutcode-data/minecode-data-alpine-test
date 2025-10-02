@@ -7,3 +7,4 @@
 - pkg:apk/alpine/u-boot-libretech@2021.04-r0?arch=aarch64&distro=v3.14
 - pkg:apk/alpine/u-boot-libretech@2021.10-r5?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/u-boot-libretech@2022.04-r1?arch=aarch64&distro=v3.16
+- pkg:apk/alpine/u-boot-libretech@2022.10-r0?arch=aarch64&distro=v3.17

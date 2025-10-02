@@ -16,3 +16,4 @@
 - pkg:apk/alpine/py3-timeout-decorator@0.5.0-r4?arch=riscv64&distro=edge
 - pkg:apk/alpine/py3-timeout-decorator@0.5.0-r4?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/py3-timeout-decorator@0.5.0-r4?arch=riscv64&distro=latest-stable
+- pkg:apk/alpine/py3-timeout-decorator@0.5.0-r0?arch=aarch64&distro=v3.14

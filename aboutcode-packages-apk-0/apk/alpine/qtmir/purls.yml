@@ -1,1 +1,2 @@
 - pkg:apk/alpine/qtmir@0.7.2_git20250407-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/qtmir@0.7.2_git20250407-r3?arch=armv7&distro=edge

@@ -115,3 +115,4 @@
 - pkg:apk/alpine/perl-data-dump-doc@1.25-r1?arch=s390x&distro=v3.22
 - pkg:apk/alpine/perl-data-dump-doc@1.25-r1?arch=x86&distro=v3.22
 - pkg:apk/alpine/perl-data-dump-doc@1.25-r1?arch=x86_64&distro=v3.22
+- pkg:apk/alpine/perl-data-dump-doc@1.23-r0?arch=aarch64&distro=v3.5

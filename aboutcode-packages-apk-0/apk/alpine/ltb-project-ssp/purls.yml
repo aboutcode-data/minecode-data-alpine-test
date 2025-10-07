@@ -50,3 +50,4 @@
 - pkg:apk/alpine/ltb-project-ssp@0.8-r5?arch=armhf&distro=v3.4
 - pkg:apk/alpine/ltb-project-ssp@0.8-r5?arch=x86&distro=v3.4
 - pkg:apk/alpine/ltb-project-ssp@0.8-r5?arch=x86_64&distro=v3.4
+- pkg:apk/alpine/ltb-project-ssp@0.9-r0?arch=aarch64&distro=v3.5

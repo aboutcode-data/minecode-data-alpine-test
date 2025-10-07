@@ -115,3 +115,4 @@
 - pkg:apk/alpine/shadow-doc@4.17.3-r0?arch=s390x&distro=v3.22
 - pkg:apk/alpine/shadow-doc@4.17.3-r0?arch=x86&distro=v3.22
 - pkg:apk/alpine/shadow-doc@4.17.3-r0?arch=x86_64&distro=v3.22
+- pkg:apk/alpine/shadow-doc@4.2.1-r8?arch=aarch64&distro=v3.5

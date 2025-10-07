@@ -118,3 +118,4 @@
 - pkg:apk/alpine/perl-mime-base32@1.303-r3?arch=s390x&distro=v3.22
 - pkg:apk/alpine/perl-mime-base32@1.303-r3?arch=x86&distro=v3.22
 - pkg:apk/alpine/perl-mime-base32@1.303-r3?arch=x86_64&distro=v3.22
+- pkg:apk/alpine/perl-mime-base32@1.02a-r0?arch=aarch64&distro=v3.5

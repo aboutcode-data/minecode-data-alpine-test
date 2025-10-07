@@ -12,3 +12,4 @@
 - pkg:apk/alpine/minio@0.20250524.170830-r2?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/minio@0.20221029.062133-r5?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/minio@0.20221029.062133-r5?arch=ppc64le&distro=v3.17
+- pkg:apk/alpine/minio@0.20221029.062133-r5?arch=s390x&distro=v3.17

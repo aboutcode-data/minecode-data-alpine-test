@@ -12,3 +12,4 @@
 - pkg:apk/alpine/codeblocks-contrib@20.03-r8?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/codeblocks-contrib@20.03-r8?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/codeblocks-contrib@20.03-r8?arch=s390x&distro=latest-stable
+- pkg:apk/alpine/codeblocks-contrib@20.03-r8?arch=x86&distro=latest-stable

@@ -135,3 +135,4 @@
 - pkg:apk/alpine/polkit-lang@0.105-r8?arch=x86_64&distro=v3.6
 - pkg:apk/alpine/polkit-lang@0.105-r10?arch=aarch64&distro=v3.7
 - pkg:apk/alpine/polkit-lang@0.105-r10?arch=armhf&distro=v3.7
+- pkg:apk/alpine/polkit-lang@0.105-r10?arch=ppc64le&distro=v3.7

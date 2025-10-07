@@ -46,3 +46,4 @@
 - pkg:apk/alpine/apr-util-dbm_db@1.5.4-r3?arch=x86_64&distro=v3.6
 - pkg:apk/alpine/apr-util-dbm_db@1.6.1-r1?arch=aarch64&distro=v3.7
 - pkg:apk/alpine/apr-util-dbm_db@1.6.1-r1?arch=armhf&distro=v3.7
+- pkg:apk/alpine/apr-util-dbm_db@1.6.1-r1?arch=ppc64le&distro=v3.7

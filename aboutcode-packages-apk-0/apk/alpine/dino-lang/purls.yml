@@ -11,3 +11,4 @@
 - pkg:apk/alpine/dino-lang@0.5.0-r1?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/dino-lang@0.5.0-r1?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/dino-lang@0.5.0-r1?arch=loongarch64&distro=latest-stable
+- pkg:apk/alpine/dino-lang@0.5.0-r1?arch=riscv64&distro=latest-stable

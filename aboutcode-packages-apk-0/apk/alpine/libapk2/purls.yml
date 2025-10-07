@@ -8,3 +8,4 @@
 - pkg:apk/alpine/libapk2@2.14.9-r3?arch=x86&distro=latest-stable
 - pkg:apk/alpine/libapk2@2.14.9-r3?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/libapk2@2.14.9-r3?arch=aarch64&distro=v3.22
+- pkg:apk/alpine/libapk2@2.14.9-r3?arch=armhf&distro=v3.22

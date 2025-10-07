@@ -68,3 +68,4 @@
 - pkg:apk/alpine/numix-icon-theme-circle@22.11.05-r0?arch=s390x&distro=v3.17
 - pkg:apk/alpine/numix-icon-theme-circle@22.11.05-r0?arch=x86&distro=v3.17
 - pkg:apk/alpine/numix-icon-theme-circle@22.11.05-r0?arch=x86_64&distro=v3.17
+- pkg:apk/alpine/numix-icon-theme-circle@23.02.05-r0?arch=aarch64&distro=v3.18

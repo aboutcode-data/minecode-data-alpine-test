@@ -57,3 +57,4 @@
 - pkg:apk/alpine/perl-net-saml2@0.61-r0?arch=armhf&distro=v3.17
 - pkg:apk/alpine/perl-net-saml2@0.61-r0?arch=armv7&distro=v3.17
 - pkg:apk/alpine/perl-net-saml2@0.61-r0?arch=ppc64le&distro=v3.17
+- pkg:apk/alpine/perl-net-saml2@0.61-r0?arch=x86&distro=v3.17

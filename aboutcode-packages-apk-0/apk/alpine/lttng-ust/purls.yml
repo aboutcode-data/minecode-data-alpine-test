@@ -61,3 +61,4 @@
 - pkg:apk/alpine/lttng-ust@2.12.0-r3?arch=s390x&distro=v3.15
 - pkg:apk/alpine/lttng-ust@2.12.0-r3?arch=x86&distro=v3.15
 - pkg:apk/alpine/lttng-ust@2.12.0-r3?arch=x86_64&distro=v3.15
+- pkg:apk/alpine/lttng-ust@2.13.2-r0?arch=aarch64&distro=v3.16

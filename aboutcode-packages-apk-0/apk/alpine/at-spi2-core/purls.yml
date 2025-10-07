@@ -151,3 +151,4 @@
 - pkg:apk/alpine/at-spi2-core@2.26.2-r1?arch=s390x&distro=v3.8
 - pkg:apk/alpine/at-spi2-core@2.26.2-r1?arch=x86&distro=v3.8
 - pkg:apk/alpine/at-spi2-core@2.26.2-r1?arch=x86_64&distro=v3.8
+- pkg:apk/alpine/at-spi2-core@2.28.0-r0?arch=aarch64&distro=v3.9

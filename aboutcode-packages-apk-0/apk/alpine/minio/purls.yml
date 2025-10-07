@@ -1,1 +1,2 @@
 - pkg:apk/alpine/minio@0.20250907.161309-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/minio@0.20250907.161309-r0?arch=loongarch64&distro=edge

@@ -110,3 +110,4 @@
 - pkg:apk/alpine/networkmanager@1.52.1-r0?arch=x86&distro=v3.22
 - pkg:apk/alpine/networkmanager@1.52.1-r0?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/networkmanager@1.7.2-r0?arch=aarch64&distro=v3.6
+- pkg:apk/alpine/networkmanager@1.7.2-r0?arch=armhf&distro=v3.6

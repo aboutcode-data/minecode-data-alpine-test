@@ -19,3 +19,4 @@
 - pkg:apk/alpine/cryptsetup1-dev@1.7.5-r3?arch=x86&distro=v3.8
 - pkg:apk/alpine/cryptsetup1-dev@1.7.5-r3?arch=x86_64&distro=v3.8
 - pkg:apk/alpine/cryptsetup1-dev@1.7.5-r4?arch=aarch64&distro=v3.9
+- pkg:apk/alpine/cryptsetup1-dev@1.7.5-r4?arch=armhf&distro=v3.9

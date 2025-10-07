@@ -142,3 +142,4 @@
 - pkg:apk/alpine/xautolock-doc@2.2-r3?arch=s390x&distro=v3.8
 - pkg:apk/alpine/xautolock-doc@2.2-r3?arch=x86&distro=v3.8
 - pkg:apk/alpine/xautolock-doc@2.2-r3?arch=x86_64&distro=v3.8
+- pkg:apk/alpine/xautolock-doc@2.2-r4?arch=armhf&distro=v3.9

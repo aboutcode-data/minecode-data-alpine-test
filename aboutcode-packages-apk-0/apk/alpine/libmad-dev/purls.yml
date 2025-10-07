@@ -152,3 +152,4 @@
 - pkg:apk/alpine/libmad-dev@0.15.1b-r9?arch=x86&distro=v3.8
 - pkg:apk/alpine/libmad-dev@0.15.1b-r9?arch=x86_64&distro=v3.8
 - pkg:apk/alpine/libmad-dev@0.15.1b-r9?arch=aarch64&distro=v3.9
+- pkg:apk/alpine/libmad-dev@0.15.1b-r9?arch=armhf&distro=v3.9

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/apk-polkit-rs-lang@2.1.1-r5?arch=aarch64&distro=latest-stable
+- pkg:apk/alpine/apk-polkit-rs-lang@2.1.1-r5?arch=armhf&distro=latest-stable

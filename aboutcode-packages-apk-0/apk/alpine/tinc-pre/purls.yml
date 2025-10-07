@@ -77,3 +77,4 @@
 - pkg:apk/alpine/tinc-pre@1.1.15-r3?arch=ppc64le&distro=v3.8
 - pkg:apk/alpine/tinc-pre@1.1.15-r3?arch=x86&distro=v3.8
 - pkg:apk/alpine/tinc-pre@1.1.15-r3?arch=x86_64&distro=v3.8
+- pkg:apk/alpine/tinc-pre@1.1.15-r4?arch=aarch64&distro=v3.9

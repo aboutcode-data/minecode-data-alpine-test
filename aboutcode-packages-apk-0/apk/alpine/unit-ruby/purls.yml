@@ -118,3 +118,4 @@
 - pkg:apk/alpine/unit-ruby@1.2-r0?arch=aarch64&distro=v3.8
 - pkg:apk/alpine/unit-ruby@1.2-r0?arch=ppc64le&distro=v3.8
 - pkg:apk/alpine/unit-ruby@1.2-r0?arch=x86_64&distro=v3.8
+- pkg:apk/alpine/unit-ruby@1.6-r0?arch=aarch64&distro=v3.9

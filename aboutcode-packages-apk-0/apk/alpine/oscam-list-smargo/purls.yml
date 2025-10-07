@@ -151,3 +151,4 @@
 - pkg:apk/alpine/oscam-list-smargo@1.20_svn20170915-r2?arch=s390x&distro=v3.8
 - pkg:apk/alpine/oscam-list-smargo@1.20_svn20170915-r2?arch=x86&distro=v3.8
 - pkg:apk/alpine/oscam-list-smargo@1.20_svn20170915-r2?arch=x86_64&distro=v3.8
+- pkg:apk/alpine/oscam-list-smargo@1.20_svn20181106-r1?arch=aarch64&distro=v3.9

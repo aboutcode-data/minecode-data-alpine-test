@@ -141,3 +141,4 @@
 - pkg:apk/alpine/vigra@1.11.1-r0?arch=x86&distro=v3.7
 - pkg:apk/alpine/vigra@1.11.1-r0?arch=x86_64&distro=v3.7
 - pkg:apk/alpine/vigra@1.11.1-r0?arch=aarch64&distro=v3.8
+- pkg:apk/alpine/vigra@1.11.1-r0?arch=armhf&distro=v3.8

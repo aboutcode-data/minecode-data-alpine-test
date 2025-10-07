@@ -33,3 +33,4 @@
 - pkg:apk/alpine/omxplayer-dbg@0.20161004-r0?arch=armhf&distro=v3.5
 - pkg:apk/alpine/omxplayer-dbg@0.20161004-r1?arch=armhf&distro=v3.6
 - pkg:apk/alpine/omxplayer-dbg@0.20161017-r1?arch=armhf&distro=v3.7
+- pkg:apk/alpine/omxplayer-dbg@0.20180516-r0?arch=armhf&distro=v3.8

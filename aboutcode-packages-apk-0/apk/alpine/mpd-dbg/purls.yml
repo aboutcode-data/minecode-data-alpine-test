@@ -135,3 +135,4 @@
 - pkg:apk/alpine/mpd-dbg@0.20.11-r1?arch=x86_64&distro=v3.7
 - pkg:apk/alpine/mpd-dbg@0.20.20-r1?arch=aarch64&distro=v3.8
 - pkg:apk/alpine/mpd-dbg@0.20.20-r1?arch=armhf&distro=v3.8
+- pkg:apk/alpine/mpd-dbg@0.20.20-r1?arch=ppc64le&distro=v3.8

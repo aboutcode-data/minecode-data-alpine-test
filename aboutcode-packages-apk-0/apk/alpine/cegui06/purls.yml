@@ -32,3 +32,4 @@
 - pkg:apk/alpine/cegui06@0.6.2b-r12?arch=x86_64&distro=v3.5
 - pkg:apk/alpine/cegui06@0.6.2b-r12?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/cegui06@0.6.2b-r12?arch=armhf&distro=v3.6
+- pkg:apk/alpine/cegui06@0.6.2b-r12?arch=ppc64le&distro=v3.6

@@ -151,3 +151,4 @@
 - pkg:apk/alpine/cyrus-sasl-digestmd5@2.1.26-r15?arch=s390x&distro=v3.8
 - pkg:apk/alpine/cyrus-sasl-digestmd5@2.1.26-r15?arch=x86&distro=v3.8
 - pkg:apk/alpine/cyrus-sasl-digestmd5@2.1.26-r15?arch=x86_64&distro=v3.8
+- pkg:apk/alpine/cyrus-sasl-digestmd5@2.1.27-r2?arch=aarch64&distro=v3.9

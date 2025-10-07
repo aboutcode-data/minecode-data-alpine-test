@@ -133,3 +133,4 @@
 - pkg:apk/alpine/rtmpdump@2.4_git20160909-r1?arch=armhf&distro=v3.5
 - pkg:apk/alpine/rtmpdump@2.4_git20160909-r1?arch=x86&distro=v3.5
 - pkg:apk/alpine/rtmpdump@2.4_git20160909-r1?arch=x86_64&distro=v3.5
+- pkg:apk/alpine/rtmpdump@2.4_git20160909-r2?arch=aarch64&distro=v3.6

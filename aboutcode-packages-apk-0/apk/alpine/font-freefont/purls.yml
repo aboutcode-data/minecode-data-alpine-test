@@ -17,3 +17,4 @@
 - pkg:apk/alpine/font-freefont@20120503-r4?arch=x86&distro=latest-stable
 - pkg:apk/alpine/font-freefont@20120503-r4?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/font-freefont@20120503-r3?arch=aarch64&distro=v3.17
+- pkg:apk/alpine/font-freefont@20120503-r3?arch=armhf&distro=v3.17

@@ -73,3 +73,4 @@
 - pkg:apk/alpine/mg@20200723-r0?arch=x86&distro=v3.16
 - pkg:apk/alpine/mg@20200723-r0?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/mg@20221112-r0?arch=aarch64&distro=v3.17
+- pkg:apk/alpine/mg@20221112-r0?arch=armhf&distro=v3.17

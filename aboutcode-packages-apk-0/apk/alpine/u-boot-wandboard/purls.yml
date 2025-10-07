@@ -34,3 +34,4 @@
 - pkg:apk/alpine/u-boot-wandboard@2016.07-r2?arch=armhf&distro=v3.5
 - pkg:apk/alpine/u-boot-wandboard@2017.01-r2?arch=armhf&distro=v3.6
 - pkg:apk/alpine/u-boot-wandboard@2017.01-r2?arch=armhf&distro=v3.7
+- pkg:apk/alpine/u-boot-wandboard@2018.05-r1?arch=armhf&distro=v3.8

@@ -24,3 +24,4 @@
 - pkg:apk/alpine/py3-sphinx-inline-tabs@2020.10.19b4-r0?arch=s390x&distro=v3.13
 - pkg:apk/alpine/py3-sphinx-inline-tabs@2020.10.19b4-r0?arch=x86&distro=v3.13
 - pkg:apk/alpine/py3-sphinx-inline-tabs@2020.10.19b4-r0?arch=x86_64&distro=v3.13
+- pkg:apk/alpine/py3-sphinx-inline-tabs@2020.10.19b4-r2?arch=aarch64&distro=v3.14

@@ -11,3 +11,4 @@
 - pkg:apk/alpine/android-tools-bash-completion@35.0.2-r13?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/android-tools-bash-completion@35.0.2-r13?arch=x86&distro=latest-stable
 - pkg:apk/alpine/android-tools-bash-completion@35.0.2-r13?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/android-tools-bash-completion@31.0.0p1-r2?arch=aarch64&distro=v3.14

@@ -32,3 +32,4 @@
 - pkg:apk/alpine/raspberrypi-libs@0.20180511-r0?arch=aarch64&distro=v3.8
 - pkg:apk/alpine/raspberrypi-libs@0.20180511-r0?arch=armhf&distro=v3.8
 - pkg:apk/alpine/raspberrypi-libs@0.20181212-r0?arch=aarch64&distro=v3.9
+- pkg:apk/alpine/raspberrypi-libs@0.20181212-r0?arch=armhf&distro=v3.9

@@ -6,3 +6,5 @@
 - pkg:apk/alpine/wine-libs@4.0.3-r0?arch=x86_64&distro=v3.12
 - pkg:apk/alpine/wine-libs@4.0.3-r0?arch=x86&distro=v3.13
 - pkg:apk/alpine/wine-libs@4.0.3-r0?arch=x86_64&distro=v3.13
+- pkg:apk/alpine/wine-libs@1.8.2-r0?arch=x86&distro=v3.4
+- pkg:apk/alpine/wine-libs@1.8.2-r0?arch=x86_64&distro=v3.4

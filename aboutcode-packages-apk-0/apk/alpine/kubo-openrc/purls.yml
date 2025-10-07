@@ -17,3 +17,4 @@
 - pkg:apk/alpine/kubo-openrc@0.16.0-r6?arch=armv7&distro=v3.17
 - pkg:apk/alpine/kubo-openrc@0.16.0-r6?arch=x86&distro=v3.17
 - pkg:apk/alpine/kubo-openrc@0.16.0-r6?arch=x86_64&distro=v3.17
+- pkg:apk/alpine/kubo-openrc@0.19.2-r5?arch=aarch64&distro=v3.18

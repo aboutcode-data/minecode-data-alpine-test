@@ -97,3 +97,4 @@
 - pkg:apk/alpine/tesseract-ocr-data-swe@3.05.01-r2?arch=x86_64&distro=v3.7
 - pkg:apk/alpine/tesseract-ocr-data-swe@3.05.02-r0?arch=aarch64&distro=v3.8
 - pkg:apk/alpine/tesseract-ocr-data-swe@3.05.02-r0?arch=armhf&distro=v3.8
+- pkg:apk/alpine/tesseract-ocr-data-swe@3.05.02-r0?arch=ppc64le&distro=v3.8

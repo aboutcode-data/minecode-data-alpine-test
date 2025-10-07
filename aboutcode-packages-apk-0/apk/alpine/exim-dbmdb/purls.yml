@@ -129,3 +129,4 @@
 - pkg:apk/alpine/exim-dbmdb@4.90.1-r0?arch=x86_64&distro=v3.7
 - pkg:apk/alpine/exim-dbmdb@4.91-r2?arch=aarch64&distro=v3.8
 - pkg:apk/alpine/exim-dbmdb@4.91-r2?arch=armhf&distro=v3.8
+- pkg:apk/alpine/exim-dbmdb@4.91-r2?arch=ppc64le&distro=v3.8

@@ -22,3 +22,4 @@
 - pkg:apk/alpine/erlang-otp-mibs@20.1.7-r2?arch=x86_64&distro=v3.7
 - pkg:apk/alpine/erlang-otp-mibs@20.3.4-r0?arch=aarch64&distro=v3.8
 - pkg:apk/alpine/erlang-otp-mibs@20.3.4-r0?arch=armhf&distro=v3.8
+- pkg:apk/alpine/erlang-otp-mibs@20.3.4-r0?arch=ppc64le&distro=v3.8

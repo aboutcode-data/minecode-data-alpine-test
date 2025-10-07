@@ -136,3 +136,4 @@
 - pkg:apk/alpine/monitoring-plugins-doc@2.2-r6?arch=x86_64&distro=v3.7
 - pkg:apk/alpine/monitoring-plugins-doc@2.2-r8?arch=aarch64&distro=v3.8
 - pkg:apk/alpine/monitoring-plugins-doc@2.2-r8?arch=armhf&distro=v3.8
+- pkg:apk/alpine/monitoring-plugins-doc@2.2-r8?arch=ppc64le&distro=v3.8

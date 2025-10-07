@@ -133,3 +133,4 @@
 - pkg:apk/alpine/mate-system-monitor-doc@1.18.0-r2?arch=x86_64&distro=v3.7
 - pkg:apk/alpine/mate-system-monitor-doc@1.20.0-r0?arch=aarch64&distro=v3.8
 - pkg:apk/alpine/mate-system-monitor-doc@1.20.0-r0?arch=armhf&distro=v3.8
+- pkg:apk/alpine/mate-system-monitor-doc@1.20.0-r0?arch=ppc64le&distro=v3.8

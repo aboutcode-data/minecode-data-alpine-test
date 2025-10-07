@@ -6,3 +6,4 @@
 - pkg:apk/alpine/darktable-dbg@5.0.1-r1?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/darktable-dbg@5.0.1-r1?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/darktable-dbg@2.6.2-r0?arch=aarch64&distro=v3.10
+- pkg:apk/alpine/darktable-dbg@2.6.2-r0?arch=x86&distro=v3.10

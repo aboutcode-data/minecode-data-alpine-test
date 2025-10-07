@@ -17,3 +17,4 @@
 - pkg:apk/alpine/lua5.4-ossl@20220711-r3?arch=x86&distro=latest-stable
 - pkg:apk/alpine/lua5.4-ossl@20220711-r3?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/lua5.4-ossl@20200709-r2?arch=aarch64&distro=v3.14
+- pkg:apk/alpine/lua5.4-ossl@20200709-r2?arch=armhf&distro=v3.14

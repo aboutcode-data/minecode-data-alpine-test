@@ -1,1 +1,2 @@
 - pkg:apk/alpine/eww-dbg@0.4.0-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/eww-dbg@0.4.0-r1?arch=x86_64&distro=edge

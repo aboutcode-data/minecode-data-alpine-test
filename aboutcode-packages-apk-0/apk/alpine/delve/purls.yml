@@ -13,3 +13,4 @@
 - pkg:apk/alpine/delve@1.21.2-r3?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/delve@1.21.2-r3?arch=x86&distro=v3.19
 - pkg:apk/alpine/delve@1.21.2-r3?arch=x86_64&distro=v3.19
+- pkg:apk/alpine/delve@1.22.1-r5?arch=aarch64&distro=v3.20

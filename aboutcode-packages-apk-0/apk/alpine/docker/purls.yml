@@ -90,3 +90,4 @@
 - pkg:apk/alpine/docker@25.0.5-r1?arch=x86&distro=v3.19
 - pkg:apk/alpine/docker@25.0.5-r1?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/docker@1.6.2-r0?arch=x86_64&distro=v3.2
+- pkg:apk/alpine/docker@26.1.5-r0?arch=aarch64&distro=v3.20

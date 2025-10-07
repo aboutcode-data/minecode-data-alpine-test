@@ -2,3 +2,4 @@
 - pkg:apk/alpine/fscrypt@0.3.5-r12?arch=armhf&distro=edge
 - pkg:apk/alpine/fscrypt@0.3.5-r12?arch=armv7&distro=edge
 - pkg:apk/alpine/fscrypt@0.3.5-r12?arch=loongarch64&distro=edge
+- pkg:apk/alpine/fscrypt@0.3.5-r12?arch=riscv64&distro=edge

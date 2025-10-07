@@ -3,3 +3,4 @@
 - pkg:apk/alpine/android-tools-bash-completion@35.0.2-r16?arch=armv7&distro=edge
 - pkg:apk/alpine/android-tools-bash-completion@35.0.2-r16?arch=loongarch64&distro=edge
 - pkg:apk/alpine/android-tools-bash-completion@35.0.2-r16?arch=riscv64&distro=edge
+- pkg:apk/alpine/android-tools-bash-completion@35.0.2-r16?arch=x86&distro=edge

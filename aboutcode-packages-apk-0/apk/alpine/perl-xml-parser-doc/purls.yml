@@ -124,3 +124,4 @@
 - pkg:apk/alpine/perl-xml-parser-doc@2.47-r1?arch=x86&distro=v3.22
 - pkg:apk/alpine/perl-xml-parser-doc@2.47-r1?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/perl-xml-parser-doc@2.44-r1?arch=armhf&distro=v3.3
+- pkg:apk/alpine/perl-xml-parser-doc@2.44-r1?arch=x86&distro=v3.3

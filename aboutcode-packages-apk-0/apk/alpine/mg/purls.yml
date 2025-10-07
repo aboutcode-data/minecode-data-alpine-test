@@ -121,3 +121,4 @@
 - pkg:apk/alpine/mg@20250523-r0?arch=s390x&distro=v3.22
 - pkg:apk/alpine/mg@20250523-r0?arch=x86&distro=v3.22
 - pkg:apk/alpine/mg@20250523-r0?arch=x86_64&distro=v3.22
+- pkg:apk/alpine/mg@20140414-r3?arch=x86&distro=v3.3

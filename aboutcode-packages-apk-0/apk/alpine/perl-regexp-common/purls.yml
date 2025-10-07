@@ -124,3 +124,4 @@
 - pkg:apk/alpine/perl-regexp-common@2024080801-r0?arch=x86&distro=v3.22
 - pkg:apk/alpine/perl-regexp-common@2024080801-r0?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/perl-regexp-common@2013031301-r0?arch=armhf&distro=v3.3
+- pkg:apk/alpine/perl-regexp-common@2013031301-r0?arch=x86&distro=v3.3

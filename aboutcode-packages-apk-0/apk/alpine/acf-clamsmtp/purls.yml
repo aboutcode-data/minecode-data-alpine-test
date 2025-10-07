@@ -99,3 +99,4 @@
 - pkg:apk/alpine/acf-clamsmtp@0.6.0-r5?arch=loongarch64&distro=v3.21
 - pkg:apk/alpine/acf-clamsmtp@0.6.0-r5?arch=ppc64le&distro=v3.21
 - pkg:apk/alpine/acf-clamsmtp@0.6.0-r5?arch=riscv64&distro=v3.21
+- pkg:apk/alpine/acf-clamsmtp@0.6.0-r5?arch=x86&distro=v3.21

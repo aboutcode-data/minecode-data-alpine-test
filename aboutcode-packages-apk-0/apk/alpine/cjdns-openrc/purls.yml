@@ -66,3 +66,4 @@
 - pkg:apk/alpine/cjdns-openrc@22-r5?arch=armv7&distro=v3.22
 - pkg:apk/alpine/cjdns-openrc@22-r5?arch=x86&distro=v3.22
 - pkg:apk/alpine/cjdns-openrc@22-r5?arch=x86_64&distro=v3.22
+- pkg:apk/alpine/cjdns-openrc@20.2-r0?arch=aarch64&distro=v3.8

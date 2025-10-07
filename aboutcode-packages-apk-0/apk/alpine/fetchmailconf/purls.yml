@@ -138,3 +138,4 @@
 - pkg:apk/alpine/fetchmailconf@6.3.26-r12?arch=s390x&distro=v3.7
 - pkg:apk/alpine/fetchmailconf@6.3.26-r12?arch=x86&distro=v3.7
 - pkg:apk/alpine/fetchmailconf@6.3.26-r12?arch=x86_64&distro=v3.7
+- pkg:apk/alpine/fetchmailconf@6.3.26-r13?arch=aarch64&distro=v3.8

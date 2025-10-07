@@ -1,1 +1,2 @@
 - pkg:apk/alpine/lld18-doc@18.1.8-r1?arch=aarch64&distro=latest-stable
+- pkg:apk/alpine/lld18-doc@18.1.8-r1?arch=armhf&distro=latest-stable

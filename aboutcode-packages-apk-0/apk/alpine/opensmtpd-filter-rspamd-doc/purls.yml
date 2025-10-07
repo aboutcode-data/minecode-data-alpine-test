@@ -68,3 +68,4 @@
 - pkg:apk/alpine/opensmtpd-filter-rspamd-doc@0.1.8-r14?arch=armhf&distro=v3.21
 - pkg:apk/alpine/opensmtpd-filter-rspamd-doc@0.1.8-r14?arch=armv7&distro=v3.21
 - pkg:apk/alpine/opensmtpd-filter-rspamd-doc@0.1.8-r14?arch=ppc64le&distro=v3.21
+- pkg:apk/alpine/opensmtpd-filter-rspamd-doc@0.1.8-r14?arch=riscv64&distro=v3.21

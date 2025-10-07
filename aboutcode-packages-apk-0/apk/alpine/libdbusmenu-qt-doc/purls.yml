@@ -1,1 +1,2 @@
 - pkg:apk/alpine/libdbusmenu-qt-doc@0.9.3_pre20160218-r5?arch=aarch64&distro=latest-stable
+- pkg:apk/alpine/libdbusmenu-qt-doc@0.9.3_pre20160218-r5?arch=armhf&distro=latest-stable

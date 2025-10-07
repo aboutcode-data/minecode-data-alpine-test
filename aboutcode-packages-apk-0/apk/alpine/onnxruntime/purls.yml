@@ -1,1 +1,2 @@
 - pkg:apk/alpine/onnxruntime@1.22.2-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/onnxruntime@1.22.2-r1?arch=armhf&distro=edge

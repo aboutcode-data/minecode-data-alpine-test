@@ -86,3 +86,4 @@
 - pkg:apk/alpine/dockviz@0.6.4-r22?arch=loongarch64&distro=v3.21
 - pkg:apk/alpine/dockviz@0.6.4-r22?arch=ppc64le&distro=v3.21
 - pkg:apk/alpine/dockviz@0.6.4-r22?arch=riscv64&distro=v3.21
+- pkg:apk/alpine/dockviz@0.6.4-r22?arch=s390x&distro=v3.21

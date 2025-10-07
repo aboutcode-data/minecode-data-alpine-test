@@ -100,3 +100,4 @@
 - pkg:apk/alpine/lua-resty-hmac@0.06-r1?arch=s390x&distro=v3.22
 - pkg:apk/alpine/lua-resty-hmac@0.06-r1?arch=x86&distro=v3.22
 - pkg:apk/alpine/lua-resty-hmac@0.06-r1?arch=x86_64&distro=v3.22
+- pkg:apk/alpine/lua-resty-hmac@0.02.20180101-r0?arch=aarch64&distro=v3.8

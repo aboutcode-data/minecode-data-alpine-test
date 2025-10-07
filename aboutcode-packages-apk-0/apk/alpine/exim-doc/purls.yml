@@ -131,3 +131,4 @@
 - pkg:apk/alpine/exim-doc@4.90.1-r0?arch=x86&distro=v3.7
 - pkg:apk/alpine/exim-doc@4.90.1-r0?arch=x86_64&distro=v3.7
 - pkg:apk/alpine/exim-doc@4.91-r2?arch=aarch64&distro=v3.8
+- pkg:apk/alpine/exim-doc@4.91-r2?arch=armhf&distro=v3.8

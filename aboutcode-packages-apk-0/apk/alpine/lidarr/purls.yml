@@ -1,1 +1,2 @@
 - pkg:apk/alpine/lidarr@2.13.3.4711-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/lidarr@2.13.3.4711-r0?arch=armv7&distro=edge

@@ -34,3 +34,4 @@
 - pkg:apk/alpine/bupstash@0.12.0-r6?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/bupstash@0.12.0-r6?arch=ppc64le&distro=v3.21
 - pkg:apk/alpine/bupstash@0.12.0-r6?arch=riscv64&distro=v3.21
+- pkg:apk/alpine/bupstash@0.12.0-r6?arch=x86_64&distro=v3.21

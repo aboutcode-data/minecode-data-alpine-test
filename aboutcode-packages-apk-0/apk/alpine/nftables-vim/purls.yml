@@ -17,3 +17,4 @@
 - pkg:apk/alpine/nftables-vim@0_git20200629-r1?arch=x86&distro=latest-stable
 - pkg:apk/alpine/nftables-vim@0_git20200629-r1?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/nftables-vim@0_git20190725-r0?arch=aarch64&distro=v3.12
+- pkg:apk/alpine/nftables-vim@0_git20190725-r0?arch=armhf&distro=v3.12

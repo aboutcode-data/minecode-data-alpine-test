@@ -25,3 +25,4 @@
 - pkg:apk/alpine/gnokii-libs@0.6.31-r10?arch=s390x&distro=v3.12
 - pkg:apk/alpine/gnokii-libs@0.6.31-r10?arch=x86&distro=v3.12
 - pkg:apk/alpine/gnokii-libs@0.6.31-r10?arch=x86_64&distro=v3.12
+- pkg:apk/alpine/gnokii-libs@0.6.31-r11?arch=aarch64&distro=v3.13

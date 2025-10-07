@@ -69,3 +69,4 @@
 - pkg:apk/alpine/amazfish@2.5.0-r1?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/amazfish@2.5.0-r1?arch=armv7&distro=v3.22
 - pkg:apk/alpine/amazfish@2.5.0-r1?arch=loongarch64&distro=v3.22
+- pkg:apk/alpine/amazfish@2.5.0-r1?arch=ppc64le&distro=v3.22

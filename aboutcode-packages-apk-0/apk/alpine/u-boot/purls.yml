@@ -70,3 +70,4 @@
 - pkg:apk/alpine/u-boot@2024.10-r7?arch=riscv64&distro=v3.21
 - pkg:apk/alpine/u-boot@2024.10-r7?arch=x86&distro=v3.21
 - pkg:apk/alpine/u-boot@2024.10-r7?arch=x86_64&distro=v3.21
+- pkg:apk/alpine/u-boot@2025.04-r4?arch=aarch64&distro=v3.22

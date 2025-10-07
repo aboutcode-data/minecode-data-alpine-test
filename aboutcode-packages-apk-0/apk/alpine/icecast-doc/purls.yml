@@ -117,3 +117,4 @@
 - pkg:apk/alpine/icecast-doc@2.4.4-r13?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/icecast-doc@2.4.4-r13?arch=armhf&distro=v3.22
 - pkg:apk/alpine/icecast-doc@2.4.4-r13?arch=armv7&distro=v3.22
+- pkg:apk/alpine/icecast-doc@2.4.4-r13?arch=loongarch64&distro=v3.22

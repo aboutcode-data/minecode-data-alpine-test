@@ -36,3 +36,4 @@
 - pkg:apk/alpine/rust-analyzer@2024.11.25-r0?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/rust-analyzer@2025.06.23-r0?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/rust-analyzer@2025.06.23-r0?arch=armhf&distro=v3.22
+- pkg:apk/alpine/rust-analyzer@2025.06.23-r0?arch=armv7&distro=v3.22

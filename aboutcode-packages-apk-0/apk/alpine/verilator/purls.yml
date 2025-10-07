@@ -11,3 +11,4 @@
 - pkg:apk/alpine/verilator@5.030-r0?arch=x86&distro=v3.21
 - pkg:apk/alpine/verilator@5.030-r0?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/verilator@5.036-r0?arch=x86&distro=v3.22
+- pkg:apk/alpine/verilator@5.036-r0?arch=x86_64&distro=v3.22

@@ -53,3 +53,4 @@
 - pkg:apk/alpine/json-c-doc@0.16-r2?arch=s390x&distro=v3.17
 - pkg:apk/alpine/json-c-doc@0.16-r2?arch=x86&distro=v3.17
 - pkg:apk/alpine/json-c-doc@0.16-r2?arch=x86_64&distro=v3.17
+- pkg:apk/alpine/json-c-doc@0.16-r3?arch=aarch64&distro=v3.18

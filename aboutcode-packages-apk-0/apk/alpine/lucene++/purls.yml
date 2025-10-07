@@ -146,3 +146,4 @@
 - pkg:apk/alpine/lucene%2B%2B@3.0.7-r8?arch=aarch64&distro=v3.9
 - pkg:apk/alpine/lucene%2B%2B@3.0.7-r8?arch=armhf&distro=v3.9
 - pkg:apk/alpine/lucene%2B%2B@3.0.7-r8?arch=armv7&distro=v3.9
+- pkg:apk/alpine/lucene%2B%2B@3.0.7-r8?arch=ppc64le&distro=v3.9

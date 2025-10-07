@@ -153,3 +153,4 @@
 - pkg:apk/alpine/imap@2007f-r8?arch=x86_64&distro=v3.8
 - pkg:apk/alpine/imap@2007f-r9?arch=aarch64&distro=v3.9
 - pkg:apk/alpine/imap@2007f-r9?arch=armhf&distro=v3.9
+- pkg:apk/alpine/imap@2007f-r9?arch=armv7&distro=v3.9

@@ -153,3 +153,4 @@
 - pkg:apk/alpine/perl-regexp-common@2016010801-r0?arch=x86_64&distro=v3.8
 - pkg:apk/alpine/perl-regexp-common@2017060201-r0?arch=aarch64&distro=v3.9
 - pkg:apk/alpine/perl-regexp-common@2017060201-r0?arch=armhf&distro=v3.9
+- pkg:apk/alpine/perl-regexp-common@2017060201-r0?arch=armv7&distro=v3.9

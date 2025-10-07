@@ -153,3 +153,4 @@
 - pkg:apk/alpine/lua5.2-alt-getopt@0.7-r8?arch=x86_64&distro=v3.8
 - pkg:apk/alpine/lua5.2-alt-getopt@0.7-r8?arch=aarch64&distro=v3.9
 - pkg:apk/alpine/lua5.2-alt-getopt@0.7-r8?arch=armhf&distro=v3.9
+- pkg:apk/alpine/lua5.2-alt-getopt@0.7-r8?arch=armv7&distro=v3.9

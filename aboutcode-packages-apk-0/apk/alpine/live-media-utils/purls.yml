@@ -139,3 +139,4 @@
 - pkg:apk/alpine/live-media-utils@2017.04.26-r0?arch=s390x&distro=v3.6
 - pkg:apk/alpine/live-media-utils@2017.04.26-r0?arch=x86&distro=v3.6
 - pkg:apk/alpine/live-media-utils@2017.04.26-r0?arch=x86_64&distro=v3.6
+- pkg:apk/alpine/live-media-utils@2017.10.28-r0?arch=aarch64&distro=v3.7

@@ -54,3 +54,4 @@
 - pkg:apk/alpine/py3-wheel@0.37.1-r0?arch=s390x&distro=v3.16
 - pkg:apk/alpine/py3-wheel@0.37.1-r0?arch=x86&distro=v3.16
 - pkg:apk/alpine/py3-wheel@0.37.1-r0?arch=x86_64&distro=v3.16
+- pkg:apk/alpine/py3-wheel@0.38.4-r0?arch=aarch64&distro=v3.17

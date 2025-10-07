@@ -73,3 +73,4 @@
 - pkg:apk/alpine/fprobe-doc@1.1-r9?arch=s390x&distro=v3.16
 - pkg:apk/alpine/fprobe-doc@1.1-r9?arch=x86&distro=v3.16
 - pkg:apk/alpine/fprobe-doc@1.1-r9?arch=x86_64&distro=v3.16
+- pkg:apk/alpine/fprobe-doc@1.1-r10?arch=aarch64&distro=v3.17

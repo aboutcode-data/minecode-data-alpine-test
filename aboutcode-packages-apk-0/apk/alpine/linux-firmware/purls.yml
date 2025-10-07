@@ -20,3 +20,4 @@
 - pkg:apk/alpine/linux-firmware@20140507-r0?arch=x86_64&distro=v3.0
 - pkg:apk/alpine/linux-firmware@20140926-r0?arch=armhf&distro=v3.1
 - pkg:apk/alpine/linux-firmware@20140926-r0?arch=x86&distro=v3.1
+- pkg:apk/alpine/linux-firmware@20140926-r0?arch=x86_64&distro=v3.1

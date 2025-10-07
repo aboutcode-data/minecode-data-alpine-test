@@ -1,1 +1,2 @@
 - pkg:apk/alpine/certigo@1.16.0-r26?arch=aarch64&distro=edge
+- pkg:apk/alpine/certigo@1.16.0-r26?arch=armhf&distro=edge

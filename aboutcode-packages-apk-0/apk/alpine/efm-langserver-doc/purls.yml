@@ -38,3 +38,4 @@
 - pkg:apk/alpine/efm-langserver-doc@0.0.54-r7?arch=armv7&distro=v3.22
 - pkg:apk/alpine/efm-langserver-doc@0.0.54-r7?arch=loongarch64&distro=v3.22
 - pkg:apk/alpine/efm-langserver-doc@0.0.54-r7?arch=ppc64le&distro=v3.22
+- pkg:apk/alpine/efm-langserver-doc@0.0.54-r7?arch=riscv64&distro=v3.22

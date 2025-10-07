@@ -52,3 +52,4 @@
 - pkg:apk/alpine/flawfinder-pyc@2.0.19-r4?arch=armv7&distro=v3.22
 - pkg:apk/alpine/flawfinder-pyc@2.0.19-r4?arch=loongarch64&distro=v3.22
 - pkg:apk/alpine/flawfinder-pyc@2.0.19-r4?arch=ppc64le&distro=v3.22
+- pkg:apk/alpine/flawfinder-pyc@2.0.19-r4?arch=riscv64&distro=v3.22

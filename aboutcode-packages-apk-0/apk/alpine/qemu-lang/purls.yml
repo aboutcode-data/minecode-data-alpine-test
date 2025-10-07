@@ -118,3 +118,4 @@
 - pkg:apk/alpine/qemu-lang@10.0.0-r1?arch=x86&distro=v3.22
 - pkg:apk/alpine/qemu-lang@10.0.0-r1?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/qemu-lang@2.10.1-r3?arch=aarch64&distro=v3.7
+- pkg:apk/alpine/qemu-lang@2.10.1-r3?arch=armhf&distro=v3.7

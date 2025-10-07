@@ -10,3 +10,4 @@
 - pkg:apk/alpine/tlsrouter-openrc@0_git20220202-r30?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/tlsrouter-openrc@0_git20220202-r30?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/tlsrouter-openrc@0_git20220202-r30?arch=armv7&distro=latest-stable
+- pkg:apk/alpine/tlsrouter-openrc@0_git20220202-r30?arch=loongarch64&distro=latest-stable

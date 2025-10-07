@@ -8,3 +8,4 @@
 - pkg:apk/alpine/tootik@0.15.6-r3?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/tootik@0.15.6-r3?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/tootik@0.15.6-r3?arch=armv7&distro=latest-stable
+- pkg:apk/alpine/tootik@0.15.6-r3?arch=loongarch64&distro=latest-stable

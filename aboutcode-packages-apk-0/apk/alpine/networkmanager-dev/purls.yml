@@ -128,3 +128,4 @@
 - pkg:apk/alpine/networkmanager-dev@1.10.6-r0?arch=x86&distro=v3.8
 - pkg:apk/alpine/networkmanager-dev@1.10.6-r0?arch=x86_64&distro=v3.8
 - pkg:apk/alpine/networkmanager-dev@1.10.12-r0?arch=aarch64&distro=v3.9
+- pkg:apk/alpine/networkmanager-dev@1.10.12-r0?arch=armhf&distro=v3.9

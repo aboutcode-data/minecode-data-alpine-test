@@ -87,3 +87,4 @@
 - pkg:apk/alpine/texlive@20170524-r5?arch=x86&distro=v3.8
 - pkg:apk/alpine/texlive@20170524-r5?arch=x86_64&distro=v3.8
 - pkg:apk/alpine/texlive@20170524-r6?arch=aarch64&distro=v3.9
+- pkg:apk/alpine/texlive@20170524-r6?arch=armhf&distro=v3.9

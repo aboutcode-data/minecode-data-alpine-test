@@ -44,3 +44,4 @@
 - pkg:apk/alpine/php7-pecl-gmagick@2.0.6_rc1-r1?arch=x86&distro=v3.15
 - pkg:apk/alpine/php7-pecl-gmagick@2.0.6_rc1-r1?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/php7-pecl-gmagick@2.0.5_rc1-r4?arch=aarch64&distro=v3.9
+- pkg:apk/alpine/php7-pecl-gmagick@2.0.5_rc1-r4?arch=armhf&distro=v3.9

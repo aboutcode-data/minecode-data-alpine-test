@@ -134,3 +134,4 @@
 - pkg:apk/alpine/lua5.1-luassert@1.7.10-r1?arch=x86&distro=v3.8
 - pkg:apk/alpine/lua5.1-luassert@1.7.10-r1?arch=x86_64&distro=v3.8
 - pkg:apk/alpine/lua5.1-luassert@1.7.10-r1?arch=aarch64&distro=v3.9
+- pkg:apk/alpine/lua5.1-luassert@1.7.10-r1?arch=armhf&distro=v3.9

@@ -16,3 +16,4 @@
 - pkg:apk/alpine/dropbear-doc@2025.88-r1?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/dropbear-doc@2025.88-r1?arch=x86&distro=latest-stable
 - pkg:apk/alpine/dropbear-doc@2025.88-r1?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/dropbear-doc@2014.66-r0?arch=armhf&distro=v3.1

@@ -91,3 +91,4 @@
 - pkg:apk/alpine/tesseract-ocr-data-mal@5.5.0-r2?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/tesseract-ocr-data-mal@3.05.01-r2?arch=aarch64&distro=v3.7
 - pkg:apk/alpine/tesseract-ocr-data-mal@3.05.01-r2?arch=armhf&distro=v3.7
+- pkg:apk/alpine/tesseract-ocr-data-mal@3.05.01-r2?arch=ppc64le&distro=v3.7

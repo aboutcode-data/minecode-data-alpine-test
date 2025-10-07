@@ -19,3 +19,4 @@
 - pkg:apk/alpine/gnome-tweaks-pyc@40.10-r6?arch=ppc64le&distro=v3.18
 - pkg:apk/alpine/gnome-tweaks-pyc@40.10-r6?arch=x86&distro=v3.18
 - pkg:apk/alpine/gnome-tweaks-pyc@40.10-r6?arch=x86_64&distro=v3.18
+- pkg:apk/alpine/gnome-tweaks-pyc@45.0-r0?arch=aarch64&distro=v3.19

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/openrc-init@0.62.6-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/openrc-init@0.62.6-r2?arch=armhf&distro=edge

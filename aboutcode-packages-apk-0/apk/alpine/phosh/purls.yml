@@ -36,3 +36,4 @@
 - pkg:apk/alpine/phosh@0.17.0-r2?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/phosh@0.17.0-r2?arch=armhf&distro=v3.16
 - pkg:apk/alpine/phosh@0.17.0-r2?arch=armv7&distro=v3.16
+- pkg:apk/alpine/phosh@0.17.0-r2?arch=x86&distro=v3.16

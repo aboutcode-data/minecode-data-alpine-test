@@ -21,3 +21,4 @@
 - pkg:apk/alpine/xf86bigfontproto-dev@1.2.0-r5?arch=x86&distro=v3.7
 - pkg:apk/alpine/xf86bigfontproto-dev@1.2.0-r5?arch=x86_64&distro=v3.7
 - pkg:apk/alpine/xf86bigfontproto-dev@1.2.0-r5?arch=aarch64&distro=v3.8
+- pkg:apk/alpine/xf86bigfontproto-dev@1.2.0-r5?arch=armhf&distro=v3.8

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/radarr-openrc@5.27.5.10198-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/radarr-openrc@5.27.5.10198-r0?arch=armv7&distro=edge

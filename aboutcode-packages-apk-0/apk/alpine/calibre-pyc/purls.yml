@@ -1,1 +1,2 @@
 - pkg:apk/alpine/calibre-pyc@8.7.0-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/calibre-pyc@8.7.0-r4?arch=x86_64&distro=edge

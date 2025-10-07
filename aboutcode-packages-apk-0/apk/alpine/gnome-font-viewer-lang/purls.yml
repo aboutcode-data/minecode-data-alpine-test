@@ -39,3 +39,4 @@
 - pkg:apk/alpine/gnome-font-viewer-lang@3.34.0-r5?arch=s390x&distro=v3.13
 - pkg:apk/alpine/gnome-font-viewer-lang@3.34.0-r5?arch=x86&distro=v3.13
 - pkg:apk/alpine/gnome-font-viewer-lang@3.34.0-r5?arch=x86_64&distro=v3.13
+- pkg:apk/alpine/gnome-font-viewer-lang@40.0-r0?arch=aarch64&distro=v3.14

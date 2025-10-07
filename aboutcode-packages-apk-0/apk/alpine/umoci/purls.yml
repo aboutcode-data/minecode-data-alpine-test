@@ -112,3 +112,4 @@
 - pkg:apk/alpine/umoci@0.4.7-r32?arch=ppc64le&distro=v3.22
 - pkg:apk/alpine/umoci@0.4.7-r32?arch=riscv64&distro=v3.22
 - pkg:apk/alpine/umoci@0.4.7-r32?arch=s390x&distro=v3.22
+- pkg:apk/alpine/umoci@0.4.7-r32?arch=x86&distro=v3.22

@@ -123,3 +123,4 @@
 - pkg:apk/alpine/ruby-concurrent-ruby-ext@1.0.5-r1?arch=aarch64&distro=v3.9
 - pkg:apk/alpine/ruby-concurrent-ruby-ext@1.0.5-r1?arch=armhf&distro=v3.9
 - pkg:apk/alpine/ruby-concurrent-ruby-ext@1.0.5-r1?arch=armv7&distro=v3.9
+- pkg:apk/alpine/ruby-concurrent-ruby-ext@1.0.5-r1?arch=ppc64le&distro=v3.9

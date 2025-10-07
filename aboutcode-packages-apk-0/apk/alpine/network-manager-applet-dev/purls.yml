@@ -31,3 +31,4 @@
 - pkg:apk/alpine/network-manager-applet-dev@1.8.6-r0?arch=x86_64&distro=v3.8
 - pkg:apk/alpine/network-manager-applet-dev@1.8.18-r0?arch=aarch64&distro=v3.9
 - pkg:apk/alpine/network-manager-applet-dev@1.8.18-r0?arch=armhf&distro=v3.9
+- pkg:apk/alpine/network-manager-applet-dev@1.8.18-r0?arch=armv7&distro=v3.9

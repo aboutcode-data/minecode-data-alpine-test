@@ -111,3 +111,4 @@
 - pkg:apk/alpine/audacious@4.4.2-r0?arch=s390x&distro=v3.22
 - pkg:apk/alpine/audacious@4.4.2-r0?arch=x86&distro=v3.22
 - pkg:apk/alpine/audacious@4.4.2-r0?arch=x86_64&distro=v3.22
+- pkg:apk/alpine/audacious@3.6.2-r2?arch=armhf&distro=v3.3

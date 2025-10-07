@@ -123,3 +123,4 @@
 - pkg:apk/alpine/rtapd@1.7-r10?arch=s390x&distro=v3.22
 - pkg:apk/alpine/rtapd@1.7-r10?arch=x86&distro=v3.22
 - pkg:apk/alpine/rtapd@1.7-r10?arch=x86_64&distro=v3.22
+- pkg:apk/alpine/rtapd@1.7-r6?arch=armhf&distro=v3.3

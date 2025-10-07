@@ -123,3 +123,4 @@
 - pkg:apk/alpine/ldns@1.8.4-r0?arch=s390x&distro=v3.22
 - pkg:apk/alpine/ldns@1.8.4-r0?arch=x86&distro=v3.22
 - pkg:apk/alpine/ldns@1.8.4-r0?arch=x86_64&distro=v3.22
+- pkg:apk/alpine/ldns@1.6.17-r3?arch=armhf&distro=v3.3

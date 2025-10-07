@@ -117,3 +117,4 @@
 - pkg:apk/alpine/ivykis-doc@0.43.2-r0?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/ivykis-doc@0.42.3-r0?arch=aarch64&distro=v3.9
 - pkg:apk/alpine/ivykis-doc@0.42.3-r0?arch=armhf&distro=v3.9
+- pkg:apk/alpine/ivykis-doc@0.42.3-r0?arch=armv7&distro=v3.9

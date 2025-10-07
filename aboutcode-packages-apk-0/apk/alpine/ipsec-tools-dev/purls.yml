@@ -58,3 +58,4 @@
 - pkg:apk/alpine/ipsec-tools-dev@0.8.2-r7?arch=x86_64&distro=v3.8
 - pkg:apk/alpine/ipsec-tools-dev@0.8.2-r8?arch=aarch64&distro=v3.9
 - pkg:apk/alpine/ipsec-tools-dev@0.8.2-r8?arch=armhf&distro=v3.9
+- pkg:apk/alpine/ipsec-tools-dev@0.8.2-r8?arch=armv7&distro=v3.9

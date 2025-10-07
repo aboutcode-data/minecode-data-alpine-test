@@ -139,3 +139,4 @@
 - pkg:apk/alpine/perl-cpanel-json-xs-doc@4.04-r0?arch=x86_64&distro=v3.8
 - pkg:apk/alpine/perl-cpanel-json-xs-doc@4.08-r0?arch=aarch64&distro=v3.9
 - pkg:apk/alpine/perl-cpanel-json-xs-doc@4.08-r0?arch=armhf&distro=v3.9
+- pkg:apk/alpine/perl-cpanel-json-xs-doc@4.08-r0?arch=armv7&distro=v3.9

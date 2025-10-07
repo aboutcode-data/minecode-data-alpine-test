@@ -38,3 +38,4 @@
 - pkg:apk/alpine/sxmo-dmenu@5.0.14-r0?arch=s390x&distro=v3.16
 - pkg:apk/alpine/sxmo-dmenu@5.0.14-r0?arch=x86&distro=v3.16
 - pkg:apk/alpine/sxmo-dmenu@5.0.14-r0?arch=x86_64&distro=v3.16
+- pkg:apk/alpine/sxmo-dmenu@5.0.14-r1?arch=aarch64&distro=v3.17

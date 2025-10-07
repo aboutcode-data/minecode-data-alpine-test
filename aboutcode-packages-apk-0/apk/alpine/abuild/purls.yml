@@ -133,3 +133,4 @@
 - pkg:apk/alpine/abuild@2.29.0-r2?arch=armhf&distro=v3.5
 - pkg:apk/alpine/abuild@2.29.0-r2?arch=x86&distro=v3.5
 - pkg:apk/alpine/abuild@2.29.0-r2?arch=x86_64&distro=v3.5
+- pkg:apk/alpine/abuild@3.0.0_rc2-r8?arch=aarch64&distro=v3.6

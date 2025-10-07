@@ -19,3 +19,4 @@
 - pkg:apk/alpine/wrk-doc@4.1.0-r2?arch=aarch64&distro=v3.14
 - pkg:apk/alpine/wrk-doc@4.1.0-r2?arch=x86_64&distro=v3.14
 - pkg:apk/alpine/wrk-doc@4.1.0-r4?arch=aarch64&distro=v3.15
+- pkg:apk/alpine/wrk-doc@4.1.0-r4?arch=x86_64&distro=v3.15

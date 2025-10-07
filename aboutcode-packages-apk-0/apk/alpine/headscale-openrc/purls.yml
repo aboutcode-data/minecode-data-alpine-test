@@ -8,3 +8,4 @@
 - pkg:apk/alpine/headscale-openrc@0.26.1-r2?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/headscale-openrc@0.26.1-r2?arch=x86&distro=latest-stable
 - pkg:apk/alpine/headscale-openrc@0.26.1-r2?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/headscale-openrc@0.23.0-r5?arch=aarch64&distro=v3.21

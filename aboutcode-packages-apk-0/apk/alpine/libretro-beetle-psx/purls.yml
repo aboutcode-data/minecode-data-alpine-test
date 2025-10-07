@@ -77,3 +77,4 @@
 - pkg:apk/alpine/libretro-beetle-psx@0_git20250131-r0?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/libretro-beetle-psx@0_git20250131-r0?arch=armhf&distro=v3.22
 - pkg:apk/alpine/libretro-beetle-psx@0_git20250131-r0?arch=armv7&distro=v3.22
+- pkg:apk/alpine/libretro-beetle-psx@0_git20250131-r0?arch=ppc64le&distro=v3.22

@@ -150,3 +150,4 @@
 - pkg:apk/alpine/thunar-dev@1.6.12-r1?arch=ppc64le&distro=v3.8
 - pkg:apk/alpine/thunar-dev@1.6.12-r1?arch=s390x&distro=v3.8
 - pkg:apk/alpine/thunar-dev@1.6.12-r1?arch=x86&distro=v3.8
+- pkg:apk/alpine/thunar-dev@1.6.12-r1?arch=x86_64&distro=v3.8

@@ -57,3 +57,4 @@
 - pkg:apk/alpine/xwiimote-dev@2_git20131227-r1?arch=armhf&distro=v3.22
 - pkg:apk/alpine/xwiimote-dev@2_git20131227-r1?arch=armv7&distro=v3.22
 - pkg:apk/alpine/xwiimote-dev@2_git20131227-r1?arch=loongarch64&distro=v3.22
+- pkg:apk/alpine/xwiimote-dev@2_git20131227-r1?arch=riscv64&distro=v3.22

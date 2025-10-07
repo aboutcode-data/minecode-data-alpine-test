@@ -1,3 +1,4 @@
 - pkg:apk/alpine/openjdk24-jre-headless@24.0.2_p12-r0?arch=aarch64&distro=edge
 - pkg:apk/alpine/openjdk24-jre-headless@24.0.2_p12-r0?arch=loongarch64&distro=edge
 - pkg:apk/alpine/openjdk24-jre-headless@24.0.2_p12-r0?arch=ppc64le&distro=edge
+- pkg:apk/alpine/openjdk24-jre-headless@24.0.2_p12-r0?arch=riscv64&distro=edge

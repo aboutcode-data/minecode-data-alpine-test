@@ -4,3 +4,4 @@
 - pkg:apk/alpine/chromium-qt6@140.0.7339.207-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/chromium-qt6@141.0.7390.54-r0?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/chromium-qt6@141.0.7390.54-r0?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/chromium-qt6@140.0.7339.207-r0?arch=aarch64&distro=v3.22

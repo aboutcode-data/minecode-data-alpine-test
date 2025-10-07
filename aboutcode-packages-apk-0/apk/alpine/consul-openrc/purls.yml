@@ -19,3 +19,4 @@
 - pkg:apk/alpine/consul-openrc@1.10.9-r2?arch=s390x&distro=v3.15
 - pkg:apk/alpine/consul-openrc@1.10.9-r2?arch=x86&distro=v3.15
 - pkg:apk/alpine/consul-openrc@1.10.9-r2?arch=x86_64&distro=v3.15
+- pkg:apk/alpine/consul-openrc@1.12.5-r1?arch=aarch64&distro=v3.16

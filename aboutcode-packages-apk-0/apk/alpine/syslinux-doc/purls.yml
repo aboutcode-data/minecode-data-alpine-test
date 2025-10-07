@@ -42,3 +42,4 @@
 - pkg:apk/alpine/syslinux-doc@6.04_pre1-r0?arch=x86_64&distro=v3.5
 - pkg:apk/alpine/syslinux-doc@6.04_pre1-r1?arch=x86&distro=v3.6
 - pkg:apk/alpine/syslinux-doc@6.04_pre1-r1?arch=x86_64&distro=v3.6
+- pkg:apk/alpine/syslinux-doc@6.04_pre1-r1?arch=x86&distro=v3.7

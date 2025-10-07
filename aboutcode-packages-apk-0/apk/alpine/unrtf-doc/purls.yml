@@ -42,3 +42,4 @@
 - pkg:apk/alpine/unrtf-doc@0.21.10-r3?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/unrtf-doc@0.21.10-r3?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/unrtf-doc@0.21.10-r3?arch=armhf&distro=v3.22
+- pkg:apk/alpine/unrtf-doc@0.21.10-r3?arch=armv7&distro=v3.22

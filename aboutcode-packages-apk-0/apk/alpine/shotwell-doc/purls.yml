@@ -106,3 +106,4 @@
 - pkg:apk/alpine/shotwell-doc@0.32.10-r0?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/shotwell-doc@0.25.0-r0?arch=x86&distro=v3.5
 - pkg:apk/alpine/shotwell-doc@0.25.0-r0?arch=x86_64&distro=v3.5
+- pkg:apk/alpine/shotwell-doc@0.26.1-r1?arch=x86&distro=v3.6

@@ -101,3 +101,4 @@
 - pkg:apk/alpine/minetest@0.4.14-r2?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/minetest@0.4.14-r2?arch=armhf&distro=v3.6
 - pkg:apk/alpine/minetest@0.4.14-r2?arch=ppc64le&distro=v3.6
+- pkg:apk/alpine/minetest@0.4.14-r2?arch=x86&distro=v3.6

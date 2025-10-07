@@ -49,3 +49,4 @@
 - pkg:apk/alpine/jetty-runner@9.4.15.20190215-r0?arch=s390x&distro=v3.14
 - pkg:apk/alpine/jetty-runner@9.4.15.20190215-r0?arch=x86&distro=v3.14
 - pkg:apk/alpine/jetty-runner@9.4.15.20190215-r0?arch=x86_64&distro=v3.14
+- pkg:apk/alpine/jetty-runner@9.4.15.20190215-r10?arch=aarch64&distro=v3.15

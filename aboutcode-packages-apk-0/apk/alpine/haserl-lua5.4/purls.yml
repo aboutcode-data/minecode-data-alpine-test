@@ -38,3 +38,4 @@
 - pkg:apk/alpine/haserl-lua5.4@0.9.36-r2?arch=x86&distro=v3.17
 - pkg:apk/alpine/haserl-lua5.4@0.9.36-r2?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/haserl-lua5.4@0.9.36-r4?arch=aarch64&distro=v3.18
+- pkg:apk/alpine/haserl-lua5.4@0.9.36-r4?arch=armhf&distro=v3.18

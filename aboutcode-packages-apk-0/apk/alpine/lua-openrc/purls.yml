@@ -117,3 +117,4 @@
 - pkg:apk/alpine/lua-openrc@0.2-r6?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/lua-openrc@0.2-r6?arch=armhf&distro=v3.22
 - pkg:apk/alpine/lua-openrc@0.2-r6?arch=armv7&distro=v3.22
+- pkg:apk/alpine/lua-openrc@0.2-r6?arch=loongarch64&distro=v3.22

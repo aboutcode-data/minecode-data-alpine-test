@@ -1,1 +1,2 @@
 - pkg:apk/alpine/sdl12-compat-dev@1.2.68-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/sdl12-compat-dev@1.2.68-r1?arch=armhf&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/slibtool@0.5.36-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/slibtool@0.5.36-r1?arch=armhf&distro=edge

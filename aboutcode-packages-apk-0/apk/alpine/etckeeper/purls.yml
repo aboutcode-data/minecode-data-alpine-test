@@ -121,3 +121,4 @@
 - pkg:apk/alpine/etckeeper@1.18.7-r1?arch=s390x&distro=v3.7
 - pkg:apk/alpine/etckeeper@1.18.7-r1?arch=x86&distro=v3.7
 - pkg:apk/alpine/etckeeper@1.18.7-r1?arch=x86_64&distro=v3.7
+- pkg:apk/alpine/etckeeper@1.18.8-r0?arch=aarch64&distro=v3.8

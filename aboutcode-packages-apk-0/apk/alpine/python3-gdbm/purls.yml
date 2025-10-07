@@ -16,3 +16,4 @@
 - pkg:apk/alpine/python3-gdbm@3.12.11-r0?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/python3-gdbm@3.12.11-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/python3-gdbm@3.12.11-r0?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/python3-gdbm@3.10.15-r0?arch=aarch64&distro=v3.17

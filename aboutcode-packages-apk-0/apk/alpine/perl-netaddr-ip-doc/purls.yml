@@ -129,3 +129,4 @@
 - pkg:apk/alpine/perl-netaddr-ip-doc@4.078-r0?arch=armhf&distro=v3.4
 - pkg:apk/alpine/perl-netaddr-ip-doc@4.078-r0?arch=x86&distro=v3.4
 - pkg:apk/alpine/perl-netaddr-ip-doc@4.078-r0?arch=x86_64&distro=v3.4
+- pkg:apk/alpine/perl-netaddr-ip-doc@4.079-r0?arch=aarch64&distro=v3.5

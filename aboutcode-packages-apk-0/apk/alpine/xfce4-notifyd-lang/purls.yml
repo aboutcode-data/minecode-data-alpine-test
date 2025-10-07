@@ -129,3 +129,4 @@
 - pkg:apk/alpine/xfce4-notifyd-lang@0.2.4-r1?arch=armhf&distro=v3.4
 - pkg:apk/alpine/xfce4-notifyd-lang@0.2.4-r1?arch=x86&distro=v3.4
 - pkg:apk/alpine/xfce4-notifyd-lang@0.2.4-r1?arch=x86_64&distro=v3.4
+- pkg:apk/alpine/xfce4-notifyd-lang@0.3.2-r0?arch=aarch64&distro=v3.5

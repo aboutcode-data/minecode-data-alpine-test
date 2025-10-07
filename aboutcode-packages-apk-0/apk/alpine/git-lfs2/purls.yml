@@ -17,3 +17,4 @@
 - pkg:apk/alpine/git-lfs2@2.13.3-r14?arch=armv7&distro=v3.17
 - pkg:apk/alpine/git-lfs2@2.13.3-r14?arch=ppc64le&distro=v3.17
 - pkg:apk/alpine/git-lfs2@2.13.3-r14?arch=s390x&distro=v3.17
+- pkg:apk/alpine/git-lfs2@2.13.3-r14?arch=x86&distro=v3.17

@@ -97,3 +97,4 @@
 - pkg:apk/alpine/thunar-lang@1.6.10-r0?arch=armhf&distro=v3.2
 - pkg:apk/alpine/thunar-lang@1.6.10-r0?arch=x86&distro=v3.2
 - pkg:apk/alpine/thunar-lang@1.6.10-r0?arch=x86_64&distro=v3.2
+- pkg:apk/alpine/thunar-lang@4.18.10-r0?arch=aarch64&distro=v3.20

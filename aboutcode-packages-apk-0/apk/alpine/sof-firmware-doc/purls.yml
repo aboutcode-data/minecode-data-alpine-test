@@ -17,3 +17,4 @@
 - pkg:apk/alpine/sof-firmware-doc@2025.01.1-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/sof-firmware-doc@2025.01.1-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/sof-firmware-doc@2.2.6-r0?arch=x86_64&distro=v3.19
+- pkg:apk/alpine/sof-firmware-doc@2024.03-r1?arch=aarch64&distro=v3.20

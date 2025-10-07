@@ -133,3 +133,4 @@
 - pkg:apk/alpine/gparted-doc@0.26.1-r2?arch=s390x&distro=v3.6
 - pkg:apk/alpine/gparted-doc@0.26.1-r2?arch=x86&distro=v3.6
 - pkg:apk/alpine/gparted-doc@0.26.1-r2?arch=x86_64&distro=v3.6
+- pkg:apk/alpine/gparted-doc@0.30.0-r0?arch=aarch64&distro=v3.7

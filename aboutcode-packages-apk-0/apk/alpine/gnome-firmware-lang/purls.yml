@@ -11,3 +11,4 @@
 - pkg:apk/alpine/gnome-firmware-lang@47.0-r1?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/gnome-firmware-lang@47.0-r1?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/gnome-firmware-lang@47.0-r1?arch=riscv64&distro=latest-stable
+- pkg:apk/alpine/gnome-firmware-lang@47.0-r1?arch=x86&distro=latest-stable

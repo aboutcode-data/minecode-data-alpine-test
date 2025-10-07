@@ -74,3 +74,4 @@
 - pkg:apk/alpine/openscenegraph-doc@3.6.5-r16?arch=s390x&distro=v3.21
 - pkg:apk/alpine/openscenegraph-doc@3.6.5-r16?arch=x86&distro=v3.21
 - pkg:apk/alpine/openscenegraph-doc@3.6.5-r16?arch=x86_64&distro=v3.21
+- pkg:apk/alpine/openscenegraph-doc@3.6.5-r16?arch=aarch64&distro=v3.22

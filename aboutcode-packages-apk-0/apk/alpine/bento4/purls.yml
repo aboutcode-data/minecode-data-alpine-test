@@ -20,3 +20,4 @@
 - pkg:apk/alpine/bento4@1.6.0.640-r0?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/bento4@1.6.0.640-r0?arch=armhf&distro=v3.18
 - pkg:apk/alpine/bento4@1.6.0.640-r0?arch=armv7&distro=v3.18
+- pkg:apk/alpine/bento4@1.6.0.640-r0?arch=x86&distro=v3.18

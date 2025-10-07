@@ -5,3 +5,4 @@
 - pkg:apk/alpine/qvidcap@1.30.1-r2?arch=x86&distro=edge
 - pkg:apk/alpine/qvidcap@1.30.1-r2?arch=x86_64&distro=edge
 - pkg:apk/alpine/qvidcap@1.28.1-r1?arch=loongarch64&distro=latest-stable
+- pkg:apk/alpine/qvidcap@1.28.1-r1?arch=ppc64le&distro=latest-stable

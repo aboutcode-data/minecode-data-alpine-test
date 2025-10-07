@@ -16,3 +16,4 @@
 - pkg:apk/alpine/go-bindata@3.1.3-r36?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/go-bindata@3.1.3-r36?arch=x86&distro=latest-stable
 - pkg:apk/alpine/go-bindata@3.1.3-r36?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/go-bindata@20151023-r0?arch=aarch64&distro=v3.10

@@ -12,3 +12,4 @@
 - pkg:apk/alpine/hugo@0.147.2-r2?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/hugo@0.147.2-r2?arch=x86&distro=latest-stable
 - pkg:apk/alpine/hugo@0.147.2-r2?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/hugo@0.55.6-r0?arch=aarch64&distro=v3.10

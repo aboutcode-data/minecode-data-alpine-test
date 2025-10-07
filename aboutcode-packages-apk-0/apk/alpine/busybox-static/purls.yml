@@ -117,3 +117,4 @@
 - pkg:apk/alpine/busybox-static@1.37.0-r19?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/busybox-static@1.37.0-r19?arch=armhf&distro=v3.22
 - pkg:apk/alpine/busybox-static@1.37.0-r19?arch=armv7&distro=v3.22
+- pkg:apk/alpine/busybox-static@1.37.0-r19?arch=loongarch64&distro=v3.22

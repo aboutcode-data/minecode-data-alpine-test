@@ -21,3 +21,4 @@
 - pkg:apk/alpine/zfs-rpi-dev@6.12.13-r0?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/zfs-rpi-dev@6.12.13-r0?arch=armv7&distro=v3.21
 - pkg:apk/alpine/zfs-rpi-dev@6.12.49-r3?arch=aarch64&distro=v3.22
+- pkg:apk/alpine/zfs-rpi-dev@6.12.49-r3?arch=armv7&distro=v3.22

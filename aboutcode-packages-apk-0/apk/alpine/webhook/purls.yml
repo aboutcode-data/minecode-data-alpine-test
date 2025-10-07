@@ -81,3 +81,4 @@
 - pkg:apk/alpine/webhook@2.8.2-r17?arch=armv7&distro=v3.22
 - pkg:apk/alpine/webhook@2.8.2-r17?arch=loongarch64&distro=v3.22
 - pkg:apk/alpine/webhook@2.8.2-r17?arch=ppc64le&distro=v3.22
+- pkg:apk/alpine/webhook@2.8.2-r17?arch=riscv64&distro=v3.22

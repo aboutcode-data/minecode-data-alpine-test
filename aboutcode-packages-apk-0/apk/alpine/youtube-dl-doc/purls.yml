@@ -69,3 +69,4 @@
 - pkg:apk/alpine/youtube-dl-doc@2016.12.12-r0?arch=x86_64&distro=v3.5
 - pkg:apk/alpine/youtube-dl-doc@2017.04.28-r0?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/youtube-dl-doc@2017.04.28-r0?arch=armhf&distro=v3.6
+- pkg:apk/alpine/youtube-dl-doc@2017.04.28-r0?arch=ppc64le&distro=v3.6

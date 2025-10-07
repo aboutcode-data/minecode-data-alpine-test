@@ -117,3 +117,5 @@
 - pkg:apk/alpine/perl-proc-waitstat-doc@1.00-r5?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/perl-proc-waitstat-doc@1.00-r1?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/perl-proc-waitstat-doc@1.00-r1?arch=armhf&distro=v3.6
+- pkg:apk/alpine/perl-proc-waitstat-doc@1.00-r1?arch=ppc64le&distro=v3.6
+- pkg:apk/alpine/perl-proc-waitstat-doc@1.00-r1?arch=s390x&distro=v3.6

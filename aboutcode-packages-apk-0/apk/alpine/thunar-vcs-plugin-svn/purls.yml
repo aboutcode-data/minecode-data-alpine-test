@@ -94,3 +94,4 @@
 - pkg:apk/alpine/thunar-vcs-plugin-svn@0.2.0-r2?arch=s390x&distro=v3.19
 - pkg:apk/alpine/thunar-vcs-plugin-svn@0.2.0-r2?arch=x86&distro=v3.19
 - pkg:apk/alpine/thunar-vcs-plugin-svn@0.2.0-r2?arch=x86_64&distro=v3.19
+- pkg:apk/alpine/thunar-vcs-plugin-svn@0.1.4-r5?arch=armhf&distro=v3.2

@@ -94,3 +94,4 @@
 - pkg:apk/alpine/e2fsprogs-doc@1.47.0-r5?arch=s390x&distro=v3.19
 - pkg:apk/alpine/e2fsprogs-doc@1.47.0-r5?arch=x86&distro=v3.19
 - pkg:apk/alpine/e2fsprogs-doc@1.47.0-r5?arch=x86_64&distro=v3.19
+- pkg:apk/alpine/e2fsprogs-doc@1.42.13-r0?arch=armhf&distro=v3.2

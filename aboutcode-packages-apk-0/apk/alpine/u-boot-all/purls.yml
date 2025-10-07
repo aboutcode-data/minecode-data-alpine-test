@@ -45,3 +45,4 @@
 - pkg:apk/alpine/u-boot-all@2024.10-r7?arch=armv7&distro=v3.21
 - pkg:apk/alpine/u-boot-all@2024.10-r7?arch=riscv64&distro=v3.21
 - pkg:apk/alpine/u-boot-all@2025.04-r4?arch=aarch64&distro=v3.22
+- pkg:apk/alpine/u-boot-all@2025.04-r4?arch=armhf&distro=v3.22

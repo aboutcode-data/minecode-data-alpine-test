@@ -8,3 +8,4 @@
 - pkg:apk/alpine/xml2rfc@3.28.1-r2?arch=x86&distro=edge
 - pkg:apk/alpine/xml2rfc@3.28.1-r2?arch=x86_64&distro=edge
 - pkg:apk/alpine/xml2rfc@2.4.2-r0?arch=x86&distro=v3.0
+- pkg:apk/alpine/xml2rfc@2.4.2-r0?arch=x86_64&distro=v3.0

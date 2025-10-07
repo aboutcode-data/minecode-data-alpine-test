@@ -121,3 +121,4 @@
 - pkg:apk/alpine/pcre2-doc@10.22-r0?arch=x86_64&distro=v3.5
 - pkg:apk/alpine/pcre2-doc@10.23-r1?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/pcre2-doc@10.23-r1?arch=armhf&distro=v3.6
+- pkg:apk/alpine/pcre2-doc@10.23-r1?arch=ppc64le&distro=v3.6

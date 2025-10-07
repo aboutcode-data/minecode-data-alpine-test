@@ -13,3 +13,4 @@
 - pkg:apk/alpine/tilix-doc@1.9.5-r4?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/tilix-doc@1.9.5-r4?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/tilix-doc@1.9.5-r6?arch=aarch64&distro=v3.19
+- pkg:apk/alpine/tilix-doc@1.9.5-r6?arch=x86_64&distro=v3.19

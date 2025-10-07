@@ -150,3 +150,4 @@
 - pkg:apk/alpine/avahi-ui@0.6.31-r7?arch=ppc64le&distro=v3.8
 - pkg:apk/alpine/avahi-ui@0.6.31-r7?arch=s390x&distro=v3.8
 - pkg:apk/alpine/avahi-ui@0.6.31-r7?arch=x86&distro=v3.8
+- pkg:apk/alpine/avahi-ui@0.6.31-r7?arch=x86_64&distro=v3.8

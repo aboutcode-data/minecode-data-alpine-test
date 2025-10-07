@@ -57,3 +57,4 @@
 - pkg:apk/alpine/irtt@0.9.1-r24?arch=armv7&distro=v3.19
 - pkg:apk/alpine/irtt@0.9.1-r24?arch=ppc64le&distro=v3.19
 - pkg:apk/alpine/irtt@0.9.1-r24?arch=s390x&distro=v3.19
+- pkg:apk/alpine/irtt@0.9.1-r24?arch=x86&distro=v3.19

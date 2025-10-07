@@ -31,3 +31,4 @@
 - pkg:apk/alpine/luau@0.573-r0?arch=x86&distro=v3.18
 - pkg:apk/alpine/luau@0.573-r0?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/luau@0.601-r0?arch=aarch64&distro=v3.19
+- pkg:apk/alpine/luau@0.601-r0?arch=ppc64le&distro=v3.19

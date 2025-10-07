@@ -29,3 +29,4 @@
 - pkg:apk/alpine/seabios-bin@1.16.3-r0?arch=x86&distro=v3.22
 - pkg:apk/alpine/seabios-bin@1.16.3-r0?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/seabios-bin@1.8.2-r0?arch=x86&distro=v3.3
+- pkg:apk/alpine/seabios-bin@1.8.2-r0?arch=x86_64&distro=v3.3

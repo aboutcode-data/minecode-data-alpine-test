@@ -117,3 +117,4 @@
 - pkg:apk/alpine/redis-openrc@8.0.3-r0?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/redis-openrc@4.0.14-r0?arch=aarch64&distro=v3.8
 - pkg:apk/alpine/redis-openrc@4.0.14-r0?arch=armhf&distro=v3.8
+- pkg:apk/alpine/redis-openrc@4.0.14-r0?arch=ppc64le&distro=v3.8

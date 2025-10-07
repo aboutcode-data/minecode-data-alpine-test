@@ -147,3 +147,4 @@
 - pkg:apk/alpine/ncurses-dev@6.0_p20171125-r1?arch=x86_64&distro=v3.7
 - pkg:apk/alpine/ncurses-dev@6.1_p20180818-r1?arch=aarch64&distro=v3.8
 - pkg:apk/alpine/ncurses-dev@6.1_p20180818-r1?arch=armhf&distro=v3.8
+- pkg:apk/alpine/ncurses-dev@6.1_p20180818-r1?arch=ppc64le&distro=v3.8

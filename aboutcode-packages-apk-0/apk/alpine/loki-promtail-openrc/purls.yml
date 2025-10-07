@@ -8,3 +8,4 @@
 - pkg:apk/alpine/loki-promtail-openrc@3.5.1-r2?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/loki-promtail-openrc@3.5.1-r2?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/loki-promtail-openrc@3.5.1-r2?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/loki-promtail-openrc@2.9.2-r3?arch=aarch64&distro=v3.19

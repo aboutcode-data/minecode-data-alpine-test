@@ -23,3 +23,4 @@
 - pkg:apk/alpine/linux-rpi2-dev@4.9.65-r0?arch=armhf&distro=v3.7
 - pkg:apk/alpine/linux-rpi2-dev@4.14.127-r0?arch=armhf&distro=v3.8
 - pkg:apk/alpine/linux-rpi2-dev@4.19.98-r0?arch=armhf&distro=v3.9
+- pkg:apk/alpine/linux-rpi2-dev@4.19.98-r0?arch=armv7&distro=v3.9

@@ -14,3 +14,4 @@
 - pkg:apk/alpine/texmf-dist-fontsextra@2024.0-r7?arch=x86&distro=latest-stable
 - pkg:apk/alpine/texmf-dist-fontsextra@2024.0-r7?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/texmf-dist-fontsextra@2019.50917-r0?arch=aarch64&distro=v3.10
+- pkg:apk/alpine/texmf-dist-fontsextra@2019.50917-r0?arch=armhf&distro=v3.10

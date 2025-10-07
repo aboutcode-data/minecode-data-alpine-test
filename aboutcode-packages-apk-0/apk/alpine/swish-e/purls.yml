@@ -10,3 +10,4 @@
 - pkg:apk/alpine/swish-e@2.4.7-r17?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/swish-e@2.4.7-r17?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/swish-e@2.4.7-r17?arch=armv7&distro=latest-stable
+- pkg:apk/alpine/swish-e@2.4.7-r17?arch=loongarch64&distro=latest-stable

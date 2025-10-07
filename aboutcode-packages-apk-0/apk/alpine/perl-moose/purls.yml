@@ -38,3 +38,4 @@
 - pkg:apk/alpine/perl-moose@2.2012-r1?arch=s390x&distro=v3.12
 - pkg:apk/alpine/perl-moose@2.2012-r1?arch=x86&distro=v3.12
 - pkg:apk/alpine/perl-moose@2.2012-r1?arch=x86_64&distro=v3.12
+- pkg:apk/alpine/perl-moose@2.2014-r0?arch=aarch64&distro=v3.13

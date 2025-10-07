@@ -29,3 +29,4 @@
 - pkg:apk/alpine/texlive-dvi@20190410-r13?arch=s390x&distro=v3.12
 - pkg:apk/alpine/texlive-dvi@20190410-r13?arch=x86&distro=v3.12
 - pkg:apk/alpine/texlive-dvi@20190410-r13?arch=x86_64&distro=v3.12
+- pkg:apk/alpine/texlive-dvi@20200406-r6?arch=aarch64&distro=v3.13

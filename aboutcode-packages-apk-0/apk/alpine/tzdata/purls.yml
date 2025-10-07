@@ -47,3 +47,4 @@
 - pkg:apk/alpine/tzdata@2022f-r1?arch=armhf&distro=v3.13
 - pkg:apk/alpine/tzdata@2022f-r1?arch=armv7&distro=v3.13
 - pkg:apk/alpine/tzdata@2021e-r0?arch=mips64&distro=v3.13
+- pkg:apk/alpine/tzdata@2022f-r1?arch=ppc64le&distro=v3.13

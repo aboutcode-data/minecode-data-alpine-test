@@ -55,3 +55,4 @@
 - pkg:apk/alpine/helix@24.07-r0?arch=s390x&distro=v3.21
 - pkg:apk/alpine/helix@24.07-r0?arch=x86&distro=v3.21
 - pkg:apk/alpine/helix@24.07-r0?arch=x86_64&distro=v3.21
+- pkg:apk/alpine/helix@25.01.1-r3?arch=aarch64&distro=v3.22

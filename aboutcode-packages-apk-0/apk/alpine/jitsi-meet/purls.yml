@@ -9,3 +9,4 @@
 - pkg:apk/alpine/jitsi-meet@1.0.8242-r0?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/jitsi-meet@1.0.8242-r0?arch=s390x&distro=v3.21
 - pkg:apk/alpine/jitsi-meet@1.0.8242-r0?arch=x86_64&distro=v3.21
+- pkg:apk/alpine/jitsi-meet@1.0.8384-r0?arch=aarch64&distro=v3.22

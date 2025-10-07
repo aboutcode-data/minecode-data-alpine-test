@@ -44,3 +44,4 @@
 - pkg:apk/alpine/openjdk7@7.311.2.6.27-r1?arch=s390x&distro=v3.15
 - pkg:apk/alpine/openjdk7@7.311.2.6.27-r1?arch=x86&distro=v3.15
 - pkg:apk/alpine/openjdk7@7.311.2.6.27-r1?arch=x86_64&distro=v3.15
+- pkg:apk/alpine/openjdk7@7.321.2.6.28-r0?arch=aarch64&distro=v3.16

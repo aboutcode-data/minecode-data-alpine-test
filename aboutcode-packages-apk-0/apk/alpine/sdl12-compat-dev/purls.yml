@@ -23,3 +23,4 @@
 - pkg:apk/alpine/sdl12-compat-dev@0.0.1_git20211015-r0?arch=s390x&distro=v3.15
 - pkg:apk/alpine/sdl12-compat-dev@0.0.1_git20211015-r0?arch=x86&distro=v3.15
 - pkg:apk/alpine/sdl12-compat-dev@0.0.1_git20211015-r0?arch=x86_64&distro=v3.15
+- pkg:apk/alpine/sdl12-compat-dev@1.2.52-r1?arch=aarch64&distro=v3.16

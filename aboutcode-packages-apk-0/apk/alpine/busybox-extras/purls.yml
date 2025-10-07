@@ -133,3 +133,4 @@
 - pkg:apk/alpine/busybox-extras@1.29.3-r10?arch=ppc64le&distro=v3.9
 - pkg:apk/alpine/busybox-extras@1.29.3-r10?arch=s390x&distro=v3.9
 - pkg:apk/alpine/busybox-extras@1.29.3-r10?arch=x86&distro=v3.9
+- pkg:apk/alpine/busybox-extras@1.29.3-r10?arch=x86_64&distro=v3.9

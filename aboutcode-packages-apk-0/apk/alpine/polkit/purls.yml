@@ -123,3 +123,4 @@
 - pkg:apk/alpine/polkit@126-r0?arch=s390x&distro=v3.22
 - pkg:apk/alpine/polkit@126-r0?arch=x86&distro=v3.22
 - pkg:apk/alpine/polkit@126-r0?arch=x86_64&distro=v3.22
+- pkg:apk/alpine/polkit@0.105-r5?arch=armhf&distro=v3.3

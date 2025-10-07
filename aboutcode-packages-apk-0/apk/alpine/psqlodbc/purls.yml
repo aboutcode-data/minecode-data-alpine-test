@@ -123,3 +123,4 @@
 - pkg:apk/alpine/psqlodbc@16.00.0005-r0?arch=s390x&distro=v3.22
 - pkg:apk/alpine/psqlodbc@16.00.0005-r0?arch=x86&distro=v3.22
 - pkg:apk/alpine/psqlodbc@16.00.0005-r0?arch=x86_64&distro=v3.22
+- pkg:apk/alpine/psqlodbc@09.03.0400-r0?arch=armhf&distro=v3.3

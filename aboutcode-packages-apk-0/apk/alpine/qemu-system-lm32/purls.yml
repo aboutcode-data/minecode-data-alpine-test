@@ -27,3 +27,4 @@
 - pkg:apk/alpine/qemu-system-lm32@5.0.0-r2?arch=x86_64&distro=v3.12
 - pkg:apk/alpine/qemu-system-lm32@2.4.0.1-r1?arch=x86&distro=v3.2
 - pkg:apk/alpine/qemu-system-lm32@2.4.0.1-r1?arch=x86_64&distro=v3.2
+- pkg:apk/alpine/qemu-system-lm32@2.4.1-r4?arch=armhf&distro=v3.3

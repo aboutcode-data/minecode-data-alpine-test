@@ -121,3 +121,4 @@
 - pkg:apk/alpine/opus-doc@1.5.2-r1?arch=s390x&distro=v3.22
 - pkg:apk/alpine/opus-doc@1.5.2-r1?arch=x86&distro=v3.22
 - pkg:apk/alpine/opus-doc@1.5.2-r1?arch=x86_64&distro=v3.22
+- pkg:apk/alpine/opus-doc@1.1.1-r0?arch=armhf&distro=v3.3

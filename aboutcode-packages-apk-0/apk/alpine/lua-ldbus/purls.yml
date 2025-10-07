@@ -115,3 +115,4 @@
 - pkg:apk/alpine/lua-ldbus@20150430-r4?arch=s390x&distro=v3.22
 - pkg:apk/alpine/lua-ldbus@20150430-r4?arch=x86&distro=v3.22
 - pkg:apk/alpine/lua-ldbus@20150430-r4?arch=x86_64&distro=v3.22
+- pkg:apk/alpine/lua-ldbus@20150430-r1?arch=armhf&distro=v3.3

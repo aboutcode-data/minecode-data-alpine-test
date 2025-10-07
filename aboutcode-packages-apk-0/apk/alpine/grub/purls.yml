@@ -112,3 +112,4 @@
 - pkg:apk/alpine/grub@2.02-r6?arch=aarch64&distro=v3.8
 - pkg:apk/alpine/grub@2.02-r6?arch=armhf&distro=v3.8
 - pkg:apk/alpine/grub@2.02-r6?arch=ppc64le&distro=v3.8
+- pkg:apk/alpine/grub@2.02-r6?arch=x86&distro=v3.8

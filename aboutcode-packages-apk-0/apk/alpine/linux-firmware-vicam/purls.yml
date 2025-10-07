@@ -119,3 +119,4 @@
 - pkg:apk/alpine/linux-firmware-vicam@20180615-r2?arch=armhf&distro=v3.8
 - pkg:apk/alpine/linux-firmware-vicam@20180615-r2?arch=ppc64le&distro=v3.8
 - pkg:apk/alpine/linux-firmware-vicam@20180615-r2?arch=s390x&distro=v3.8
+- pkg:apk/alpine/linux-firmware-vicam@20180615-r2?arch=x86&distro=v3.8

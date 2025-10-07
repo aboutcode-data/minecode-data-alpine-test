@@ -34,3 +34,4 @@
 - pkg:apk/alpine/darktable-doc@4.6.1-r1?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/darktable-doc@4.8.1-r1?arch=ppc64le&distro=v3.21
 - pkg:apk/alpine/darktable-doc@4.8.1-r1?arch=x86_64&distro=v3.21
+- pkg:apk/alpine/darktable-doc@5.0.1-r1?arch=ppc64le&distro=v3.22

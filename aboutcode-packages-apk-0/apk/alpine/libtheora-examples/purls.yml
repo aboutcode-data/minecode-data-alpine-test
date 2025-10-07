@@ -41,3 +41,4 @@
 - pkg:apk/alpine/libtheora-examples@1.1.1-r12?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/libtheora-examples@1.1.1-r12?arch=armhf&distro=v3.6
 - pkg:apk/alpine/libtheora-examples@1.1.1-r12?arch=ppc64le&distro=v3.6
+- pkg:apk/alpine/libtheora-examples@1.1.1-r12?arch=s390x&distro=v3.6

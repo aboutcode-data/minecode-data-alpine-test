@@ -112,3 +112,4 @@
 - pkg:apk/alpine/cppcheck@2.14.2-r1?arch=x86&distro=v3.22
 - pkg:apk/alpine/cppcheck@2.14.2-r1?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/cppcheck@1.78-r0?arch=aarch64&distro=v3.6
+- pkg:apk/alpine/cppcheck@1.78-r0?arch=armhf&distro=v3.6

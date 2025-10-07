@@ -117,3 +117,4 @@
 - pkg:apk/alpine/perl-io-prompt-tiny-doc@0.003-r3?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/perl-io-prompt-tiny-doc@0.003-r0?arch=aarch64&distro=v3.7
 - pkg:apk/alpine/perl-io-prompt-tiny-doc@0.003-r0?arch=armhf&distro=v3.7
+- pkg:apk/alpine/perl-io-prompt-tiny-doc@0.003-r0?arch=ppc64le&distro=v3.7

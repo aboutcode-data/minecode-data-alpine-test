@@ -131,3 +131,4 @@
 - pkg:apk/alpine/xpdf-doc@3.04-r2?arch=x86_64&distro=v3.6
 - pkg:apk/alpine/xpdf-doc@3.04-r4?arch=aarch64&distro=v3.7
 - pkg:apk/alpine/xpdf-doc@3.04-r4?arch=armhf&distro=v3.7
+- pkg:apk/alpine/xpdf-doc@3.04-r4?arch=ppc64le&distro=v3.7

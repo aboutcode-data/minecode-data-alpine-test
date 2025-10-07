@@ -34,3 +34,4 @@
 - pkg:apk/alpine/x11-calc-prg@0.14.0154-r0?arch=x86&distro=v3.21
 - pkg:apk/alpine/x11-calc-prg@0.14.0154-r0?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/x11-calc-prg@0.16.172-r0?arch=aarch64&distro=v3.22
+- pkg:apk/alpine/x11-calc-prg@0.16.172-r0?arch=armhf&distro=v3.22

@@ -51,3 +51,4 @@
 - pkg:apk/alpine/linux-rpi-dev@4.9.33-r0?arch=armhf&distro=v3.6
 - pkg:apk/alpine/linux-rpi-dev@4.9.65-r0?arch=armhf&distro=v3.7
 - pkg:apk/alpine/linux-rpi-dev@4.14.127-r0?arch=aarch64&distro=v3.8
+- pkg:apk/alpine/linux-rpi-dev@4.14.127-r0?arch=armhf&distro=v3.8

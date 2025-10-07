@@ -55,3 +55,4 @@
 - pkg:apk/alpine/u-boot-all@2017.01-r2?arch=aarch64&distro=v3.7
 - pkg:apk/alpine/u-boot-all@2017.01-r2?arch=armhf&distro=v3.7
 - pkg:apk/alpine/u-boot-all@2018.05-r1?arch=aarch64&distro=v3.8
+- pkg:apk/alpine/u-boot-all@2018.05-r1?arch=armhf&distro=v3.8

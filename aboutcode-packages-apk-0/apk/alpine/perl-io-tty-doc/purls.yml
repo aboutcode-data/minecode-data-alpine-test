@@ -146,3 +146,4 @@
 - pkg:apk/alpine/perl-io-tty-doc@1.12-r4?arch=x86&distro=v3.7
 - pkg:apk/alpine/perl-io-tty-doc@1.12-r4?arch=x86_64&distro=v3.7
 - pkg:apk/alpine/perl-io-tty-doc@1.12-r4?arch=aarch64&distro=v3.8
+- pkg:apk/alpine/perl-io-tty-doc@1.12-r4?arch=armhf&distro=v3.8

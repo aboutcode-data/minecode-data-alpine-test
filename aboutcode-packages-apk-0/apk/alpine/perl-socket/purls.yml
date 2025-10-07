@@ -138,3 +138,4 @@
 - pkg:apk/alpine/perl-socket@2.024-r2?arch=x86&distro=v3.7
 - pkg:apk/alpine/perl-socket@2.024-r2?arch=x86_64&distro=v3.7
 - pkg:apk/alpine/perl-socket@2.027-r0?arch=aarch64&distro=v3.8
+- pkg:apk/alpine/perl-socket@2.027-r0?arch=armhf&distro=v3.8

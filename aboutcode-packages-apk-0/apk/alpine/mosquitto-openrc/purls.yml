@@ -116,3 +116,4 @@
 - pkg:apk/alpine/mosquitto-openrc@2.0.21-r0?arch=x86&distro=v3.22
 - pkg:apk/alpine/mosquitto-openrc@2.0.21-r0?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/mosquitto-openrc@1.4.15-r6?arch=aarch64&distro=v3.8
+- pkg:apk/alpine/mosquitto-openrc@1.4.15-r6?arch=armhf&distro=v3.8

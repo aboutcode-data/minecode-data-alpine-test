@@ -60,3 +60,4 @@
 - pkg:apk/alpine/broot@1.44.2-r1?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/broot@1.44.2-r1?arch=armhf&distro=v3.21
 - pkg:apk/alpine/broot@1.44.2-r1?arch=armv7&distro=v3.21
+- pkg:apk/alpine/broot@1.44.2-r1?arch=loongarch64&distro=v3.21

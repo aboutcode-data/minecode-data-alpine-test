@@ -9,3 +9,4 @@
 - pkg:apk/alpine/pv@1.9.34-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/pv@1.9.31-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/pv@1.9.31-r1?arch=armhf&distro=latest-stable
+- pkg:apk/alpine/pv@1.9.31-r1?arch=armv7&distro=latest-stable

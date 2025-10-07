@@ -10,3 +10,4 @@
 - pkg:apk/alpine/icingaweb2-sqlite-backend@2.12.2-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/icingaweb2-sqlite-backend@2.12.2-r0?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/icingaweb2-sqlite-backend@2.12.2-r0?arch=ppc64le&distro=latest-stable
+- pkg:apk/alpine/icingaweb2-sqlite-backend@2.12.2-r0?arch=riscv64&distro=latest-stable

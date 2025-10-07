@@ -138,3 +138,4 @@
 - pkg:apk/alpine/btrbk-doc@0.26.1-r1?arch=x86&distro=v3.8
 - pkg:apk/alpine/btrbk-doc@0.26.1-r1?arch=x86_64&distro=v3.8
 - pkg:apk/alpine/btrbk-doc@0.27.0-r0?arch=aarch64&distro=v3.9
+- pkg:apk/alpine/btrbk-doc@0.27.0-r0?arch=armhf&distro=v3.9

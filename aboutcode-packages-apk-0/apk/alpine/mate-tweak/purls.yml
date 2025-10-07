@@ -116,3 +116,4 @@
 - pkg:apk/alpine/mate-tweak@22.10.0-r1?arch=x86&distro=v3.22
 - pkg:apk/alpine/mate-tweak@22.10.0-r1?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/mate-tweak@18.10.2-r1?arch=aarch64&distro=v3.9
+- pkg:apk/alpine/mate-tweak@18.10.2-r1?arch=armhf&distro=v3.9

@@ -68,3 +68,4 @@
 - pkg:apk/alpine/lldb-dev@17.0.6-r1?arch=s390x&distro=v3.20
 - pkg:apk/alpine/lldb-dev@17.0.6-r1?arch=x86&distro=v3.20
 - pkg:apk/alpine/lldb-dev@17.0.6-r1?arch=x86_64&distro=v3.20
+- pkg:apk/alpine/lldb-dev@19.1.4-r0?arch=aarch64&distro=v3.21

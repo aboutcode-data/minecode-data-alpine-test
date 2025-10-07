@@ -30,3 +30,4 @@
 - pkg:apk/alpine/libstdc%2B%2B-dev@12.2.1_git20220924-r10?arch=s390x&distro=v3.18
 - pkg:apk/alpine/libstdc%2B%2B-dev@12.2.1_git20220924-r10?arch=x86&distro=v3.18
 - pkg:apk/alpine/libstdc%2B%2B-dev@12.2.1_git20220924-r10?arch=x86_64&distro=v3.18
+- pkg:apk/alpine/libstdc%2B%2B-dev@13.2.1_git20231014-r0?arch=aarch64&distro=v3.19

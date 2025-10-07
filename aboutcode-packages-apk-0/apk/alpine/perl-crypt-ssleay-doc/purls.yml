@@ -11,3 +11,4 @@
 - pkg:apk/alpine/perl-crypt-ssleay-doc@0.72-r22?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/perl-crypt-ssleay-doc@0.72-r22?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/perl-crypt-ssleay-doc@0.72-r22?arch=loongarch64&distro=latest-stable
+- pkg:apk/alpine/perl-crypt-ssleay-doc@0.72-r22?arch=ppc64le&distro=latest-stable

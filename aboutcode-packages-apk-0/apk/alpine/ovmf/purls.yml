@@ -21,3 +21,4 @@
 - pkg:apk/alpine/ovmf@0.0.20161115-r1?arch=x86_64&distro=v3.6
 - pkg:apk/alpine/ovmf@0.0.20170624-r0?arch=x86_64&distro=v3.7
 - pkg:apk/alpine/ovmf@0.0.20170624-r0?arch=x86_64&distro=v3.8
+- pkg:apk/alpine/ovmf@0.0.20170624-r0?arch=x86_64&distro=v3.9

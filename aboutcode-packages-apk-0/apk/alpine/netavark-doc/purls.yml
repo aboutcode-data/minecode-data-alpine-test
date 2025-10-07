@@ -60,3 +60,4 @@
 - pkg:apk/alpine/netavark-doc@1.16.1-r0?arch=loongarch64&distro=v3.22
 - pkg:apk/alpine/netavark-doc@1.16.1-r0?arch=ppc64le&distro=v3.22
 - pkg:apk/alpine/netavark-doc@1.16.1-r0?arch=riscv64&distro=v3.22
+- pkg:apk/alpine/netavark-doc@1.16.1-r0?arch=x86&distro=v3.22

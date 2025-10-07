@@ -46,3 +46,4 @@
 - pkg:apk/alpine/llvm15-test-utils@15.0.7-r15?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/llvm15-test-utils@15.0.7-r15?arch=armhf&distro=v3.21
 - pkg:apk/alpine/llvm15-test-utils@15.0.7-r15?arch=armv7&distro=v3.21
+- pkg:apk/alpine/llvm15-test-utils@15.0.7-r15?arch=ppc64le&distro=v3.21

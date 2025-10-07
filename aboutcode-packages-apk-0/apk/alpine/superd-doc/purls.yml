@@ -38,3 +38,4 @@
 - pkg:apk/alpine/superd-doc@0.7.1-r10?arch=x86&distro=v3.18
 - pkg:apk/alpine/superd-doc@0.7.1-r10?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/superd-doc@0.7.1-r13?arch=aarch64&distro=v3.19
+- pkg:apk/alpine/superd-doc@0.7.1-r13?arch=armhf&distro=v3.19

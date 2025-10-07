@@ -126,3 +126,4 @@
 - pkg:apk/alpine/quagga-dbg@0.99.24.1-r5?arch=armhf&distro=v3.3
 - pkg:apk/alpine/quagga-dbg@0.99.24.1-r6?arch=x86&distro=v3.3
 - pkg:apk/alpine/quagga-dbg@0.99.24.1-r6?arch=x86_64&distro=v3.3
+- pkg:apk/alpine/quagga-dbg@1.0.20161017-r0?arch=armhf&distro=v3.4

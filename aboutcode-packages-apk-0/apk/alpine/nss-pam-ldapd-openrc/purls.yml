@@ -108,3 +108,4 @@
 - pkg:apk/alpine/nss-pam-ldapd-openrc@0.9.11-r6?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/nss-pam-ldapd-openrc@0.9.11-r6?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/nss-pam-ldapd-openrc@0.9.11-r6?arch=armhf&distro=v3.22
+- pkg:apk/alpine/nss-pam-ldapd-openrc@0.9.11-r6?arch=armv7&distro=v3.22

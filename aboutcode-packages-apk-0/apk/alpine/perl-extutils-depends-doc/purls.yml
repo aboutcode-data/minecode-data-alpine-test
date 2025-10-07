@@ -119,3 +119,4 @@
 - pkg:apk/alpine/perl-extutils-depends-doc@0.8001-r2?arch=x86&distro=v3.22
 - pkg:apk/alpine/perl-extutils-depends-doc@0.8001-r2?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/perl-extutils-depends-doc@0.405-r0?arch=aarch64&distro=v3.5
+- pkg:apk/alpine/perl-extutils-depends-doc@0.405-r0?arch=armhf&distro=v3.5

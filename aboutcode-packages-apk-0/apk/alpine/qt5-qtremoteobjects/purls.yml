@@ -3,3 +3,4 @@
 - pkg:apk/alpine/qt5-qtremoteobjects@5.15.10_git20230601-r1?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/qt5-qtremoteobjects@5.15.10_git20230601-r1?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/qt5-qtremoteobjects@5.15.10_git20230601-r1?arch=ppc64le&distro=latest-stable
+- pkg:apk/alpine/qt5-qtremoteobjects@5.15.10_git20230601-r1?arch=riscv64&distro=latest-stable

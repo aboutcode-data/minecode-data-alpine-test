@@ -14,3 +14,4 @@
 - pkg:apk/alpine/miller-doc@6.13.0-r7?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/miller-doc@6.13.0-r7?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/miller-doc@6.13.0-r7?arch=s390x&distro=latest-stable
+- pkg:apk/alpine/miller-doc@6.13.0-r7?arch=x86&distro=latest-stable

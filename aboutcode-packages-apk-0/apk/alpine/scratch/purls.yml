@@ -1,1 +1,2 @@
 - pkg:apk/alpine/scratch@1.4.0.7-r1?arch=armv7&distro=edge
+- pkg:apk/alpine/scratch@1.4.0.7-r1?arch=s390x&distro=edge

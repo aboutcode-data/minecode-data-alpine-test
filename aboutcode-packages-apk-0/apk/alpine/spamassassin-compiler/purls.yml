@@ -113,3 +113,4 @@
 - pkg:apk/alpine/spamassassin-compiler@4.0.1-r1?arch=s390x&distro=v3.22
 - pkg:apk/alpine/spamassassin-compiler@4.0.1-r1?arch=x86&distro=v3.22
 - pkg:apk/alpine/spamassassin-compiler@4.0.1-r1?arch=x86_64&distro=v3.22
+- pkg:apk/alpine/spamassassin-compiler@3.4.1-r3?arch=armhf&distro=v3.4

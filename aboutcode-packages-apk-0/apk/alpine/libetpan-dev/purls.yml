@@ -153,3 +153,4 @@
 - pkg:apk/alpine/libetpan-dev@1.8-r1?arch=x86_64&distro=v3.8
 - pkg:apk/alpine/libetpan-dev@1.9.2-r0?arch=aarch64&distro=v3.9
 - pkg:apk/alpine/libetpan-dev@1.9.2-r0?arch=armhf&distro=v3.9
+- pkg:apk/alpine/libetpan-dev@1.9.2-r0?arch=armv7&distro=v3.9

@@ -142,3 +142,4 @@
 - pkg:apk/alpine/libconfig%2B%2B@1.5-r3?arch=x86_64&distro=v3.8
 - pkg:apk/alpine/libconfig%2B%2B@1.5-r3?arch=aarch64&distro=v3.9
 - pkg:apk/alpine/libconfig%2B%2B@1.5-r3?arch=armhf&distro=v3.9
+- pkg:apk/alpine/libconfig%2B%2B@1.5-r3?arch=armv7&distro=v3.9

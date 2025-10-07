@@ -19,3 +19,4 @@
 - pkg:apk/alpine/dotnet-doc@7.0.104-r0?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/dotnet-doc@6.0.115-r0?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/dotnet-doc@7.0.104-r0?arch=armv7&distro=v3.17
+- pkg:apk/alpine/dotnet-doc@6.0.115-r0?arch=armv7&distro=v3.17

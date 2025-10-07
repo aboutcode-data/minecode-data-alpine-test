@@ -1,3 +1,4 @@
 - pkg:apk/alpine/pathvector@6.3.2-r16?arch=aarch64&distro=edge
 - pkg:apk/alpine/pathvector@6.3.2-r16?arch=loongarch64&distro=edge
 - pkg:apk/alpine/pathvector@6.3.2-r16?arch=ppc64le&distro=edge
+- pkg:apk/alpine/pathvector@6.3.2-r16?arch=riscv64&distro=edge

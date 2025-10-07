@@ -121,3 +121,4 @@
 - pkg:apk/alpine/lua-cqueues@20200726-r6?arch=s390x&distro=v3.22
 - pkg:apk/alpine/lua-cqueues@20200726-r6?arch=x86&distro=v3.22
 - pkg:apk/alpine/lua-cqueues@20200726-r6?arch=x86_64&distro=v3.22
+- pkg:apk/alpine/lua-cqueues@20150811-r0?arch=armhf&distro=v3.3

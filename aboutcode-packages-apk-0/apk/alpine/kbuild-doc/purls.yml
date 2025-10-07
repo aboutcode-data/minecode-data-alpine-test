@@ -49,3 +49,4 @@
 - pkg:apk/alpine/kbuild-doc@0.1.9998_pre20131130-r1?arch=x86&distro=v3.7
 - pkg:apk/alpine/kbuild-doc@0.1.9998_pre20131130-r1?arch=x86_64&distro=v3.7
 - pkg:apk/alpine/kbuild-doc@0.1.9998_pre20131130-r1?arch=x86&distro=v3.8
+- pkg:apk/alpine/kbuild-doc@0.1.9998_pre20131130-r1?arch=x86_64&distro=v3.8

@@ -43,3 +43,4 @@
 - pkg:apk/alpine/perl-mail-clamav-doc@0.29-r14?arch=x86_64&distro=v3.8
 - pkg:apk/alpine/perl-mail-clamav-doc@0.29-r14?arch=aarch64&distro=v3.9
 - pkg:apk/alpine/perl-mail-clamav-doc@0.29-r14?arch=armhf&distro=v3.9
+- pkg:apk/alpine/perl-mail-clamav-doc@0.29-r14?arch=armv7&distro=v3.9

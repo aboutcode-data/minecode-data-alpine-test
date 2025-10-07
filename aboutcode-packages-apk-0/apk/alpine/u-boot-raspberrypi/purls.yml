@@ -52,3 +52,4 @@
 - pkg:apk/alpine/u-boot-raspberrypi@2018.05-r1?arch=armhf&distro=v3.8
 - pkg:apk/alpine/u-boot-raspberrypi@2018.05-r4?arch=aarch64&distro=v3.9
 - pkg:apk/alpine/u-boot-raspberrypi@2018.05-r4?arch=armhf&distro=v3.9
+- pkg:apk/alpine/u-boot-raspberrypi@2018.05-r4?arch=armv7&distro=v3.9

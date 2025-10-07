@@ -144,3 +144,4 @@
 - pkg:apk/alpine/qextserialport-dev@1.2_rc1-r0?arch=x86_64&distro=v3.8
 - pkg:apk/alpine/qextserialport-dev@1.2_rc1-r0?arch=aarch64&distro=v3.9
 - pkg:apk/alpine/qextserialport-dev@1.2_rc1-r0?arch=armhf&distro=v3.9
+- pkg:apk/alpine/qextserialport-dev@1.2_rc1-r0?arch=armv7&distro=v3.9

@@ -74,3 +74,4 @@
 - pkg:apk/alpine/xf86-video-s3-doc@0.6.5-r9?arch=x86_64&distro=v3.8
 - pkg:apk/alpine/xf86-video-s3-doc@0.6.5-r11?arch=aarch64&distro=v3.9
 - pkg:apk/alpine/xf86-video-s3-doc@0.6.5-r11?arch=armhf&distro=v3.9
+- pkg:apk/alpine/xf86-video-s3-doc@0.6.5-r11?arch=armv7&distro=v3.9

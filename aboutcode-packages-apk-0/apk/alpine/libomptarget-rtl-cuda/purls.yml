@@ -15,3 +15,4 @@
 - pkg:apk/alpine/libomptarget-rtl-cuda@17.0.6-r0?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/libomptarget-rtl-cuda@18.1.8-r1?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/libomptarget-rtl-cuda@18.1.8-r1?arch=ppc64le&distro=v3.21
+- pkg:apk/alpine/libomptarget-rtl-cuda@18.1.8-r1?arch=x86_64&distro=v3.21

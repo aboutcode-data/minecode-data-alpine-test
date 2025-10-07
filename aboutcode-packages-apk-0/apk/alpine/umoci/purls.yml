@@ -84,3 +84,4 @@
 - pkg:apk/alpine/umoci@0.4.7-r23?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/umoci@0.4.7-r23?arch=armhf&distro=v3.19
 - pkg:apk/alpine/umoci@0.4.7-r23?arch=armv7&distro=v3.19
+- pkg:apk/alpine/umoci@0.4.7-r23?arch=ppc64le&distro=v3.19

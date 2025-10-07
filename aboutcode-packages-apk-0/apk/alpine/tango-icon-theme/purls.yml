@@ -138,3 +138,4 @@
 - pkg:apk/alpine/tango-icon-theme@0.8.90-r2?arch=ppc64le&distro=v3.6
 - pkg:apk/alpine/tango-icon-theme@0.8.90-r2?arch=s390x&distro=v3.6
 - pkg:apk/alpine/tango-icon-theme@0.8.90-r2?arch=x86&distro=v3.6
+- pkg:apk/alpine/tango-icon-theme@0.8.90-r2?arch=x86_64&distro=v3.6

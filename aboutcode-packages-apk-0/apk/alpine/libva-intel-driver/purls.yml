@@ -41,3 +41,4 @@
 - pkg:apk/alpine/libva-intel-driver@1.7.2-r0?arch=x86&distro=v3.5
 - pkg:apk/alpine/libva-intel-driver@1.7.2-r0?arch=x86_64&distro=v3.5
 - pkg:apk/alpine/libva-intel-driver@1.7.3-r0?arch=x86&distro=v3.6
+- pkg:apk/alpine/libva-intel-driver@1.7.3-r0?arch=x86_64&distro=v3.6

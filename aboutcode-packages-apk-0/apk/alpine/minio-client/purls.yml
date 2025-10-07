@@ -8,3 +8,4 @@
 - pkg:apk/alpine/minio-client@0.20250813.083541-r0?arch=x86&distro=edge
 - pkg:apk/alpine/minio-client@0.20250813.083541-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/minio-client@0.20250521.015954-r2?arch=aarch64&distro=latest-stable
+- pkg:apk/alpine/minio-client@0.20250521.015954-r2?arch=armhf&distro=latest-stable

@@ -62,3 +62,4 @@
 - pkg:apk/alpine/razor-doc@2.85-r11?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/razor-doc@2.85-r11?arch=armhf&distro=v3.15
 - pkg:apk/alpine/razor-doc@2.85-r11?arch=armv7&distro=v3.15
+- pkg:apk/alpine/razor-doc@2.85-r11?arch=ppc64le&distro=v3.15

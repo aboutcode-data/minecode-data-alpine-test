@@ -47,3 +47,4 @@
 - pkg:apk/alpine/peep@0.1.6_git20220920-r1?arch=armv7&distro=v3.22
 - pkg:apk/alpine/peep@0.1.6_git20220920-r1?arch=ppc64le&distro=v3.22
 - pkg:apk/alpine/peep@0.1.6_git20220920-r1?arch=riscv64&distro=v3.22
+- pkg:apk/alpine/peep@0.1.6_git20220920-r1?arch=x86&distro=v3.22

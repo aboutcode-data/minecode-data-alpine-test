@@ -1,1 +1,2 @@
 - pkg:apk/alpine/ada@2.9.2-r5?arch=aarch64&distro=edge
+- pkg:apk/alpine/ada@2.9.2-r5?arch=armhf&distro=edge

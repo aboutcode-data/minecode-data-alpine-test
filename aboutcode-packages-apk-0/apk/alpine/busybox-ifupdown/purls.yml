@@ -1,1 +1,2 @@
 - pkg:apk/alpine/busybox-ifupdown@1.37.0-r23?arch=aarch64&distro=edge
+- pkg:apk/alpine/busybox-ifupdown@1.37.0-r23?arch=armhf&distro=edge

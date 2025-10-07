@@ -67,3 +67,4 @@
 - pkg:apk/alpine/docker-registry@2.8.1-r17?arch=x86&distro=v3.17
 - pkg:apk/alpine/docker-registry@2.8.1-r17?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/docker-registry@2.8.2-r4?arch=aarch64&distro=v3.18
+- pkg:apk/alpine/docker-registry@2.8.2-r4?arch=armhf&distro=v3.18

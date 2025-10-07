@@ -15,3 +15,4 @@
 - pkg:apk/alpine/dracut@107-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/dracut@107-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/dracut@059-r4?arch=aarch64&distro=v3.18
+- pkg:apk/alpine/dracut@059-r4?arch=armhf&distro=v3.18

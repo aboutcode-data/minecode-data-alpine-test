@@ -53,3 +53,4 @@
 - pkg:apk/alpine/curlie@1.6.9-r9?arch=x86&distro=v3.17
 - pkg:apk/alpine/curlie@1.6.9-r9?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/curlie@1.7.1-r4?arch=aarch64&distro=v3.18
+- pkg:apk/alpine/curlie@1.7.1-r4?arch=armhf&distro=v3.18

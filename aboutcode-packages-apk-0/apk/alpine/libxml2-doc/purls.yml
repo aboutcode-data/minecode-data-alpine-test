@@ -112,3 +112,4 @@
 - pkg:apk/alpine/libxml2-doc@2.13.4-r6?arch=ppc64le&distro=v3.21
 - pkg:apk/alpine/libxml2-doc@2.13.4-r6?arch=riscv64&distro=v3.21
 - pkg:apk/alpine/libxml2-doc@2.13.4-r6?arch=s390x&distro=v3.21
+- pkg:apk/alpine/libxml2-doc@2.13.4-r6?arch=x86&distro=v3.21

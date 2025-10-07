@@ -55,3 +55,4 @@
 - pkg:apk/alpine/libtheora-examples@1.1.1-r13?arch=ppc64le&distro=v3.8
 - pkg:apk/alpine/libtheora-examples@1.1.1-r13?arch=s390x&distro=v3.8
 - pkg:apk/alpine/libtheora-examples@1.1.1-r13?arch=x86&distro=v3.8
+- pkg:apk/alpine/libtheora-examples@1.1.1-r13?arch=x86_64&distro=v3.8

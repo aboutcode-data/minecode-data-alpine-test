@@ -132,3 +132,4 @@
 - pkg:apk/alpine/lxc-bridge@2.1.1-r9?arch=ppc64le&distro=v3.8
 - pkg:apk/alpine/lxc-bridge@2.1.1-r9?arch=s390x&distro=v3.8
 - pkg:apk/alpine/lxc-bridge@2.1.1-r9?arch=x86&distro=v3.8
+- pkg:apk/alpine/lxc-bridge@2.1.1-r9?arch=x86_64&distro=v3.8

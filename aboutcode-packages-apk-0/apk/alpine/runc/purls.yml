@@ -116,3 +116,4 @@
 - pkg:apk/alpine/runc@1.0.0_rc8-r0?arch=aarch64&distro=v3.9
 - pkg:apk/alpine/runc@1.0.0_rc8-r0?arch=armhf&distro=v3.9
 - pkg:apk/alpine/runc@1.0.0_rc8-r0?arch=armv7&distro=v3.9
+- pkg:apk/alpine/runc@1.0.0_rc8-r0?arch=ppc64le&distro=v3.9

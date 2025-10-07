@@ -130,3 +130,4 @@
 - pkg:apk/alpine/miniperl@5.22.3-r0?arch=x86&distro=v3.4
 - pkg:apk/alpine/miniperl@5.22.3-r0?arch=x86_64&distro=v3.4
 - pkg:apk/alpine/miniperl@5.24.4-r1?arch=aarch64&distro=v3.5
+- pkg:apk/alpine/miniperl@5.24.4-r1?arch=armhf&distro=v3.5

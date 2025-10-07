@@ -23,3 +23,4 @@
 - pkg:apk/alpine/xremap-wlr@0.10.12-r0?arch=armv7&distro=v3.22
 - pkg:apk/alpine/xremap-wlr@0.10.12-r0?arch=ppc64le&distro=v3.22
 - pkg:apk/alpine/xremap-wlr@0.10.12-r0?arch=riscv64&distro=v3.22
+- pkg:apk/alpine/xremap-wlr@0.10.12-r0?arch=x86&distro=v3.22

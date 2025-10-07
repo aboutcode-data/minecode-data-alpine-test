@@ -3,3 +3,4 @@
 - pkg:apk/alpine/openjdk22-jmods@22.0.2_p9-r3?arch=ppc64le&distro=edge
 - pkg:apk/alpine/openjdk22-jmods@22.0.2_p9-r3?arch=riscv64&distro=edge
 - pkg:apk/alpine/openjdk22-jmods@22.0.2_p9-r3?arch=s390x&distro=edge
+- pkg:apk/alpine/openjdk22-jmods@22.0.2_p9-r3?arch=x86_64&distro=edge

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/gamja@1.0.0_beta11-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/gamja@1.0.0_beta11-r0?arch=armhf&distro=edge

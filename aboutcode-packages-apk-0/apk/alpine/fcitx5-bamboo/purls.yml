@@ -1,1 +1,2 @@
 - pkg:apk/alpine/fcitx5-bamboo@1.0.8-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/fcitx5-bamboo@1.0.8-r3?arch=armhf&distro=edge

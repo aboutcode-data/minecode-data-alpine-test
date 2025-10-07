@@ -123,3 +123,4 @@
 - pkg:apk/alpine/bind-libs@9.20.13-r0?arch=s390x&distro=v3.22
 - pkg:apk/alpine/bind-libs@9.20.13-r0?arch=x86&distro=v3.22
 - pkg:apk/alpine/bind-libs@9.20.13-r0?arch=x86_64&distro=v3.22
+- pkg:apk/alpine/bind-libs@9.10.4_p8-r0?arch=armhf&distro=v3.3

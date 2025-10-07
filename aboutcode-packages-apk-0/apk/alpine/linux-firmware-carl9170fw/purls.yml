@@ -1,2 +1,3 @@
 - pkg:apk/alpine/linux-firmware-carl9170fw@20180615-r2?arch=aarch64&distro=v3.8
 - pkg:apk/alpine/linux-firmware-carl9170fw@20180615-r2?arch=armhf&distro=v3.8
+- pkg:apk/alpine/linux-firmware-carl9170fw@20180615-r2?arch=ppc64le&distro=v3.8

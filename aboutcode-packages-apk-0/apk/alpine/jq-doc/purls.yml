@@ -145,3 +145,4 @@
 - pkg:apk/alpine/jq-doc@1.5-r5?arch=x86_64&distro=v3.7
 - pkg:apk/alpine/jq-doc@1.6_rc1-r1?arch=aarch64&distro=v3.8
 - pkg:apk/alpine/jq-doc@1.6_rc1-r1?arch=armhf&distro=v3.8
+- pkg:apk/alpine/jq-doc@1.6_rc1-r1?arch=ppc64le&distro=v3.8

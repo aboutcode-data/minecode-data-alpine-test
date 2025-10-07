@@ -143,3 +143,4 @@
 - pkg:apk/alpine/twm-doc@1.0.9-r2?arch=x86_64&distro=v3.7
 - pkg:apk/alpine/twm-doc@1.0.10-r0?arch=aarch64&distro=v3.8
 - pkg:apk/alpine/twm-doc@1.0.10-r0?arch=armhf&distro=v3.8
+- pkg:apk/alpine/twm-doc@1.0.10-r0?arch=ppc64le&distro=v3.8

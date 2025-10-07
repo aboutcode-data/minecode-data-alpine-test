@@ -168,3 +168,4 @@
 - pkg:apk/alpine/mercurial-zsh-completion@4.6.1-r1?arch=armhf&distro=v3.8
 - pkg:apk/alpine/mercurial-zsh-completion@5.5.1-r0?arch=armhf&distro=v3.8
 - pkg:apk/alpine/mercurial-zsh-completion@5.5.1-r0?arch=ppc64le&distro=v3.8
+- pkg:apk/alpine/mercurial-zsh-completion@4.6.1-r1?arch=ppc64le&distro=v3.8

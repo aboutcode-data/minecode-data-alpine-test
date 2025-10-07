@@ -136,3 +136,4 @@
 - pkg:apk/alpine/samba-common-server-libs@4.7.6-r3?arch=x86_64&distro=v3.7
 - pkg:apk/alpine/samba-common-server-libs@4.8.12-r2?arch=aarch64&distro=v3.8
 - pkg:apk/alpine/samba-common-server-libs@4.8.12-r2?arch=armhf&distro=v3.8
+- pkg:apk/alpine/samba-common-server-libs@4.8.12-r2?arch=ppc64le&distro=v3.8

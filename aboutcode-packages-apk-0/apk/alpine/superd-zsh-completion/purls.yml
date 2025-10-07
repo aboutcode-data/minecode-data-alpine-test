@@ -51,3 +51,4 @@
 - pkg:apk/alpine/superd-zsh-completion@0.7.1-r15?arch=riscv64&distro=v3.20
 - pkg:apk/alpine/superd-zsh-completion@0.7.1-r15?arch=s390x&distro=v3.20
 - pkg:apk/alpine/superd-zsh-completion@0.7.1-r15?arch=x86&distro=v3.20
+- pkg:apk/alpine/superd-zsh-completion@0.7.1-r15?arch=x86_64&distro=v3.20

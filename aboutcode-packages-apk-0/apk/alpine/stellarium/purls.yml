@@ -51,3 +51,4 @@
 - pkg:apk/alpine/stellarium@23.3-r1?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/stellarium@23.3-r1?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/stellarium@24.1-r1?arch=aarch64&distro=v3.20
+- pkg:apk/alpine/stellarium@24.1-r1?arch=x86_64&distro=v3.20

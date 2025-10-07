@@ -40,3 +40,4 @@
 - pkg:apk/alpine/tarsnap-doc@1.0.37-r1?arch=x86_64&distro=v3.5
 - pkg:apk/alpine/tarsnap-doc@1.0.37-r2?arch=x86&distro=v3.6
 - pkg:apk/alpine/tarsnap-doc@1.0.37-r2?arch=x86_64&distro=v3.6
+- pkg:apk/alpine/tarsnap-doc@1.0.39-r2?arch=ppc64le&distro=v3.7

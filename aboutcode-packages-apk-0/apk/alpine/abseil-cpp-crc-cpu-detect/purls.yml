@@ -15,3 +15,4 @@
 - pkg:apk/alpine/abseil-cpp-crc-cpu-detect@20240722.1-r1?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/abseil-cpp-crc-cpu-detect@20240722.1-r1?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/abseil-cpp-crc-cpu-detect@20240722.1-r1?arch=x86&distro=latest-stable
+- pkg:apk/alpine/abseil-cpp-crc-cpu-detect@20240722.1-r1?arch=x86_64&distro=latest-stable

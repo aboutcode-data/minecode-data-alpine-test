@@ -15,3 +15,4 @@
 - pkg:apk/alpine/avahi-tools@0.8-r21?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/avahi-tools@0.8-r21?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/avahi-tools@0.8-r21?arch=x86&distro=latest-stable
+- pkg:apk/alpine/avahi-tools@0.8-r21?arch=x86_64&distro=latest-stable

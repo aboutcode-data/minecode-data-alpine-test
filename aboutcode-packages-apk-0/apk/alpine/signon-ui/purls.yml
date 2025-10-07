@@ -8,3 +8,4 @@
 - pkg:apk/alpine/signon-ui@0.18_git20231016-r0?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/signon-ui@0.18_git20231016-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/signon-ui@0.18_git20231016-r0?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/signon-ui@0.17_git20171023-r0?arch=aarch64&distro=v3.12

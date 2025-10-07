@@ -110,3 +110,4 @@
 - pkg:apk/alpine/awake@1.0-r10?arch=x86&distro=v3.21
 - pkg:apk/alpine/awake@1.0-r10?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/awake@1.0-r12?arch=aarch64&distro=v3.22
+- pkg:apk/alpine/awake@1.0-r12?arch=armhf&distro=v3.22

@@ -47,3 +47,4 @@
 - pkg:apk/alpine/broot-zsh-completion@1.44.2-r1?arch=x86&distro=v3.21
 - pkg:apk/alpine/broot-zsh-completion@1.44.2-r1?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/broot-zsh-completion@1.46.4-r0?arch=aarch64&distro=v3.22
+- pkg:apk/alpine/broot-zsh-completion@1.46.4-r0?arch=armhf&distro=v3.22

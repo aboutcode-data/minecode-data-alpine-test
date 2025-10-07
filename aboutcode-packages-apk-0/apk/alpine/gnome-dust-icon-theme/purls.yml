@@ -68,3 +68,4 @@
 - pkg:apk/alpine/gnome-dust-icon-theme@5.5.1-r3?arch=s390x&distro=v3.16
 - pkg:apk/alpine/gnome-dust-icon-theme@5.5.1-r3?arch=x86&distro=v3.16
 - pkg:apk/alpine/gnome-dust-icon-theme@5.5.1-r3?arch=x86_64&distro=v3.16
+- pkg:apk/alpine/gnome-dust-icon-theme@5.5.1-r4?arch=aarch64&distro=v3.17

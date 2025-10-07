@@ -62,3 +62,4 @@
 - pkg:apk/alpine/openjdk7@7.321.2.6.28-r5?arch=armhf&distro=v3.18
 - pkg:apk/alpine/openjdk7@7.321.2.6.28-r5?arch=armv7&distro=v3.18
 - pkg:apk/alpine/openjdk7@7.321.2.6.28-r5?arch=ppc64le&distro=v3.18
+- pkg:apk/alpine/openjdk7@7.321.2.6.28-r5?arch=s390x&distro=v3.18

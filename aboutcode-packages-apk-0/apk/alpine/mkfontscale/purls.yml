@@ -99,3 +99,4 @@
 - pkg:apk/alpine/mkfontscale@1.0.7-r2?arch=x86_64&distro=v3.2
 - pkg:apk/alpine/mkfontscale@1.2.2-r6?arch=aarch64&distro=v3.20
 - pkg:apk/alpine/mkfontscale@1.2.2-r6?arch=armhf&distro=v3.20
+- pkg:apk/alpine/mkfontscale@1.2.2-r6?arch=armv7&distro=v3.20

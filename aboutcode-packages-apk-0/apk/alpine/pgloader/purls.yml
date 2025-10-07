@@ -9,3 +9,4 @@
 - pkg:apk/alpine/pgloader@3.6.9-r3?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/pgloader@3.6.9-r3?arch=x86&distro=v3.19
 - pkg:apk/alpine/pgloader@3.6.9-r3?arch=x86_64&distro=v3.19
+- pkg:apk/alpine/pgloader@3.6.9-r3?arch=aarch64&distro=v3.20

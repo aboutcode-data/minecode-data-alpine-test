@@ -114,3 +114,4 @@
 - pkg:apk/alpine/libconfig%2B%2B@1.7.3-r3?arch=riscv64&distro=v3.22
 - pkg:apk/alpine/libconfig%2B%2B@1.7.3-r3?arch=s390x&distro=v3.22
 - pkg:apk/alpine/libconfig%2B%2B@1.7.3-r3?arch=x86&distro=v3.22
+- pkg:apk/alpine/libconfig%2B%2B@1.7.3-r3?arch=x86_64&distro=v3.22

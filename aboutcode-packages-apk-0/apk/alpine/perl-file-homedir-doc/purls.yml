@@ -19,3 +19,4 @@
 - pkg:apk/alpine/perl-file-homedir-doc@1.00-r0?arch=armhf&distro=v3.1
 - pkg:apk/alpine/perl-file-homedir-doc@1.006-r1?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/perl-file-homedir-doc@1.006-r1?arch=armhf&distro=v3.18
+- pkg:apk/alpine/perl-file-homedir-doc@1.006-r1?arch=armv7&distro=v3.18

@@ -99,3 +99,4 @@
 - pkg:apk/alpine/texmf-dist-latexextra@2017.46770-r0?arch=s390x&distro=v3.8
 - pkg:apk/alpine/texmf-dist-latexextra@2017.46770-r0?arch=x86&distro=v3.8
 - pkg:apk/alpine/texmf-dist-latexextra@2017.46770-r0?arch=x86_64&distro=v3.8
+- pkg:apk/alpine/texmf-dist-latexextra@2018.48566-r0?arch=aarch64&distro=v3.9

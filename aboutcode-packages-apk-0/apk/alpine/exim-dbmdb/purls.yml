@@ -133,3 +133,4 @@
 - pkg:apk/alpine/exim-dbmdb@4.91-r2?arch=s390x&distro=v3.8
 - pkg:apk/alpine/exim-dbmdb@4.91-r2?arch=x86&distro=v3.8
 - pkg:apk/alpine/exim-dbmdb@4.91-r2?arch=x86_64&distro=v3.8
+- pkg:apk/alpine/exim-dbmdb@4.92.3-r0?arch=aarch64&distro=v3.9

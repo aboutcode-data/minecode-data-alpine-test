@@ -151,3 +151,4 @@
 - pkg:apk/alpine/pianobar-doc@2017.08.30-r1?arch=s390x&distro=v3.8
 - pkg:apk/alpine/pianobar-doc@2017.08.30-r1?arch=x86&distro=v3.8
 - pkg:apk/alpine/pianobar-doc@2017.08.30-r1?arch=x86_64&distro=v3.8
+- pkg:apk/alpine/pianobar-doc@2018.06.22-r1?arch=aarch64&distro=v3.9

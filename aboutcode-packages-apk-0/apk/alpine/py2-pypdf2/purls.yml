@@ -27,3 +27,4 @@
 - pkg:apk/alpine/py2-pypdf2@1.26.0-r2?arch=s390x&distro=v3.8
 - pkg:apk/alpine/py2-pypdf2@1.26.0-r2?arch=x86&distro=v3.8
 - pkg:apk/alpine/py2-pypdf2@1.26.0-r2?arch=x86_64&distro=v3.8
+- pkg:apk/alpine/py2-pypdf2@1.26.0-r2?arch=aarch64&distro=v3.9

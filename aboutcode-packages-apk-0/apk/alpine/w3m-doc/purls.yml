@@ -137,3 +137,4 @@
 - pkg:apk/alpine/w3m-doc@0.5.3.20180125-r2?arch=s390x&distro=v3.8
 - pkg:apk/alpine/w3m-doc@0.5.3.20180125-r2?arch=x86&distro=v3.8
 - pkg:apk/alpine/w3m-doc@0.5.3.20180125-r2?arch=x86_64&distro=v3.8
+- pkg:apk/alpine/w3m-doc@0.5.3.20180125-r4?arch=aarch64&distro=v3.9

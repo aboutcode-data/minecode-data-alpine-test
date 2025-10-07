@@ -152,3 +152,4 @@
 - pkg:apk/alpine/ghostscript-dev@9.26-r4?arch=x86&distro=v3.8
 - pkg:apk/alpine/ghostscript-dev@9.26-r4?arch=x86_64&distro=v3.8
 - pkg:apk/alpine/ghostscript-dev@9.26-r5?arch=aarch64&distro=v3.9
+- pkg:apk/alpine/ghostscript-dev@9.26-r5?arch=armhf&distro=v3.9

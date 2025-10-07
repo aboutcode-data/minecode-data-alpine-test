@@ -152,3 +152,4 @@
 - pkg:apk/alpine/feh-doc@2.26-r0?arch=x86&distro=v3.8
 - pkg:apk/alpine/feh-doc@2.26-r0?arch=x86_64&distro=v3.8
 - pkg:apk/alpine/feh-doc@3.1.1-r0?arch=aarch64&distro=v3.9
+- pkg:apk/alpine/feh-doc@3.1.1-r0?arch=armhf&distro=v3.9

@@ -87,3 +87,4 @@
 - pkg:apk/alpine/cloog-dev@0.18.4-r2?arch=x86&distro=v3.8
 - pkg:apk/alpine/cloog-dev@0.18.4-r2?arch=x86_64&distro=v3.8
 - pkg:apk/alpine/cloog-dev@0.18.4-r2?arch=aarch64&distro=v3.9
+- pkg:apk/alpine/cloog-dev@0.18.4-r2?arch=armhf&distro=v3.9

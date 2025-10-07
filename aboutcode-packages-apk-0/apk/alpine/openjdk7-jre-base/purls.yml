@@ -95,3 +95,4 @@
 - pkg:apk/alpine/openjdk7-jre-base@7.211.2.6.17-r0?arch=s390x&distro=v3.8
 - pkg:apk/alpine/openjdk7-jre-base@7.211.2.6.17-r0?arch=x86&distro=v3.8
 - pkg:apk/alpine/openjdk7-jre-base@7.211.2.6.17-r0?arch=x86_64&distro=v3.8
+- pkg:apk/alpine/openjdk7-jre-base@7.261.2.6.22-r0?arch=aarch64&distro=v3.9

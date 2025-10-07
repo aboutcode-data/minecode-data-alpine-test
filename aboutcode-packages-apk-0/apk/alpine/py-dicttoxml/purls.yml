@@ -27,3 +27,4 @@
 - pkg:apk/alpine/py-dicttoxml@1.7.4-r1?arch=s390x&distro=v3.8
 - pkg:apk/alpine/py-dicttoxml@1.7.4-r1?arch=x86&distro=v3.8
 - pkg:apk/alpine/py-dicttoxml@1.7.4-r1?arch=x86_64&distro=v3.8
+- pkg:apk/alpine/py-dicttoxml@1.7.4-r1?arch=aarch64&distro=v3.9

@@ -41,3 +41,4 @@
 - pkg:apk/alpine/pdfjs-dbg@4.9.124-r0?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/pdfjs-dbg@4.9.124-r0?arch=armhf&distro=v3.21
 - pkg:apk/alpine/pdfjs-dbg@4.9.124-r0?arch=armv7&distro=v3.21
+- pkg:apk/alpine/pdfjs-dbg@4.9.124-r0?arch=loongarch64&distro=v3.21

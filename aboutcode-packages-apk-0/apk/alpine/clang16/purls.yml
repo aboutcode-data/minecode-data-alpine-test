@@ -47,3 +47,4 @@
 - pkg:apk/alpine/clang16@16.0.6-r6?arch=s390x&distro=v3.21
 - pkg:apk/alpine/clang16@16.0.6-r6?arch=x86&distro=v3.21
 - pkg:apk/alpine/clang16@16.0.6-r6?arch=x86_64&distro=v3.21
+- pkg:apk/alpine/clang16@16.0.6-r9?arch=aarch64&distro=v3.22

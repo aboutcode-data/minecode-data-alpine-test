@@ -36,3 +36,4 @@
 - pkg:apk/alpine/emacs-promise@1.1_git20210307-r0?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/emacs-promise@1.1_git20210307-r0?arch=armhf&distro=v3.22
 - pkg:apk/alpine/emacs-promise@1.1_git20210307-r0?arch=armv7&distro=v3.22
+- pkg:apk/alpine/emacs-promise@1.1_git20210307-r0?arch=loongarch64&distro=v3.22

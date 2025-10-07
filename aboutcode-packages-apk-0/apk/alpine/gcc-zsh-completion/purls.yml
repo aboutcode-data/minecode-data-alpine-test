@@ -120,3 +120,4 @@
 - pkg:apk/alpine/gcc-zsh-completion@5.2-r4?arch=x86&distro=v3.5
 - pkg:apk/alpine/gcc-zsh-completion@5.2-r4?arch=x86_64&distro=v3.5
 - pkg:apk/alpine/gcc-zsh-completion@5.3.1-r1?arch=aarch64&distro=v3.6
+- pkg:apk/alpine/gcc-zsh-completion@5.3.1-r1?arch=armhf&distro=v3.6

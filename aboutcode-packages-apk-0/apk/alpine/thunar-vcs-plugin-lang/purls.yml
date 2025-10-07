@@ -139,3 +139,4 @@
 - pkg:apk/alpine/thunar-vcs-plugin-lang@0.1.4-r6?arch=x86_64&distro=v3.7
 - pkg:apk/alpine/thunar-vcs-plugin-lang@0.1.4-r6?arch=aarch64&distro=v3.8
 - pkg:apk/alpine/thunar-vcs-plugin-lang@0.1.4-r6?arch=armhf&distro=v3.8
+- pkg:apk/alpine/thunar-vcs-plugin-lang@0.1.4-r6?arch=ppc64le&distro=v3.8

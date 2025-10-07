@@ -1,1 +1,2 @@
 - pkg:apk/alpine/font-ubuntu@0.869-r0?arch=aarch64&distro=latest-stable
+- pkg:apk/alpine/font-ubuntu@0.869-r0?arch=armhf&distro=latest-stable

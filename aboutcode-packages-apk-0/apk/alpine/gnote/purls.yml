@@ -8,3 +8,4 @@
 - pkg:apk/alpine/gnote@48.1-r0?arch=x86&distro=edge
 - pkg:apk/alpine/gnote@48.1-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/gnote@47.2-r0?arch=aarch64&distro=latest-stable
+- pkg:apk/alpine/gnote@47.2-r0?arch=armhf&distro=latest-stable

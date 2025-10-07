@@ -80,3 +80,4 @@
 - pkg:apk/alpine/cyrus-sasl-scram@2.1.28-r3?arch=s390x&distro=v3.17
 - pkg:apk/alpine/cyrus-sasl-scram@2.1.28-r3?arch=x86&distro=v3.17
 - pkg:apk/alpine/cyrus-sasl-scram@2.1.28-r3?arch=x86_64&distro=v3.17
+- pkg:apk/alpine/cyrus-sasl-scram@2.1.28-r4?arch=aarch64&distro=v3.18

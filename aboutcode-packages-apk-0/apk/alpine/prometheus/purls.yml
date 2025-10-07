@@ -68,3 +68,4 @@
 - pkg:apk/alpine/prometheus@2.42.0-r9?arch=x86&distro=v3.18
 - pkg:apk/alpine/prometheus@2.42.0-r9?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/prometheus@2.48.0-r3?arch=aarch64&distro=v3.19
+- pkg:apk/alpine/prometheus@2.48.0-r3?arch=armhf&distro=v3.19

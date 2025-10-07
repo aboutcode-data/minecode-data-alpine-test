@@ -107,3 +107,4 @@
 - pkg:apk/alpine/lha-doc@1.14i-r4?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/lha-doc@1.14.20211125-r5?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/lha-doc@1.14.20211125-r5?arch=armhf&distro=v3.21
+- pkg:apk/alpine/lha-doc@1.14.20211125-r5?arch=armv7&distro=v3.21

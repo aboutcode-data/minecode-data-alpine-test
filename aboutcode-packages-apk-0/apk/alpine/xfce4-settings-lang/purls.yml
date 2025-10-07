@@ -126,3 +126,4 @@
 - pkg:apk/alpine/xfce4-settings-lang@4.12.0-r4?arch=aarch64&distro=v3.5
 - pkg:apk/alpine/xfce4-settings-lang@4.12.0-r4?arch=armhf&distro=v3.5
 - pkg:apk/alpine/xfce4-settings-lang@4.12.0-r4?arch=x86&distro=v3.5
+- pkg:apk/alpine/xfce4-settings-lang@4.12.0-r4?arch=x86_64&distro=v3.5

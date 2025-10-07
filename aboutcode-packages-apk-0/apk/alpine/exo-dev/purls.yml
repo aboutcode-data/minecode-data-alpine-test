@@ -151,3 +151,5 @@
 - pkg:apk/alpine/exo-dev@0.11.5-r0?arch=s390x&distro=v3.8
 - pkg:apk/alpine/exo-dev@0.11.5-r0?arch=x86&distro=v3.8
 - pkg:apk/alpine/exo-dev@0.11.5-r0?arch=x86_64&distro=v3.8
+- pkg:apk/alpine/exo-dev@0.12.4-r0?arch=aarch64&distro=v3.9
+- pkg:apk/alpine/exo-dev@0.12.4-r0?arch=armhf&distro=v3.9

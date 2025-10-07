@@ -108,3 +108,4 @@
 - pkg:apk/alpine/msitools@0.103-r0?arch=riscv64&distro=v3.22
 - pkg:apk/alpine/msitools@0.103-r0?arch=x86&distro=v3.22
 - pkg:apk/alpine/msitools@0.103-r0?arch=x86_64&distro=v3.22
+- pkg:apk/alpine/msitools@0.98-r0?arch=aarch64&distro=v3.9

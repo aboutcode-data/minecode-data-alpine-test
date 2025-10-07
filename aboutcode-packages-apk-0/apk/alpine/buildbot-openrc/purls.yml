@@ -1,1 +1,2 @@
 - pkg:apk/alpine/buildbot-openrc@1.6.0-r0?arch=aarch64&distro=v3.9
+- pkg:apk/alpine/buildbot-openrc@1.6.0-r0?arch=armhf&distro=v3.9

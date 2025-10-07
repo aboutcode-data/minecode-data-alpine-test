@@ -146,3 +146,5 @@
 - pkg:apk/alpine/libcdr-dev@0.1.4-r2?arch=s390x&distro=v3.8
 - pkg:apk/alpine/libcdr-dev@0.1.4-r2?arch=x86&distro=v3.8
 - pkg:apk/alpine/libcdr-dev@0.1.4-r2?arch=x86_64&distro=v3.8
+- pkg:apk/alpine/libcdr-dev@0.1.4-r3?arch=aarch64&distro=v3.9
+- pkg:apk/alpine/libcdr-dev@0.1.4-r3?arch=armhf&distro=v3.9

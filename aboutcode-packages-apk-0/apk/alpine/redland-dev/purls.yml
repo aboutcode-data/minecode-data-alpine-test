@@ -110,3 +110,4 @@
 - pkg:apk/alpine/redland-dev@1.0.17-r3?arch=s390x&distro=v3.21
 - pkg:apk/alpine/redland-dev@1.0.17-r3?arch=x86&distro=v3.21
 - pkg:apk/alpine/redland-dev@1.0.17-r3?arch=x86_64&distro=v3.21
+- pkg:apk/alpine/redland-dev@1.0.17-r3?arch=aarch64&distro=v3.22

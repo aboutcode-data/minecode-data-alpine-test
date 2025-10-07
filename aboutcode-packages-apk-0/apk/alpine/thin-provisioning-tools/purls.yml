@@ -118,3 +118,4 @@
 - pkg:apk/alpine/thin-provisioning-tools@1.1.0-r0?arch=x86&distro=v3.22
 - pkg:apk/alpine/thin-provisioning-tools@1.1.0-r0?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/thin-provisioning-tools@0.7.0_rc6-r0?arch=aarch64&distro=v3.6
+- pkg:apk/alpine/thin-provisioning-tools@0.7.0_rc6-r0?arch=armhf&distro=v3.6

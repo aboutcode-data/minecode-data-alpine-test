@@ -136,3 +136,4 @@
 - pkg:apk/alpine/duo_unix@1.10.1-r1?arch=x86_64&distro=v3.7
 - pkg:apk/alpine/duo_unix@1.10.3-r0?arch=aarch64&distro=v3.8
 - pkg:apk/alpine/duo_unix@1.10.3-r0?arch=armhf&distro=v3.8
+- pkg:apk/alpine/duo_unix@1.10.3-r0?arch=ppc64le&distro=v3.8

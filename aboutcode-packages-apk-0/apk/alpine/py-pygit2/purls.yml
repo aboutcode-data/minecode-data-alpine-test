@@ -16,3 +16,4 @@
 - pkg:apk/alpine/py-pygit2@0.25.0-r2?arch=x86_64&distro=v3.7
 - pkg:apk/alpine/py-pygit2@0.27.1-r0?arch=aarch64&distro=v3.8
 - pkg:apk/alpine/py-pygit2@0.27.1-r0?arch=armhf&distro=v3.8
+- pkg:apk/alpine/py-pygit2@0.27.1-r0?arch=ppc64le&distro=v3.8

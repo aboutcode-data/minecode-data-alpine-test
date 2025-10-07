@@ -45,3 +45,4 @@
 - pkg:apk/alpine/wiringpi@2.61-r0?arch=armv7&distro=v3.22
 - pkg:apk/alpine/wiringpi@2.32-r0?arch=armhf&distro=v3.5
 - pkg:apk/alpine/wiringpi@2.32-r0?arch=armhf&distro=v3.6
+- pkg:apk/alpine/wiringpi@2.32-r0?arch=armhf&distro=v3.7

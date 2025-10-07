@@ -9,3 +9,4 @@
 - pkg:apk/alpine/kodi-gbm@21.2-r6?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/kodi-gbm@21.2-r6?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/kodi-gbm@21.2-r6?arch=riscv64&distro=latest-stable
+- pkg:apk/alpine/kodi-gbm@21.2-r6?arch=s390x&distro=latest-stable

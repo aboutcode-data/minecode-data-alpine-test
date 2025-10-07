@@ -113,3 +113,4 @@
 - pkg:apk/alpine/postgresql-bdr-openrc@9.4.14_p1-r15?arch=ppc64le&distro=v3.22
 - pkg:apk/alpine/postgresql-bdr-openrc@9.4.14_p1-r15?arch=riscv64&distro=v3.22
 - pkg:apk/alpine/postgresql-bdr-openrc@9.4.14_p1-r15?arch=s390x&distro=v3.22
+- pkg:apk/alpine/postgresql-bdr-openrc@9.4.14_p1-r15?arch=x86&distro=v3.22

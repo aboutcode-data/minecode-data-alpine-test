@@ -75,3 +75,4 @@
 - pkg:apk/alpine/podman-openrc@5.6.1-r1?arch=loongarch64&distro=v3.22
 - pkg:apk/alpine/podman-openrc@5.6.1-r1?arch=ppc64le&distro=v3.22
 - pkg:apk/alpine/podman-openrc@5.6.1-r1?arch=riscv64&distro=v3.22
+- pkg:apk/alpine/podman-openrc@5.6.1-r1?arch=x86&distro=v3.22

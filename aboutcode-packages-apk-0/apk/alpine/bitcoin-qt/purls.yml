@@ -105,3 +105,4 @@
 - pkg:apk/alpine/bitcoin-qt@0.14.1-r1?arch=x86&distro=v3.6
 - pkg:apk/alpine/bitcoin-qt@0.14.1-r1?arch=x86_64&distro=v3.6
 - pkg:apk/alpine/bitcoin-qt@0.15.1-r0?arch=aarch64&distro=v3.7
+- pkg:apk/alpine/bitcoin-qt@0.15.1-r0?arch=ppc64le&distro=v3.7

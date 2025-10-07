@@ -44,3 +44,4 @@
 - pkg:apk/alpine/earlyoom@1.7-r3?arch=s390x&distro=v3.18
 - pkg:apk/alpine/earlyoom@1.7-r3?arch=x86&distro=v3.18
 - pkg:apk/alpine/earlyoom@1.7-r3?arch=x86_64&distro=v3.18
+- pkg:apk/alpine/earlyoom@1.7-r3?arch=aarch64&distro=v3.19

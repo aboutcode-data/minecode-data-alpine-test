@@ -52,3 +52,4 @@
 - pkg:apk/alpine/e2guardian-doc@5.4.5r-r1?arch=s390x&distro=v3.18
 - pkg:apk/alpine/e2guardian-doc@5.4.5r-r1?arch=x86&distro=v3.18
 - pkg:apk/alpine/e2guardian-doc@5.4.5r-r1?arch=x86_64&distro=v3.18
+- pkg:apk/alpine/e2guardian-doc@5.4.7r-r0?arch=aarch64&distro=v3.19

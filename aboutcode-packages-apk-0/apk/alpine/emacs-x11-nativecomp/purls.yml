@@ -34,3 +34,4 @@
 - pkg:apk/alpine/emacs-x11-nativecomp@28.2-r8?arch=ppc64le&distro=v3.18
 - pkg:apk/alpine/emacs-x11-nativecomp@28.2-r8?arch=x86&distro=v3.18
 - pkg:apk/alpine/emacs-x11-nativecomp@28.2-r8?arch=x86_64&distro=v3.18
+- pkg:apk/alpine/emacs-x11-nativecomp@29.3-r0?arch=aarch64&distro=v3.19

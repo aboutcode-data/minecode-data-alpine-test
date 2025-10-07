@@ -115,3 +115,4 @@
 - pkg:apk/alpine/nnn@1.8-r0?arch=x86&distro=v3.8
 - pkg:apk/alpine/nnn@1.8-r0?arch=x86_64&distro=v3.8
 - pkg:apk/alpine/nnn@2.1-r0?arch=aarch64&distro=v3.9
+- pkg:apk/alpine/nnn@2.1-r0?arch=ppc64le&distro=v3.9

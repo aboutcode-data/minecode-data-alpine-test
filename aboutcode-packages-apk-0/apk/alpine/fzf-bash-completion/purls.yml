@@ -40,3 +40,4 @@
 - pkg:apk/alpine/fzf-bash-completion@0.28.0-r2?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/fzf-bash-completion@0.17.3-r2?arch=x86&distro=v3.8
 - pkg:apk/alpine/fzf-bash-completion@0.17.3-r2?arch=x86_64&distro=v3.8
+- pkg:apk/alpine/fzf-bash-completion@0.17.5-r2?arch=ppc64le&distro=v3.9

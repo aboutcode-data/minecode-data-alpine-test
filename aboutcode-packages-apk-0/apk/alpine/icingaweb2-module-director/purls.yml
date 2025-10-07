@@ -72,3 +72,4 @@
 - pkg:apk/alpine/icingaweb2-module-director@1.4.3-r1?arch=x86&distro=v3.8
 - pkg:apk/alpine/icingaweb2-module-director@1.4.3-r1?arch=x86_64&distro=v3.8
 - pkg:apk/alpine/icingaweb2-module-director@1.4.3-r1?arch=aarch64&distro=v3.9
+- pkg:apk/alpine/icingaweb2-module-director@1.4.3-r1?arch=ppc64le&distro=v3.9

@@ -56,3 +56,4 @@
 - pkg:apk/alpine/lua-resty-mail@1.0.2-r1?arch=armhf&distro=v3.21
 - pkg:apk/alpine/lua-resty-mail@1.0.2-r1?arch=armv7&distro=v3.21
 - pkg:apk/alpine/lua-resty-mail@1.0.2-r1?arch=s390x&distro=v3.21
+- pkg:apk/alpine/lua-resty-mail@1.0.2-r1?arch=x86&distro=v3.21

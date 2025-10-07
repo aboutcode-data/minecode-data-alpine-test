@@ -32,3 +32,4 @@
 - pkg:apk/alpine/telegram-desktop@4.8.1-r2?arch=armv7&distro=v3.18
 - pkg:apk/alpine/telegram-desktop@4.8.1-r2?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/telegram-desktop@4.12.2-r1?arch=aarch64&distro=v3.19
+- pkg:apk/alpine/telegram-desktop@4.12.2-r1?arch=armv7&distro=v3.19

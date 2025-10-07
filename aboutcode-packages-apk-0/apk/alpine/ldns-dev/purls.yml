@@ -129,3 +129,4 @@
 - pkg:apk/alpine/ldns-dev@1.6.17-r3?arch=armhf&distro=v3.4
 - pkg:apk/alpine/ldns-dev@1.6.17-r3?arch=x86&distro=v3.4
 - pkg:apk/alpine/ldns-dev@1.6.17-r3?arch=x86_64&distro=v3.4
+- pkg:apk/alpine/ldns-dev@1.6.17-r4?arch=aarch64&distro=v3.5

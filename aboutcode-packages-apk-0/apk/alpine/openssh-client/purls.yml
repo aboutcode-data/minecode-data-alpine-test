@@ -42,3 +42,4 @@
 - pkg:apk/alpine/openssh-client@7.2_p2-r4?arch=armhf&distro=v3.4
 - pkg:apk/alpine/openssh-client@7.2_p2-r5?arch=x86&distro=v3.4
 - pkg:apk/alpine/openssh-client@7.2_p2-r5?arch=x86_64&distro=v3.4
+- pkg:apk/alpine/openssh-client@7.4_p1-r2?arch=aarch64&distro=v3.5

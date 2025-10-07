@@ -73,3 +73,4 @@
 - pkg:apk/alpine/libc6-compat@1.1.14-r15?arch=armhf&distro=v3.4
 - pkg:apk/alpine/libc6-compat@1.1.14-r16?arch=x86&distro=v3.4
 - pkg:apk/alpine/libc6-compat@1.1.14-r16?arch=x86_64&distro=v3.4
+- pkg:apk/alpine/libc6-compat@1.1.15-r8?arch=aarch64&distro=v3.5

@@ -129,3 +129,4 @@
 - pkg:apk/alpine/openntpd@5.9_p1-r1?arch=armhf&distro=v3.4
 - pkg:apk/alpine/openntpd@5.9_p1-r1?arch=x86&distro=v3.4
 - pkg:apk/alpine/openntpd@5.9_p1-r1?arch=x86_64&distro=v3.4
+- pkg:apk/alpine/openntpd@6.0_p1-r2?arch=aarch64&distro=v3.5

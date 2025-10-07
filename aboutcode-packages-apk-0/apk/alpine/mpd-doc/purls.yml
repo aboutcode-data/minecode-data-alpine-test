@@ -92,3 +92,4 @@
 - pkg:apk/alpine/mpd-doc@0.19.10-r2?arch=armhf&distro=v3.2
 - pkg:apk/alpine/mpd-doc@0.19.10-r2?arch=x86&distro=v3.2
 - pkg:apk/alpine/mpd-doc@0.19.10-r2?arch=x86_64&distro=v3.2
+- pkg:apk/alpine/mpd-doc@0.23.15-r2?arch=aarch64&distro=v3.20

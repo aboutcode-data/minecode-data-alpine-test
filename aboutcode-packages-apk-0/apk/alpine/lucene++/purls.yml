@@ -89,3 +89,4 @@
 - pkg:apk/alpine/lucene%2B%2B@3.0.8-r10?arch=s390x&distro=v3.19
 - pkg:apk/alpine/lucene%2B%2B@3.0.8-r10?arch=x86&distro=v3.19
 - pkg:apk/alpine/lucene%2B%2B@3.0.8-r10?arch=x86_64&distro=v3.19
+- pkg:apk/alpine/lucene%2B%2B@3.0.8-r11?arch=aarch64&distro=v3.20

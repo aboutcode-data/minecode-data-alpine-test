@@ -21,3 +21,4 @@
 - pkg:apk/alpine/libwmf@0.2.8.4-r3?arch=armhf&distro=v3.1
 - pkg:apk/alpine/libwmf@0.2.12-r0?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/libwmf@0.2.12-r0?arch=armhf&distro=v3.10
+- pkg:apk/alpine/libwmf@0.2.12-r0?arch=armv7&distro=v3.10

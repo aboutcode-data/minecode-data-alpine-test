@@ -12,3 +12,4 @@
 - pkg:apk/alpine/jenkins-openrc@2.479.1-r1?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/jenkins-openrc@2.199-r0?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/jenkins-openrc@2.199-r0?arch=armhf&distro=v3.10
+- pkg:apk/alpine/jenkins-openrc@2.199-r0?arch=armv7&distro=v3.10

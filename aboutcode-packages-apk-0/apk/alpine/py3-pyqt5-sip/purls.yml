@@ -60,3 +60,4 @@
 - pkg:apk/alpine/py3-pyqt5-sip@12.15.0-r0?arch=riscv64&distro=v3.21
 - pkg:apk/alpine/py3-pyqt5-sip@12.15.0-r0?arch=s390x&distro=v3.21
 - pkg:apk/alpine/py3-pyqt5-sip@12.15.0-r0?arch=x86&distro=v3.21
+- pkg:apk/alpine/py3-pyqt5-sip@12.15.0-r0?arch=x86_64&distro=v3.21

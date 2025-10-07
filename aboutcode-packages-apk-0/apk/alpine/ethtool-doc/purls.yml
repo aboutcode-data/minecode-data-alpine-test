@@ -97,3 +97,4 @@
 - pkg:apk/alpine/ethtool-doc@3.18-r0?arch=armhf&distro=v3.2
 - pkg:apk/alpine/ethtool-doc@3.18-r0?arch=x86&distro=v3.2
 - pkg:apk/alpine/ethtool-doc@3.18-r0?arch=x86_64&distro=v3.2
+- pkg:apk/alpine/ethtool-doc@6.7-r0?arch=aarch64&distro=v3.20

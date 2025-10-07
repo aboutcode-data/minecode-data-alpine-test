@@ -97,3 +97,4 @@
 - pkg:apk/alpine/djbdns-common@1.05-r45?arch=armhf&distro=v3.2
 - pkg:apk/alpine/djbdns-common@1.05-r45?arch=x86&distro=v3.2
 - pkg:apk/alpine/djbdns-common@1.05-r45?arch=x86_64&distro=v3.2
+- pkg:apk/alpine/djbdns-common@1.05-r53?arch=aarch64&distro=v3.20

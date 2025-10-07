@@ -147,3 +147,4 @@
 - pkg:apk/alpine/perl-unix-syslog@1.1-r9?arch=x86_64&distro=v3.7
 - pkg:apk/alpine/perl-unix-syslog@1.1-r10?arch=aarch64&distro=v3.8
 - pkg:apk/alpine/perl-unix-syslog@1.1-r10?arch=armhf&distro=v3.8
+- pkg:apk/alpine/perl-unix-syslog@1.1-r10?arch=ppc64le&distro=v3.8

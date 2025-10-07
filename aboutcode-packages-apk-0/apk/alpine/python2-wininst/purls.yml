@@ -45,3 +45,4 @@
 - pkg:apk/alpine/python2-wininst@2.7.18-r4?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/python2-wininst@2.7.15-r3?arch=aarch64&distro=v3.8
 - pkg:apk/alpine/python2-wininst@2.7.15-r3?arch=armhf&distro=v3.8
+- pkg:apk/alpine/python2-wininst@2.7.15-r3?arch=ppc64le&distro=v3.8

@@ -45,3 +45,4 @@
 - pkg:apk/alpine/u-boot-raspberrypi@2025.04-r4?arch=armhf&distro=v3.22
 - pkg:apk/alpine/u-boot-raspberrypi@2025.04-r4?arch=armv7&distro=v3.22
 - pkg:apk/alpine/u-boot-raspberrypi@2015.04-r1?arch=armhf&distro=v3.3
+- pkg:apk/alpine/u-boot-raspberrypi@2015.04-r1?arch=armhf&distro=v3.4

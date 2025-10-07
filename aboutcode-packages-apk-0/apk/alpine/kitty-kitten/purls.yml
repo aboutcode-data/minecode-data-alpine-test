@@ -17,3 +17,4 @@
 - pkg:apk/alpine/kitty-kitten@0.42.1-r2?arch=x86&distro=latest-stable
 - pkg:apk/alpine/kitty-kitten@0.42.1-r2?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/kitty-kitten@0.28.1-r6?arch=aarch64&distro=v3.18
+- pkg:apk/alpine/kitty-kitten@0.28.1-r6?arch=armhf&distro=v3.18

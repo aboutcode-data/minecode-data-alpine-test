@@ -46,3 +46,4 @@
 - pkg:apk/alpine/irtt@0.9.1-r16?arch=x86&distro=v3.17
 - pkg:apk/alpine/irtt@0.9.1-r16?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/irtt@0.9.1-r21?arch=aarch64&distro=v3.18
+- pkg:apk/alpine/irtt@0.9.1-r21?arch=armhf&distro=v3.18

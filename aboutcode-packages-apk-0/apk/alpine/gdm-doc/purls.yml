@@ -33,3 +33,4 @@
 - pkg:apk/alpine/gdm-doc@43.0-r1?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/gdm-doc@44.1-r0?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/gdm-doc@44.1-r0?arch=armv7&distro=v3.18
+- pkg:apk/alpine/gdm-doc@44.1-r0?arch=ppc64le&distro=v3.18

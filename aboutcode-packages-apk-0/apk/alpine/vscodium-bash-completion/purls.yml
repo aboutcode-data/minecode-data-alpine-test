@@ -1,1 +1,2 @@
 - pkg:apk/alpine/vscodium-bash-completion@1.103.25610-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/vscodium-bash-completion@1.103.25610-r3?arch=x86_64&distro=edge

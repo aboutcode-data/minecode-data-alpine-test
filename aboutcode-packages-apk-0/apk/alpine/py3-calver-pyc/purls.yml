@@ -9,3 +9,4 @@
 - pkg:apk/alpine/py3-calver-pyc@2025.04.17-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/py3-calver-pyc@2022.06.26-r3?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/py3-calver-pyc@2022.06.26-r3?arch=armhf&distro=latest-stable
+- pkg:apk/alpine/py3-calver-pyc@2022.06.26-r3?arch=armv7&distro=latest-stable

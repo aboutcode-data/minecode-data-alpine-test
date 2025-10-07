@@ -11,3 +11,4 @@
 - pkg:apk/alpine/grub-xenhost@2.06-r12?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/grub-xenhost@2.06-r17?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/grub-xenhost@2.12-r5?arch=x86_64&distro=v3.20
+- pkg:apk/alpine/grub-xenhost@2.12-r7?arch=x86_64&distro=v3.21

@@ -5,3 +5,4 @@
 - pkg:apk/alpine/john-misc@1.8.0-r8?arch=armhf&distro=v3.7
 - pkg:apk/alpine/john-misc@1.8.0-r8?arch=ppc64le&distro=v3.7
 - pkg:apk/alpine/john-misc@1.8.0-r8?arch=x86_64&distro=v3.7
+- pkg:apk/alpine/john-misc@1.8.0-r10?arch=armhf&distro=v3.8

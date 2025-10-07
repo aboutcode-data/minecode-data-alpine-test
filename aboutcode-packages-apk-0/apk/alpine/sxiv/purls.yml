@@ -93,3 +93,4 @@
 - pkg:apk/alpine/sxiv@24-r1?arch=x86&distro=v3.7
 - pkg:apk/alpine/sxiv@24-r1?arch=x86_64&distro=v3.7
 - pkg:apk/alpine/sxiv@24-r2?arch=aarch64&distro=v3.8
+- pkg:apk/alpine/sxiv@24-r2?arch=armhf&distro=v3.8

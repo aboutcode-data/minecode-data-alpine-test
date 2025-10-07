@@ -80,3 +80,4 @@
 - pkg:apk/alpine/youtube-dl-doc@2017.11.26-r1?arch=x86&distro=v3.7
 - pkg:apk/alpine/youtube-dl-doc@2017.11.26-r1?arch=x86_64&distro=v3.7
 - pkg:apk/alpine/youtube-dl-doc@2018.06.25-r0?arch=aarch64&distro=v3.8
+- pkg:apk/alpine/youtube-dl-doc@2018.06.25-r0?arch=armhf&distro=v3.8

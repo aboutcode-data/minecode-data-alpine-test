@@ -1,1 +1,2 @@
 - pkg:apk/alpine/pulseaudio-libs@9.0-r5?arch=aarch64&distro=v3.8
+- pkg:apk/alpine/pulseaudio-libs@9.0-r5?arch=armhf&distro=v3.8

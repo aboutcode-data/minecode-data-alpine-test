@@ -57,3 +57,4 @@
 - pkg:apk/alpine/namecoin-qt@0.13.0_rc1-r9?arch=x86&distro=v3.7
 - pkg:apk/alpine/namecoin-qt@0.13.0_rc1-r9?arch=x86_64&distro=v3.7
 - pkg:apk/alpine/namecoin-qt@0.13.0_rc1-r11?arch=aarch64&distro=v3.8
+- pkg:apk/alpine/namecoin-qt@0.13.0_rc1-r11?arch=armhf&distro=v3.8

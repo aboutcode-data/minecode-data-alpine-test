@@ -152,3 +152,4 @@
 - pkg:apk/alpine/perl-net-cidr-lite@0.21-r3?arch=armhf&distro=v3.8
 - pkg:apk/alpine/perl-net-cidr-lite@0.21-r3?arch=ppc64le&distro=v3.8
 - pkg:apk/alpine/perl-net-cidr-lite@0.21-r3?arch=s390x&distro=v3.8
+- pkg:apk/alpine/perl-net-cidr-lite@0.21-r3?arch=x86&distro=v3.8

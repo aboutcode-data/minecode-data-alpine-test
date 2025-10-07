@@ -149,3 +149,4 @@
 - pkg:apk/alpine/perl-device-serialport@1.04-r10?arch=armhf&distro=v3.8
 - pkg:apk/alpine/perl-device-serialport@1.04-r10?arch=ppc64le&distro=v3.8
 - pkg:apk/alpine/perl-device-serialport@1.04-r10?arch=s390x&distro=v3.8
+- pkg:apk/alpine/perl-device-serialport@1.04-r10?arch=x86&distro=v3.8

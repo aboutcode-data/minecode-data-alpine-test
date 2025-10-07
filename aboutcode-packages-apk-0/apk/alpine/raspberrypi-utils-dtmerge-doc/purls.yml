@@ -7,3 +7,4 @@
 - pkg:apk/alpine/raspberrypi-utils-dtmerge-doc@0.20230919-r0?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/raspberrypi-utils-dtmerge-doc@0.20230919-r0?arch=armhf&distro=v3.18
 - pkg:apk/alpine/raspberrypi-utils-dtmerge-doc@0.20230919-r0?arch=armv7&distro=v3.18
+- pkg:apk/alpine/raspberrypi-utils-dtmerge-doc@0.20240203-r0?arch=aarch64&distro=v3.19

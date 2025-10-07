@@ -12,3 +12,4 @@
 - pkg:apk/alpine/savvycan-doc@213-r1?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/savvycan-doc@213-r1?arch=x86&distro=latest-stable
 - pkg:apk/alpine/savvycan-doc@213-r1?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/savvycan-doc@213-r1?arch=aarch64&distro=v3.19

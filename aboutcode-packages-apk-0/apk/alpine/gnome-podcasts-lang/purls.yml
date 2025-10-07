@@ -26,3 +26,4 @@
 - pkg:apk/alpine/gnome-podcasts-lang@0.4.7-r3?arch=ppc64le&distro=v3.12
 - pkg:apk/alpine/gnome-podcasts-lang@0.4.7-r3?arch=x86&distro=v3.12
 - pkg:apk/alpine/gnome-podcasts-lang@0.4.7-r3?arch=x86_64&distro=v3.12
+- pkg:apk/alpine/gnome-podcasts-lang@0.4.8-r1?arch=aarch64&distro=v3.13

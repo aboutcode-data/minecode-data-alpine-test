@@ -24,3 +24,4 @@
 - pkg:apk/alpine/signond-doc@8.60-r0?arch=s390x&distro=v3.12
 - pkg:apk/alpine/signond-doc@8.60-r0?arch=x86&distro=v3.12
 - pkg:apk/alpine/signond-doc@8.60-r0?arch=x86_64&distro=v3.12
+- pkg:apk/alpine/signond-doc@8.60_git20201105-r0?arch=aarch64&distro=v3.13

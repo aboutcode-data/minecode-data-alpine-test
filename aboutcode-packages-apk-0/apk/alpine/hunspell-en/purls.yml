@@ -143,3 +143,4 @@
 - pkg:apk/alpine/hunspell-en@2017.01.22-r0?arch=s390x&distro=v3.8
 - pkg:apk/alpine/hunspell-en@2017.01.22-r0?arch=x86&distro=v3.8
 - pkg:apk/alpine/hunspell-en@2017.01.22-r0?arch=x86_64&distro=v3.8
+- pkg:apk/alpine/hunspell-en@2018.04.16-r0?arch=aarch64&distro=v3.9

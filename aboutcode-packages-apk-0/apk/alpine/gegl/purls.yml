@@ -16,3 +16,4 @@
 - pkg:apk/alpine/gegl@0.4.62-r0?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/gegl@0.4.62-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/gegl@0.4.62-r0?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/gegl@0.2.0-r3?arch=x86&distro=v3.0

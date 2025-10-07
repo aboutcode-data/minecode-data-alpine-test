@@ -16,3 +16,4 @@
 - pkg:apk/alpine/alpine@2.26-r4?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/alpine@2.26-r4?arch=x86&distro=latest-stable
 - pkg:apk/alpine/alpine@2.26-r4?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/alpine@2.00_p84-r5?arch=x86&distro=v3.0

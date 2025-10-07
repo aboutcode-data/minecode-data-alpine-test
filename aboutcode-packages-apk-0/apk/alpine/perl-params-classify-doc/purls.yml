@@ -98,3 +98,4 @@
 - pkg:apk/alpine/perl-params-classify-doc@0.013-r3?arch=x86&distro=v3.2
 - pkg:apk/alpine/perl-params-classify-doc@0.013-r3?arch=x86_64&distro=v3.2
 - pkg:apk/alpine/perl-params-classify-doc@0.015-r9?arch=aarch64&distro=v3.20
+- pkg:apk/alpine/perl-params-classify-doc@0.015-r9?arch=armhf&distro=v3.20

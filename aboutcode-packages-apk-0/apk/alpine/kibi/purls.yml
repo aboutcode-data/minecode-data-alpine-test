@@ -72,3 +72,4 @@
 - pkg:apk/alpine/kibi@0.2.2-r4?arch=armv7&distro=v3.22
 - pkg:apk/alpine/kibi@0.2.2-r4?arch=loongarch64&distro=v3.22
 - pkg:apk/alpine/kibi@0.2.2-r4?arch=ppc64le&distro=v3.22
+- pkg:apk/alpine/kibi@0.2.2-r4?arch=x86&distro=v3.22

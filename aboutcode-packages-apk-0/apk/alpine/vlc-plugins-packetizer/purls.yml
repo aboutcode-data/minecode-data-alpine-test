@@ -41,3 +41,4 @@
 - pkg:apk/alpine/vlc-plugins-packetizer@3.0.2-r1?arch=aarch64&distro=v3.8
 - pkg:apk/alpine/vlc-plugins-packetizer@3.0.2-r1?arch=armhf&distro=v3.8
 - pkg:apk/alpine/vlc-plugins-packetizer@3.0.2-r1?arch=ppc64le&distro=v3.8
+- pkg:apk/alpine/vlc-plugins-packetizer@3.0.2-r1?arch=x86&distro=v3.8

@@ -101,3 +101,4 @@
 - pkg:apk/alpine/perl-text-csv_xs-doc@1.57-r0?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/perl-text-csv_xs-doc@1.57-r0?arch=armhf&distro=v3.21
 - pkg:apk/alpine/perl-text-csv_xs-doc@1.57-r0?arch=armv7&distro=v3.21
+- pkg:apk/alpine/perl-text-csv_xs-doc@1.57-r0?arch=loongarch64&distro=v3.21

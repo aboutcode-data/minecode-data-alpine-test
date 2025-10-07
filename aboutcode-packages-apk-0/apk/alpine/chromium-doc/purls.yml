@@ -6,3 +6,4 @@
 - pkg:apk/alpine/chromium-doc@141.0.7390.54-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/chromium-doc@102.0.5005.182-r0?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/chromium-doc@102.0.5005.182-r0?arch=x86_64&distro=v3.16
+- pkg:apk/alpine/chromium-doc@112.0.5615.165-r0?arch=aarch64&distro=v3.17

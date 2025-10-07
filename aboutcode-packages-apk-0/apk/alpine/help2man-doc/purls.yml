@@ -150,3 +150,4 @@
 - pkg:apk/alpine/help2man-doc@1.47.6-r0?arch=x86&distro=v3.8
 - pkg:apk/alpine/help2man-doc@1.47.6-r0?arch=x86_64&distro=v3.8
 - pkg:apk/alpine/help2man-doc@1.47.8-r0?arch=aarch64&distro=v3.9
+- pkg:apk/alpine/help2man-doc@1.47.8-r0?arch=armhf&distro=v3.9

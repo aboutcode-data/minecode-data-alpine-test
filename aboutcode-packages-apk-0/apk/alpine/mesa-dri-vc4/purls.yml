@@ -7,3 +7,4 @@
 - pkg:apk/alpine/mesa-dri-vc4@18.0.5-r0?arch=aarch64&distro=v3.8
 - pkg:apk/alpine/mesa-dri-vc4@18.0.5-r0?arch=armhf&distro=v3.8
 - pkg:apk/alpine/mesa-dri-vc4@18.1.7-r2?arch=aarch64&distro=v3.9
+- pkg:apk/alpine/mesa-dri-vc4@18.1.7-r2?arch=armhf&distro=v3.9

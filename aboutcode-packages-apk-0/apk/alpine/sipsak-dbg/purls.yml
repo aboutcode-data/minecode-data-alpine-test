@@ -150,3 +150,4 @@
 - pkg:apk/alpine/sipsak-dbg@0.9.6-r10?arch=x86&distro=v3.8
 - pkg:apk/alpine/sipsak-dbg@0.9.6-r10?arch=x86_64&distro=v3.8
 - pkg:apk/alpine/sipsak-dbg@0.9.6-r11?arch=aarch64&distro=v3.9
+- pkg:apk/alpine/sipsak-dbg@0.9.6-r11?arch=armhf&distro=v3.9

@@ -6,3 +6,4 @@
 - pkg:apk/alpine/libretro-desmume@0_git20241021-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/libretro-desmume@0_git20241021-r0?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/libretro-desmume@0_git20241021-r0?arch=armv7&distro=latest-stable
+- pkg:apk/alpine/libretro-desmume@0_git20241021-r0?arch=x86&distro=latest-stable

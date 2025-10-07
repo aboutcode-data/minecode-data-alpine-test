@@ -17,3 +17,4 @@
 - pkg:apk/alpine/udev-init-scripts@35-r1?arch=x86&distro=latest-stable
 - pkg:apk/alpine/udev-init-scripts@35-r1?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/udev-init-scripts@32-r2?arch=aarch64&distro=v3.10
+- pkg:apk/alpine/udev-init-scripts@32-r2?arch=armhf&distro=v3.10

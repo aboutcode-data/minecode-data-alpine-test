@@ -13,3 +13,4 @@
 - pkg:apk/alpine/rustup@1.24.3-r1?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/rustup@1.24.3-r1?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/rustup@1.24.3-r1?arch=x86_64&distro=v3.16
+- pkg:apk/alpine/rustup@1.25.2-r0?arch=aarch64&distro=v3.17

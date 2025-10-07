@@ -94,3 +94,4 @@
 - pkg:apk/alpine/perl-datetime-locale-doc@1.40-r0?arch=s390x&distro=v3.19
 - pkg:apk/alpine/perl-datetime-locale-doc@1.40-r0?arch=x86&distro=v3.19
 - pkg:apk/alpine/perl-datetime-locale-doc@1.40-r0?arch=x86_64&distro=v3.19
+- pkg:apk/alpine/perl-datetime-locale-doc@0.45-r0?arch=armhf&distro=v3.2

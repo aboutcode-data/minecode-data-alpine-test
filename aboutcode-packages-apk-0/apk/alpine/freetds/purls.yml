@@ -99,3 +99,4 @@
 - pkg:apk/alpine/freetds@0.92.79-r1?arch=x86_64&distro=v3.2
 - pkg:apk/alpine/freetds@1.4.14-r0?arch=aarch64&distro=v3.20
 - pkg:apk/alpine/freetds@1.4.14-r0?arch=armhf&distro=v3.20
+- pkg:apk/alpine/freetds@1.4.14-r0?arch=armv7&distro=v3.20

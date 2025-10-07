@@ -11,3 +11,4 @@
 - pkg:apk/alpine/afl%2B%2B-tools@4.32c-r0?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/afl%2B%2B-tools@4.32c-r0?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/afl%2B%2B-tools@4.32c-r0?arch=ppc64le&distro=latest-stable
+- pkg:apk/alpine/afl%2B%2B-tools@4.32c-r0?arch=riscv64&distro=latest-stable

@@ -10,3 +10,4 @@
 - pkg:apk/alpine/maliit-keyboard-doc@2.3.1-r1?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/maliit-keyboard-doc@2.3.1-r1?arch=loongarch64&distro=latest-stable
 - pkg:apk/alpine/maliit-keyboard-doc@2.3.1-r1?arch=ppc64le&distro=latest-stable
+- pkg:apk/alpine/maliit-keyboard-doc@2.3.1-r1?arch=riscv64&distro=latest-stable

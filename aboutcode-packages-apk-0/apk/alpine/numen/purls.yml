@@ -1,1 +1,2 @@
 - pkg:apk/alpine/numen@0.7-r17?arch=aarch64&distro=edge
+- pkg:apk/alpine/numen@0.7-r17?arch=armv7&distro=edge

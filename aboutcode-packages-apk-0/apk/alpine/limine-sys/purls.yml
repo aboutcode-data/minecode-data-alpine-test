@@ -1,1 +1,2 @@
 - pkg:apk/alpine/limine-sys@10.0.1-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/limine-sys@9.3.4-r0?arch=aarch64&distro=latest-stable

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/llvm19-test-utils-pyc@19.1.7-r6?arch=aarch64&distro=latest-stable
+- pkg:apk/alpine/llvm19-test-utils-pyc@19.1.7-r6?arch=armhf&distro=latest-stable

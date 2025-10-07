@@ -73,3 +73,4 @@
 - pkg:apk/alpine/rawtherapee-doc@5.9-r1?arch=s390x&distro=v3.19
 - pkg:apk/alpine/rawtherapee-doc@5.9-r1?arch=x86&distro=v3.19
 - pkg:apk/alpine/rawtherapee-doc@5.9-r1?arch=x86_64&distro=v3.19
+- pkg:apk/alpine/rawtherapee-doc@5.10-r0?arch=aarch64&distro=v3.20

@@ -113,3 +113,4 @@
 - pkg:apk/alpine/freeswitch-sangoma@1.10.11-r1?arch=s390x&distro=v3.21
 - pkg:apk/alpine/freeswitch-sangoma@1.10.11-r1?arch=x86&distro=v3.21
 - pkg:apk/alpine/freeswitch-sangoma@1.10.11-r1?arch=x86_64&distro=v3.21
+- pkg:apk/alpine/freeswitch-sangoma@1.10.12-r3?arch=aarch64&distro=v3.22

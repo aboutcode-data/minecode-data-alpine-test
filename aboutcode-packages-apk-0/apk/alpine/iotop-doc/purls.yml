@@ -113,3 +113,4 @@
 - pkg:apk/alpine/iotop-doc@0.6-r13?arch=armhf&distro=v3.22
 - pkg:apk/alpine/iotop-doc@0.6-r13?arch=armv7&distro=v3.22
 - pkg:apk/alpine/iotop-doc@0.6-r13?arch=loongarch64&distro=v3.22
+- pkg:apk/alpine/iotop-doc@0.6-r13?arch=ppc64le&distro=v3.22

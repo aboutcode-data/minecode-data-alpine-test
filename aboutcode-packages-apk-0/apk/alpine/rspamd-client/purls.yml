@@ -115,3 +115,4 @@
 - pkg:apk/alpine/rspamd-client@3.11.1-r2?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/rspamd-client@1.6.5-r1?arch=armhf&distro=v3.7
 - pkg:apk/alpine/rspamd-client@1.6.5-r1?arch=ppc64le&distro=v3.7
+- pkg:apk/alpine/rspamd-client@1.6.5-r1?arch=x86&distro=v3.7

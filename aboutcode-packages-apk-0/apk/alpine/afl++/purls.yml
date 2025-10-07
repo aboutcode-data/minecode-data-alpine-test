@@ -46,3 +46,4 @@
 - pkg:apk/alpine/afl%2B%2B@4.32c-r0?arch=armv7&distro=v3.22
 - pkg:apk/alpine/afl%2B%2B@4.32c-r0?arch=loongarch64&distro=v3.22
 - pkg:apk/alpine/afl%2B%2B@4.32c-r0?arch=ppc64le&distro=v3.22
+- pkg:apk/alpine/afl%2B%2B@4.32c-r0?arch=riscv64&distro=v3.22

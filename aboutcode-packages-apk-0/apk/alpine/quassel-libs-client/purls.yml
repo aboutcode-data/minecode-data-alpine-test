@@ -59,3 +59,4 @@
 - pkg:apk/alpine/quassel-libs-client@0.14.0-r17?arch=armv7&distro=v3.22
 - pkg:apk/alpine/quassel-libs-client@0.14.0-r17?arch=loongarch64&distro=v3.22
 - pkg:apk/alpine/quassel-libs-client@0.14.0-r17?arch=ppc64le&distro=v3.22
+- pkg:apk/alpine/quassel-libs-client@0.14.0-r17?arch=riscv64&distro=v3.22

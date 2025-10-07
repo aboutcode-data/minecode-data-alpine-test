@@ -108,3 +108,4 @@
 - pkg:apk/alpine/R-dev@4.5.0-r0?arch=x86&distro=v3.22
 - pkg:apk/alpine/R-dev@4.5.0-r0?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/R-dev@3.3.2-r0?arch=x86&distro=v3.5
+- pkg:apk/alpine/R-dev@3.3.2-r0?arch=x86_64&distro=v3.5

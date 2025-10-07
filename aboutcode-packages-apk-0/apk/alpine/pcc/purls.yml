@@ -22,3 +22,5 @@
 - pkg:apk/alpine/pcc@20230603-r0?arch=x86_64&distro=v3.20
 - pkg:apk/alpine/pcc@20230603-r0?arch=x86&distro=v3.21
 - pkg:apk/alpine/pcc@20230603-r0?arch=x86_64&distro=v3.21
+- pkg:apk/alpine/pcc@1.1.0-r1?arch=x86&distro=v3.5
+- pkg:apk/alpine/pcc@1.1.0-r1?arch=x86_64&distro=v3.5

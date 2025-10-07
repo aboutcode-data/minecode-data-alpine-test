@@ -16,3 +16,4 @@
 - pkg:apk/alpine/libcgroup-dev@3.2.0-r0?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/libcgroup-dev@3.2.0-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/libcgroup-dev@3.2.0-r0?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/libcgroup-dev@0.38-r1?arch=armhf&distro=v3.1

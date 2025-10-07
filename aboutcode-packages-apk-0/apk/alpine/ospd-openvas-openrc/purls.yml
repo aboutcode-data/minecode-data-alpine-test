@@ -68,3 +68,4 @@
 - pkg:apk/alpine/ospd-openvas-openrc@22.4.2-r0?arch=s390x&distro=v3.17
 - pkg:apk/alpine/ospd-openvas-openrc@22.4.2-r0?arch=x86&distro=v3.17
 - pkg:apk/alpine/ospd-openvas-openrc@22.4.2-r0?arch=x86_64&distro=v3.17
+- pkg:apk/alpine/ospd-openvas-openrc@22.5.0-r0?arch=aarch64&distro=v3.18

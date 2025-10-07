@@ -37,3 +37,4 @@
 - pkg:apk/alpine/ostree-grub@2022.6-r0?arch=s390x&distro=v3.17
 - pkg:apk/alpine/ostree-grub@2022.6-r0?arch=x86&distro=v3.17
 - pkg:apk/alpine/ostree-grub@2022.6-r0?arch=x86_64&distro=v3.17
+- pkg:apk/alpine/ostree-grub@2023.2-r1?arch=aarch64&distro=v3.18

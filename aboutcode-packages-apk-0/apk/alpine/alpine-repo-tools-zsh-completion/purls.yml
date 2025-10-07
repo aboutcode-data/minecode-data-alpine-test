@@ -11,3 +11,4 @@
 - pkg:apk/alpine/alpine-repo-tools-zsh-completion@0.3.1-r7?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/alpine-repo-tools-zsh-completion@0.3.1-r7?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/alpine-repo-tools-zsh-completion@0.3.1-r7?arch=loongarch64&distro=latest-stable
+- pkg:apk/alpine/alpine-repo-tools-zsh-completion@0.3.1-r7?arch=ppc64le&distro=latest-stable

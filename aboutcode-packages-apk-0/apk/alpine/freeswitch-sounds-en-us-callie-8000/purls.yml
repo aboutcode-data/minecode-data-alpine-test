@@ -59,3 +59,4 @@
 - pkg:apk/alpine/freeswitch-sounds-en-us-callie-8000@1.0.51-r0?arch=s390x&distro=v3.14
 - pkg:apk/alpine/freeswitch-sounds-en-us-callie-8000@1.0.51-r0?arch=x86&distro=v3.14
 - pkg:apk/alpine/freeswitch-sounds-en-us-callie-8000@1.0.51-r0?arch=x86_64&distro=v3.14
+- pkg:apk/alpine/freeswitch-sounds-en-us-callie-8000@1.0.51-r0?arch=aarch64&distro=v3.15

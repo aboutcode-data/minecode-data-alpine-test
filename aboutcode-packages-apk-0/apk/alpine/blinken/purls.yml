@@ -12,3 +12,4 @@
 - pkg:apk/alpine/blinken@25.04.2-r0?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/blinken@25.04.2-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/blinken@25.04.2-r0?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/blinken@20.04.2-r0?arch=aarch64&distro=v3.12

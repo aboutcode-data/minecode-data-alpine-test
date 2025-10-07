@@ -122,3 +122,4 @@
 - pkg:apk/alpine/caddy@0.9.3-r1?arch=ppc64le&distro=v3.6
 - pkg:apk/alpine/caddy@0.9.3-r1?arch=x86&distro=v3.6
 - pkg:apk/alpine/caddy@0.9.3-r1?arch=x86_64&distro=v3.6
+- pkg:apk/alpine/caddy@0.10.10-r0?arch=aarch64&distro=v3.7

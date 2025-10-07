@@ -115,3 +115,4 @@
 - pkg:apk/alpine/farbfeld-doc@4-r2?arch=s390x&distro=v3.22
 - pkg:apk/alpine/farbfeld-doc@4-r2?arch=x86&distro=v3.22
 - pkg:apk/alpine/farbfeld-doc@4-r2?arch=x86_64&distro=v3.22
+- pkg:apk/alpine/farbfeld-doc@3-r0?arch=aarch64&distro=v3.7

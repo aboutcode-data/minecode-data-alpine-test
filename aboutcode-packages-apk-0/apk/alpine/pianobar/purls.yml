@@ -153,3 +153,4 @@
 - pkg:apk/alpine/pianobar@2017.08.30-r1?arch=x86_64&distro=v3.8
 - pkg:apk/alpine/pianobar@2018.06.22-r1?arch=aarch64&distro=v3.9
 - pkg:apk/alpine/pianobar@2018.06.22-r1?arch=armhf&distro=v3.9
+- pkg:apk/alpine/pianobar@2018.06.22-r1?arch=armv7&distro=v3.9

@@ -153,3 +153,4 @@
 - pkg:apk/alpine/libquvi-scripts-doc@0.9.20131130-r0?arch=x86_64&distro=v3.8
 - pkg:apk/alpine/libquvi-scripts-doc@0.9.20131130-r0?arch=aarch64&distro=v3.9
 - pkg:apk/alpine/libquvi-scripts-doc@0.9.20131130-r0?arch=armhf&distro=v3.9
+- pkg:apk/alpine/libquvi-scripts-doc@0.9.20131130-r0?arch=armv7&distro=v3.9

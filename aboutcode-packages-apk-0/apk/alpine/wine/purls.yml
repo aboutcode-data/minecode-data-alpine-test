@@ -44,3 +44,5 @@
 - pkg:apk/alpine/wine@2.0.3-r0?arch=x86_64&distro=v3.7
 - pkg:apk/alpine/wine@3.0-r0?arch=x86&distro=v3.8
 - pkg:apk/alpine/wine@3.0-r0?arch=x86_64&distro=v3.8
+- pkg:apk/alpine/wine@3.0.4-r0?arch=x86&distro=v3.9
+- pkg:apk/alpine/wine@3.0.4-r0?arch=x86_64&distro=v3.9

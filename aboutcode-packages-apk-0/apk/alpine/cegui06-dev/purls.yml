@@ -42,3 +42,4 @@
 - pkg:apk/alpine/cegui06-dev@0.6.2b-r14?arch=s390x&distro=v3.7
 - pkg:apk/alpine/cegui06-dev@0.6.2b-r14?arch=x86&distro=v3.7
 - pkg:apk/alpine/cegui06-dev@0.6.2b-r14?arch=x86_64&distro=v3.7
+- pkg:apk/alpine/cegui06-dev@0.6.2b-r14?arch=aarch64&distro=v3.8

@@ -145,3 +145,4 @@
 - pkg:apk/alpine/net-snmp-gui@5.7.3-r10?arch=s390x&distro=v3.7
 - pkg:apk/alpine/net-snmp-gui@5.7.3-r10?arch=x86&distro=v3.7
 - pkg:apk/alpine/net-snmp-gui@5.7.3-r10?arch=x86_64&distro=v3.7
+- pkg:apk/alpine/net-snmp-gui@5.7.3-r11?arch=aarch64&distro=v3.8

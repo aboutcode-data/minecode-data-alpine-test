@@ -109,3 +109,4 @@
 - pkg:apk/alpine/libvirt-lang@10.9.0-r4?arch=x86&distro=v3.21
 - pkg:apk/alpine/libvirt-lang@10.9.0-r4?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/libvirt-lang@11.3.0-r1?arch=aarch64&distro=v3.22
+- pkg:apk/alpine/libvirt-lang@11.3.0-r1?arch=armhf&distro=v3.22

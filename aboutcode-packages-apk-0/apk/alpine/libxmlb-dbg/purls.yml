@@ -93,3 +93,4 @@
 - pkg:apk/alpine/libxmlb-dbg@0.3.21-r0?arch=x86&distro=v3.21
 - pkg:apk/alpine/libxmlb-dbg@0.3.21-r0?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/libxmlb-dbg@0.3.22-r0?arch=aarch64&distro=v3.22
+- pkg:apk/alpine/libxmlb-dbg@0.3.22-r0?arch=armhf&distro=v3.22

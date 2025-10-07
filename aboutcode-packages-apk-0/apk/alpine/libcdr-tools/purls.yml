@@ -109,3 +109,4 @@
 - pkg:apk/alpine/libcdr-tools@0.1.7-r13?arch=s390x&distro=v3.21
 - pkg:apk/alpine/libcdr-tools@0.1.7-r13?arch=x86&distro=v3.21
 - pkg:apk/alpine/libcdr-tools@0.1.7-r13?arch=x86_64&distro=v3.21
+- pkg:apk/alpine/libcdr-tools@0.1.8-r1?arch=aarch64&distro=v3.22

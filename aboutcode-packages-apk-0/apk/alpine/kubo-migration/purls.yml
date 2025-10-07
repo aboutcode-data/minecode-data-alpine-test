@@ -32,3 +32,4 @@
 - pkg:apk/alpine/kubo-migration@0.32.1-r5?arch=armv7&distro=v3.21
 - pkg:apk/alpine/kubo-migration@0.32.1-r5?arch=x86&distro=v3.21
 - pkg:apk/alpine/kubo-migration@0.32.1-r5?arch=x86_64&distro=v3.21
+- pkg:apk/alpine/kubo-migration@0.35.0-r2?arch=aarch64&distro=v3.22

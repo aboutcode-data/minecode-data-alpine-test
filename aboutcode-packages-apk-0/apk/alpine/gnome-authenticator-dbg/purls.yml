@@ -16,3 +16,4 @@
 - pkg:apk/alpine/gnome-authenticator-dbg@4.0.3-r1?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/gnome-authenticator-dbg@4.1.1-r0?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/gnome-authenticator-dbg@4.1.1-r0?arch=x86_64&distro=v3.16
+- pkg:apk/alpine/gnome-authenticator-dbg@4.1.6-r0?arch=aarch64&distro=v3.17

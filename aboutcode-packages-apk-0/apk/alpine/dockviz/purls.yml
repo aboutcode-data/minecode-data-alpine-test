@@ -92,3 +92,4 @@
 - pkg:apk/alpine/dockviz@0.6.4-r24?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/dockviz@0.6.4-r24?arch=armhf&distro=v3.22
 - pkg:apk/alpine/dockviz@0.6.4-r24?arch=armv7&distro=v3.22
+- pkg:apk/alpine/dockviz@0.6.4-r24?arch=loongarch64&distro=v3.22

@@ -17,3 +17,4 @@
 - pkg:apk/alpine/subtitlecomposer@0.7.1-r8?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/subtitlecomposer@0.8.0-r1?arch=ppc64le&distro=v3.19
 - pkg:apk/alpine/subtitlecomposer@0.8.0-r1?arch=x86_64&distro=v3.19
+- pkg:apk/alpine/subtitlecomposer@0.8.0-r3?arch=ppc64le&distro=v3.20

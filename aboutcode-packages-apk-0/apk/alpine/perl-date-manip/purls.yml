@@ -146,3 +146,4 @@
 - pkg:apk/alpine/perl-date-manip@6.60-r0?arch=x86&distro=v3.7
 - pkg:apk/alpine/perl-date-manip@6.60-r0?arch=x86_64&distro=v3.7
 - pkg:apk/alpine/perl-date-manip@6.70-r0?arch=aarch64&distro=v3.8
+- pkg:apk/alpine/perl-date-manip@6.70-r0?arch=armhf&distro=v3.8

@@ -7,3 +7,4 @@
 - pkg:apk/alpine/stress-ng-doc@0.19.03-r0?arch=s390x&distro=edge
 - pkg:apk/alpine/stress-ng-doc@0.19.03-r0?arch=x86&distro=edge
 - pkg:apk/alpine/stress-ng-doc@0.19.03-r0?arch=x86_64&distro=edge
+- pkg:apk/alpine/stress-ng-doc@0.18.08-r0?arch=aarch64&distro=latest-stable

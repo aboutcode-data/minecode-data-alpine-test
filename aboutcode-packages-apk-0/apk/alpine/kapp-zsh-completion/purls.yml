@@ -1,1 +1,2 @@
 - pkg:apk/alpine/kapp-zsh-completion@0.64.2-r3?arch=aarch64&distro=edge
+- pkg:apk/alpine/kapp-zsh-completion@0.64.2-r3?arch=armhf&distro=edge

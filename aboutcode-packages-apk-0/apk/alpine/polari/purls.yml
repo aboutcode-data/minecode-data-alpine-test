@@ -14,3 +14,4 @@
 - pkg:apk/alpine/polari@46.0-r2?arch=x86&distro=latest-stable
 - pkg:apk/alpine/polari@46.0-r2?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/polari@3.36.2-r2?arch=aarch64&distro=v3.12
+- pkg:apk/alpine/polari@3.36.2-r2?arch=armhf&distro=v3.12

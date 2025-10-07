@@ -54,3 +54,4 @@
 - pkg:apk/alpine/nebula-openrc@1.9.4-r5?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/nebula-openrc@1.9.4-r5?arch=loongarch64&distro=v3.21
 - pkg:apk/alpine/nebula-openrc@1.9.4-r5?arch=ppc64le&distro=v3.21
+- pkg:apk/alpine/nebula-openrc@1.9.4-r5?arch=riscv64&distro=v3.21

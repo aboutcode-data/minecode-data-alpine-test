@@ -86,3 +86,4 @@
 - pkg:apk/alpine/lua-cjson@2.1.0-r11?arch=ppc64le&distro=v3.18
 - pkg:apk/alpine/lua-cjson@2.1.0-r11?arch=s390x&distro=v3.18
 - pkg:apk/alpine/lua-cjson@2.1.0-r11?arch=x86&distro=v3.18
+- pkg:apk/alpine/lua-cjson@2.1.0-r11?arch=x86_64&distro=v3.18

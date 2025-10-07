@@ -120,3 +120,4 @@
 - pkg:apk/alpine/linux-firmware-go7007@20180615-r2?arch=ppc64le&distro=v3.8
 - pkg:apk/alpine/linux-firmware-go7007@20180615-r2?arch=s390x&distro=v3.8
 - pkg:apk/alpine/linux-firmware-go7007@20180615-r2?arch=x86&distro=v3.8
+- pkg:apk/alpine/linux-firmware-go7007@20180615-r2?arch=x86_64&distro=v3.8

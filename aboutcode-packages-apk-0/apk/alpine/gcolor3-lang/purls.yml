@@ -14,3 +14,4 @@
 - pkg:apk/alpine/gcolor3-lang@2.4.0-r2?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/gcolor3-lang@2.4.0-r2?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/gcolor3-lang@2.4.0-r2?arch=x86&distro=latest-stable
+- pkg:apk/alpine/gcolor3-lang@2.4.0-r2?arch=x86_64&distro=latest-stable

@@ -81,3 +81,4 @@
 - pkg:apk/alpine/rsyslog-mmpstrucdata@8.2310.0-r0?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/rsyslog-mmpstrucdata@8.2404.0-r0?arch=aarch64&distro=v3.20
 - pkg:apk/alpine/rsyslog-mmpstrucdata@8.2404.0-r0?arch=armhf&distro=v3.20
+- pkg:apk/alpine/rsyslog-mmpstrucdata@8.2404.0-r0?arch=armv7&distro=v3.20

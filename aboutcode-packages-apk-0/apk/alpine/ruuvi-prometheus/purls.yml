@@ -1,1 +1,2 @@
 - pkg:apk/alpine/ruuvi-prometheus@0.1.9-r5?arch=aarch64&distro=edge
+- pkg:apk/alpine/ruuvi-prometheus@0.1.9-r5?arch=armhf&distro=edge

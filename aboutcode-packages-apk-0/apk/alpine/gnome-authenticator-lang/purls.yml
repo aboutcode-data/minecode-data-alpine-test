@@ -34,3 +34,4 @@
 - pkg:apk/alpine/gnome-authenticator-lang@3.32.2-r10?arch=ppc64le&distro=v3.14
 - pkg:apk/alpine/gnome-authenticator-lang@3.32.2-r10?arch=x86&distro=v3.14
 - pkg:apk/alpine/gnome-authenticator-lang@3.32.2-r10?arch=x86_64&distro=v3.14
+- pkg:apk/alpine/gnome-authenticator-lang@4.0.3-r1?arch=aarch64&distro=v3.15

@@ -10,3 +10,4 @@
 - pkg:apk/alpine/taplo@0.9.3-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/taplo@0.9.3-r0?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/taplo@0.9.3-r0?arch=armv7&distro=latest-stable
+- pkg:apk/alpine/taplo@0.9.3-r0?arch=ppc64le&distro=latest-stable

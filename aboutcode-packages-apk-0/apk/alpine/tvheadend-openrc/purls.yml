@@ -11,3 +11,4 @@
 - pkg:apk/alpine/tvheadend-openrc@4.2.8-r8?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/tvheadend-openrc@4.2.8-r8?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/tvheadend-openrc@4.2.8-r8?arch=loongarch64&distro=latest-stable
+- pkg:apk/alpine/tvheadend-openrc@4.2.8-r8?arch=ppc64le&distro=latest-stable

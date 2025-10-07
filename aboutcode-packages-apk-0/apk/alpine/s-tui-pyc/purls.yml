@@ -24,3 +24,4 @@
 - pkg:apk/alpine/s-tui-pyc@1.1.4-r2?arch=x86&distro=v3.18
 - pkg:apk/alpine/s-tui-pyc@1.1.4-r2?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/s-tui-pyc@1.1.4-r2?arch=aarch64&distro=v3.19
+- pkg:apk/alpine/s-tui-pyc@1.1.4-r2?arch=armhf&distro=v3.19

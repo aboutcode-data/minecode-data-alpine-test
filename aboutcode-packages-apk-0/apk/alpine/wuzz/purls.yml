@@ -42,3 +42,4 @@
 - pkg:apk/alpine/wuzz@0.5.0-r15?arch=armhf&distro=v3.17
 - pkg:apk/alpine/wuzz@0.5.0-r15?arch=armv7&distro=v3.17
 - pkg:apk/alpine/wuzz@0.5.0-r15?arch=ppc64le&distro=v3.17
+- pkg:apk/alpine/wuzz@0.5.0-r15?arch=s390x&distro=v3.17

@@ -155,3 +155,4 @@
 - pkg:apk/alpine/umurmur@0.2.17-r3?arch=ppc64le&distro=v3.9
 - pkg:apk/alpine/umurmur@0.2.17-r3?arch=s390x&distro=v3.9
 - pkg:apk/alpine/umurmur@0.2.17-r3?arch=x86&distro=v3.9
+- pkg:apk/alpine/umurmur@0.2.17-r3?arch=x86_64&distro=v3.9

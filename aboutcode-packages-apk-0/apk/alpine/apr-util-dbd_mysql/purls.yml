@@ -127,3 +127,4 @@
 - pkg:apk/alpine/apr-util-dbd_mysql@1.6.1-r5?arch=ppc64le&distro=v3.9
 - pkg:apk/alpine/apr-util-dbd_mysql@1.6.1-r5?arch=s390x&distro=v3.9
 - pkg:apk/alpine/apr-util-dbd_mysql@1.6.1-r5?arch=x86&distro=v3.9
+- pkg:apk/alpine/apr-util-dbd_mysql@1.6.1-r5?arch=x86_64&distro=v3.9

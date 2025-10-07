@@ -13,3 +13,4 @@
 - pkg:apk/alpine/knot-resolver-doc@5.7.4-r2?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/knot-resolver-doc@5.7.4-r2?arch=x86&distro=latest-stable
 - pkg:apk/alpine/knot-resolver-doc@5.7.4-r2?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/knot-resolver-doc@3.2.1-r4?arch=aarch64&distro=v3.10

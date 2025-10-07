@@ -124,3 +124,4 @@
 - pkg:apk/alpine/curl-doc@8.14.1-r2?arch=x86&distro=v3.22
 - pkg:apk/alpine/curl-doc@8.14.1-r2?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/curl-doc@7.52.1-r1?arch=armhf&distro=v3.3
+- pkg:apk/alpine/curl-doc@7.55.0-r2?arch=x86&distro=v3.3

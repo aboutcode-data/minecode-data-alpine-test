@@ -124,3 +124,4 @@
 - pkg:apk/alpine/fish@4.0.2-r0?arch=x86&distro=v3.22
 - pkg:apk/alpine/fish@4.0.2-r0?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/fish@2.2.0-r3?arch=armhf&distro=v3.3
+- pkg:apk/alpine/fish@2.2.0-r3?arch=x86&distro=v3.3

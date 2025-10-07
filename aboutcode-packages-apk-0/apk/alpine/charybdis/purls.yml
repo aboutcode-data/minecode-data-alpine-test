@@ -124,3 +124,4 @@
 - pkg:apk/alpine/charybdis@4.1.2-r6?arch=x86&distro=v3.22
 - pkg:apk/alpine/charybdis@4.1.2-r6?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/charybdis@3.4.2-r6?arch=armhf&distro=v3.3
+- pkg:apk/alpine/charybdis@3.4.2-r6?arch=x86&distro=v3.3

@@ -124,3 +124,4 @@
 - pkg:apk/alpine/perl-error-doc@0.17030-r0?arch=x86&distro=v3.22
 - pkg:apk/alpine/perl-error-doc@0.17030-r0?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/perl-error-doc@0.17024-r0?arch=armhf&distro=v3.3
+- pkg:apk/alpine/perl-error-doc@0.17024-r0?arch=x86&distro=v3.3

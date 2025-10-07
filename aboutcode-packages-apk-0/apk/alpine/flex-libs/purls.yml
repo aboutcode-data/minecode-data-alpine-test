@@ -124,3 +124,4 @@
 - pkg:apk/alpine/flex-libs@2.6.4-r7?arch=x86&distro=v3.22
 - pkg:apk/alpine/flex-libs@2.6.4-r7?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/flex-libs@2.5.39-r3?arch=armhf&distro=v3.3
+- pkg:apk/alpine/flex-libs@2.5.39-r3?arch=x86&distro=v3.3

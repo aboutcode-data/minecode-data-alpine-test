@@ -123,3 +123,4 @@
 - pkg:apk/alpine/kamailio-dbg@6.0.1-r5?arch=x86&distro=v3.22
 - pkg:apk/alpine/kamailio-dbg@6.0.1-r5?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/kamailio-dbg@4.3.5-r0?arch=armhf&distro=v3.3
+- pkg:apk/alpine/kamailio-dbg@4.3.5-r1?arch=x86&distro=v3.3

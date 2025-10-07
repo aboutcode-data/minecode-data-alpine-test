@@ -66,3 +66,4 @@
 - pkg:apk/alpine/gnokii-smsd-sqlite@0.6.31-r4?arch=x86&distro=v3.2
 - pkg:apk/alpine/gnokii-smsd-sqlite@0.6.31-r4?arch=x86_64&distro=v3.2
 - pkg:apk/alpine/gnokii-smsd-sqlite@0.6.31-r5?arch=armhf&distro=v3.3
+- pkg:apk/alpine/gnokii-smsd-sqlite@0.6.31-r5?arch=x86&distro=v3.3

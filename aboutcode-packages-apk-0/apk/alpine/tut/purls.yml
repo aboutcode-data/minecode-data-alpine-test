@@ -74,3 +74,4 @@
 - pkg:apk/alpine/tut@2.0.1-r20?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/tut@2.0.1-r20?arch=armhf&distro=v3.22
 - pkg:apk/alpine/tut@2.0.1-r20?arch=armv7&distro=v3.22
+- pkg:apk/alpine/tut@2.0.1-r20?arch=loongarch64&distro=v3.22

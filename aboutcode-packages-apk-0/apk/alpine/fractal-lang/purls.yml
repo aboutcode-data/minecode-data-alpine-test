@@ -67,3 +67,4 @@
 - pkg:apk/alpine/fractal-lang@9-r1?arch=ppc64le&distro=v3.21
 - pkg:apk/alpine/fractal-lang@9-r1?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/fractal-lang@12-r0?arch=aarch64&distro=v3.22
+- pkg:apk/alpine/fractal-lang@12-r0?arch=ppc64le&distro=v3.22

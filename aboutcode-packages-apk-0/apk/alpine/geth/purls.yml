@@ -98,3 +98,4 @@
 - pkg:apk/alpine/geth@1.15.5-r4?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/geth@1.15.5-r4?arch=armhf&distro=v3.22
 - pkg:apk/alpine/geth@1.15.5-r4?arch=armv7&distro=v3.22
+- pkg:apk/alpine/geth@1.15.5-r4?arch=ppc64le&distro=v3.22

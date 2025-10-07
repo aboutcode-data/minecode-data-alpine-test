@@ -43,3 +43,4 @@
 - pkg:apk/alpine/perl-text-password-pronounceable@0.30-r2?arch=s390x&distro=v3.12
 - pkg:apk/alpine/perl-text-password-pronounceable@0.30-r2?arch=x86&distro=v3.12
 - pkg:apk/alpine/perl-text-password-pronounceable@0.30-r2?arch=x86_64&distro=v3.12
+- pkg:apk/alpine/perl-text-password-pronounceable@0.30-r3?arch=aarch64&distro=v3.13

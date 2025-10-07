@@ -43,3 +43,4 @@
 - pkg:apk/alpine/byacc-doc@20200330-r0?arch=s390x&distro=v3.12
 - pkg:apk/alpine/byacc-doc@20200330-r0?arch=x86&distro=v3.12
 - pkg:apk/alpine/byacc-doc@20200330-r0?arch=x86_64&distro=v3.12
+- pkg:apk/alpine/byacc-doc@20200910-r0?arch=aarch64&distro=v3.13

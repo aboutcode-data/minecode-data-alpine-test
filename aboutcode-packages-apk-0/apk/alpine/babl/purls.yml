@@ -97,3 +97,4 @@
 - pkg:apk/alpine/babl@0.1.10-r1?arch=armhf&distro=v3.2
 - pkg:apk/alpine/babl@0.1.10-r1?arch=x86&distro=v3.2
 - pkg:apk/alpine/babl@0.1.10-r1?arch=x86_64&distro=v3.2
+- pkg:apk/alpine/babl@0.1.108-r0?arch=aarch64&distro=v3.20

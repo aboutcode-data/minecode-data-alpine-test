@@ -62,3 +62,4 @@
 - pkg:apk/alpine/nmh-doc@1.7.1-r6?arch=x86&distro=v3.15
 - pkg:apk/alpine/nmh-doc@1.7.1-r6?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/nmh-doc@1.7.1-r6?arch=aarch64&distro=v3.16
+- pkg:apk/alpine/nmh-doc@1.7.1-r6?arch=armhf&distro=v3.16

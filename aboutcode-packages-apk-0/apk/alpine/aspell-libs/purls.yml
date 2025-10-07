@@ -140,3 +140,4 @@
 - pkg:apk/alpine/aspell-libs@0.60.6.1-r13?arch=aarch64&distro=v3.8
 - pkg:apk/alpine/aspell-libs@0.60.6.1-r13?arch=armhf&distro=v3.8
 - pkg:apk/alpine/aspell-libs@0.60.6.1-r13?arch=ppc64le&distro=v3.8
+- pkg:apk/alpine/aspell-libs@0.60.6.1-r13?arch=s390x&distro=v3.8

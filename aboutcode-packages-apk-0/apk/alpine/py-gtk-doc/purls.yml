@@ -38,3 +38,4 @@
 - pkg:apk/alpine/py-gtk-doc@2.24.0-r15?arch=aarch64&distro=v3.8
 - pkg:apk/alpine/py-gtk-doc@2.24.0-r15?arch=armhf&distro=v3.8
 - pkg:apk/alpine/py-gtk-doc@2.24.0-r15?arch=ppc64le&distro=v3.8
+- pkg:apk/alpine/py-gtk-doc@2.24.0-r15?arch=s390x&distro=v3.8

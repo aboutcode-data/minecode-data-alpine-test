@@ -95,3 +95,4 @@
 - pkg:apk/alpine/usb-modeswitch-doc@2.6.1-r3?arch=x86&distro=v3.19
 - pkg:apk/alpine/usb-modeswitch-doc@2.6.1-r3?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/usb-modeswitch-doc@2.2.0-r1?arch=armhf&distro=v3.2
+- pkg:apk/alpine/usb-modeswitch-doc@2.2.0-r1?arch=x86&distro=v3.2

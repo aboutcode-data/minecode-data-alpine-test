@@ -89,3 +89,4 @@
 - pkg:apk/alpine/upower-doc@1.90.2-r0?arch=x86&distro=v3.19
 - pkg:apk/alpine/upower-doc@1.90.2-r0?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/upower-doc@0.9.23-r2?arch=armhf&distro=v3.2
+- pkg:apk/alpine/upower-doc@0.9.23-r2?arch=x86&distro=v3.2

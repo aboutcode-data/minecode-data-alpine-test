@@ -138,3 +138,4 @@
 - pkg:apk/alpine/libice-doc@1.0.9-r2?arch=x86&distro=v3.8
 - pkg:apk/alpine/libice-doc@1.0.9-r2?arch=x86_64&distro=v3.8
 - pkg:apk/alpine/libice-doc@1.0.9-r3?arch=aarch64&distro=v3.9
+- pkg:apk/alpine/libice-doc@1.0.9-r3?arch=armhf&distro=v3.9

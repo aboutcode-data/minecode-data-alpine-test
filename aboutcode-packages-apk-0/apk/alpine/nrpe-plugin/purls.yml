@@ -152,3 +152,4 @@
 - pkg:apk/alpine/nrpe-plugin@2.15-r8?arch=x86&distro=v3.8
 - pkg:apk/alpine/nrpe-plugin@2.15-r8?arch=x86_64&distro=v3.8
 - pkg:apk/alpine/nrpe-plugin@3.2.1-r2?arch=aarch64&distro=v3.9
+- pkg:apk/alpine/nrpe-plugin@3.2.1-r2?arch=armhf&distro=v3.9

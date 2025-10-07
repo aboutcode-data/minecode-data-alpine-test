@@ -56,3 +56,4 @@
 - pkg:apk/alpine/networkmanager-doc@1.32.12-r1?arch=ppc64le&distro=v3.15
 - pkg:apk/alpine/networkmanager-doc@1.32.12-r1?arch=x86&distro=v3.15
 - pkg:apk/alpine/networkmanager-doc@1.32.12-r1?arch=x86_64&distro=v3.15
+- pkg:apk/alpine/networkmanager-doc@1.38.2-r1?arch=aarch64&distro=v3.16

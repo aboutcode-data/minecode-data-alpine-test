@@ -45,3 +45,4 @@
 - pkg:apk/alpine/git-sizer@1.5.0-r18?arch=x86&distro=v3.18
 - pkg:apk/alpine/git-sizer@1.5.0-r18?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/git-sizer@1.5.0-r21?arch=aarch64&distro=v3.19
+- pkg:apk/alpine/git-sizer@1.5.0-r21?arch=armhf&distro=v3.19

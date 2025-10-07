@@ -45,3 +45,4 @@
 - pkg:apk/alpine/process-cpp-dev@3.0.1-r6?arch=s390x&distro=v3.17
 - pkg:apk/alpine/process-cpp-dev@3.0.1-r6?arch=x86&distro=v3.17
 - pkg:apk/alpine/process-cpp-dev@3.0.1-r6?arch=x86_64&distro=v3.17
+- pkg:apk/alpine/process-cpp-dev@3.0.1-r8?arch=aarch64&distro=v3.18

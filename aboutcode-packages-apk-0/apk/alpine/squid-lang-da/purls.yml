@@ -129,3 +129,4 @@
 - pkg:apk/alpine/squid-lang-da@3.5.23-r0?arch=armhf&distro=v3.4
 - pkg:apk/alpine/squid-lang-da@3.5.27-r0?arch=x86&distro=v3.4
 - pkg:apk/alpine/squid-lang-da@3.5.27-r0?arch=x86_64&distro=v3.4
+- pkg:apk/alpine/squid-lang-da@3.5.27-r0?arch=aarch64&distro=v3.5

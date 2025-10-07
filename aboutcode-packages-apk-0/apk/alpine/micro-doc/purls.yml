@@ -47,3 +47,4 @@
 - pkg:apk/alpine/micro-doc@2.0.10-r11?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/micro-doc@2.0.11-r10?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/micro-doc@2.0.11-r10?arch=armhf&distro=v3.17
+- pkg:apk/alpine/micro-doc@2.0.11-r10?arch=armv7&distro=v3.17

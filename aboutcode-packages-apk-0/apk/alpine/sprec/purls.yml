@@ -10,3 +10,4 @@
 - pkg:apk/alpine/sprec@0.1-r10?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/sprec@0.1-r10?arch=armv7&distro=v3.21
 - pkg:apk/alpine/sprec@0.1-r10?arch=x86_64&distro=v3.21
+- pkg:apk/alpine/sprec@0.1-r12?arch=aarch64&distro=v3.22

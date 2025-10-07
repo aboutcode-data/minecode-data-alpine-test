@@ -1,1 +1,2 @@
 - pkg:apk/alpine/nextcloud29-pgsql@29.0.16-r0?arch=aarch64&distro=latest-stable
+- pkg:apk/alpine/nextcloud29-pgsql@29.0.16-r0?arch=armhf&distro=latest-stable

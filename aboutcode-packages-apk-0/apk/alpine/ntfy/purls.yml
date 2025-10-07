@@ -4,3 +4,4 @@
 - pkg:apk/alpine/ntfy@2.14.0-r2?arch=riscv64&distro=edge
 - pkg:apk/alpine/ntfy@2.14.0-r2?arch=x86_64&distro=edge
 - pkg:apk/alpine/ntfy@2.11.0-r12?arch=aarch64&distro=latest-stable
+- pkg:apk/alpine/ntfy@2.11.0-r12?arch=armhf&distro=latest-stable

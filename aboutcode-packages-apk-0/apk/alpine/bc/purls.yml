@@ -139,3 +139,4 @@
 - pkg:apk/alpine/bc@1.06.95-r2?arch=s390x&distro=v3.6
 - pkg:apk/alpine/bc@1.06.95-r2?arch=x86&distro=v3.6
 - pkg:apk/alpine/bc@1.06.95-r2?arch=x86_64&distro=v3.6
+- pkg:apk/alpine/bc@1.07.1-r0?arch=aarch64&distro=v3.7

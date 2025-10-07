@@ -81,3 +81,4 @@
 - pkg:apk/alpine/dillo-doc@3.0.5-r14?arch=armv7&distro=v3.18
 - pkg:apk/alpine/dillo-doc@3.0.5-r14?arch=ppc64le&distro=v3.18
 - pkg:apk/alpine/dillo-doc@3.0.5-r14?arch=s390x&distro=v3.18
+- pkg:apk/alpine/dillo-doc@3.0.5-r14?arch=x86&distro=v3.18

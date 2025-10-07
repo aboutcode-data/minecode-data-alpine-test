@@ -14,3 +14,4 @@
 - pkg:apk/alpine/zanshin-lang@0.5.71-r4?arch=aarch64&distro=v3.14
 - pkg:apk/alpine/zanshin-lang@0.5.71-r4?arch=x86&distro=v3.14
 - pkg:apk/alpine/zanshin-lang@0.5.71-r4?arch=x86_64&distro=v3.14
+- pkg:apk/alpine/zanshin-lang@0.5.71-r4?arch=aarch64&distro=v3.15

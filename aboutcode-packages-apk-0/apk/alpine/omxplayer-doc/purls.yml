@@ -35,3 +35,4 @@
 - pkg:apk/alpine/omxplayer-doc@0.20161017-r1?arch=armhf&distro=v3.7
 - pkg:apk/alpine/omxplayer-doc@0.20180516-r0?arch=armhf&distro=v3.8
 - pkg:apk/alpine/omxplayer-doc@0.20190102-r0?arch=armhf&distro=v3.9
+- pkg:apk/alpine/omxplayer-doc@0.20190102-r0?arch=armv7&distro=v3.9

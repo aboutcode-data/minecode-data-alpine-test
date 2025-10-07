@@ -129,3 +129,4 @@
 - pkg:apk/alpine/re2@20180401-r0?arch=x86_64&distro=v3.8
 - pkg:apk/alpine/re2@2018.10.01-r1?arch=aarch64&distro=v3.9
 - pkg:apk/alpine/re2@2018.10.01-r1?arch=armhf&distro=v3.9
+- pkg:apk/alpine/re2@2018.10.01-r1?arch=armv7&distro=v3.9

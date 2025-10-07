@@ -44,3 +44,4 @@
 - pkg:apk/alpine/chromium@57.0.2987.133-r0?arch=x86_64&distro=v3.6
 - pkg:apk/alpine/chromium@61.0.3163.100-r0?arch=x86_64&distro=v3.7
 - pkg:apk/alpine/chromium@68.0.3440.75-r0?arch=x86_64&distro=v3.8
+- pkg:apk/alpine/chromium@72.0.3626.121-r0?arch=armv7&distro=v3.9

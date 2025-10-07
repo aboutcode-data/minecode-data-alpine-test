@@ -139,3 +139,4 @@
 - pkg:apk/alpine/perl-datetime-format-builder-doc@0.81-r1?arch=x86_64&distro=v3.8
 - pkg:apk/alpine/perl-datetime-format-builder-doc@0.81-r1?arch=aarch64&distro=v3.9
 - pkg:apk/alpine/perl-datetime-format-builder-doc@0.81-r1?arch=armhf&distro=v3.9
+- pkg:apk/alpine/perl-datetime-format-builder-doc@0.81-r1?arch=armv7&distro=v3.9

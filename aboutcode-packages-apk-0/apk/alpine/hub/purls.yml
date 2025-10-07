@@ -9,3 +9,4 @@
 - pkg:apk/alpine/hub@2.14.2-r34?arch=x86_64&distro=edge
 - pkg:apk/alpine/hub@1.12.1-r0?arch=x86&distro=v3.0
 - pkg:apk/alpine/hub@1.12.1-r0?arch=x86_64&distro=v3.0
+- pkg:apk/alpine/hub@1.12.2-r0?arch=armhf&distro=v3.1

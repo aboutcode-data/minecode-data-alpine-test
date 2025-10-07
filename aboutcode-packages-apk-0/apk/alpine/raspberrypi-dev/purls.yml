@@ -28,3 +28,4 @@
 - pkg:apk/alpine/raspberrypi-dev@0.20160425-r0?arch=armhf&distro=v3.4
 - pkg:apk/alpine/raspberrypi-dev@0.20161031-r0?arch=armhf&distro=v3.5
 - pkg:apk/alpine/raspberrypi-dev@0.20161031-r0?arch=armhf&distro=v3.6
+- pkg:apk/alpine/raspberrypi-dev@0.20171114-r0?arch=armhf&distro=v3.7

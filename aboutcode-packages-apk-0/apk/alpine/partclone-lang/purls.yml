@@ -70,3 +70,4 @@
 - pkg:apk/alpine/partclone-lang@0.3.32-r1?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/partclone-lang@0.3.33-r0?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/partclone-lang@0.3.33-r0?arch=armhf&distro=v3.22
+- pkg:apk/alpine/partclone-lang@0.3.33-r0?arch=armv7&distro=v3.22

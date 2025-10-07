@@ -67,3 +67,4 @@
 - pkg:apk/alpine/sems-annrecorder@1.6.0-r8?arch=aarch64&distro=v3.8
 - pkg:apk/alpine/sems-annrecorder@1.6.0-r8?arch=armhf&distro=v3.8
 - pkg:apk/alpine/sems-annrecorder@1.6.0-r8?arch=ppc64le&distro=v3.8
+- pkg:apk/alpine/sems-annrecorder@1.6.0-r8?arch=s390x&distro=v3.8

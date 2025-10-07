@@ -86,3 +86,4 @@
 - pkg:apk/alpine/nextcloud-initscript@13.0.12-r0?arch=x86&distro=v3.7
 - pkg:apk/alpine/nextcloud-initscript@13.0.12-r0?arch=x86_64&distro=v3.7
 - pkg:apk/alpine/nextcloud-initscript@14.0.14-r1?arch=aarch64&distro=v3.8
+- pkg:apk/alpine/nextcloud-initscript@14.0.14-r1?arch=armhf&distro=v3.8

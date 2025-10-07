@@ -1,1 +1,2 @@
 - pkg:apk/alpine/py2-jellyfish@0.5.6-r1?arch=aarch64&distro=v3.8
+- pkg:apk/alpine/py2-jellyfish@0.5.6-r1?arch=armhf&distro=v3.8

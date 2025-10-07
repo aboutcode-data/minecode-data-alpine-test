@@ -70,3 +70,4 @@
 - pkg:apk/alpine/dillo@3.0.5-r11?arch=x86&distro=v3.16
 - pkg:apk/alpine/dillo@3.0.5-r11?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/dillo@3.0.5-r13?arch=aarch64&distro=v3.17
+- pkg:apk/alpine/dillo@3.0.5-r13?arch=armhf&distro=v3.17

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/mariadb-server-utils@11.4.8-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/mariadb-server-utils@11.4.8-r1?arch=armhf&distro=edge

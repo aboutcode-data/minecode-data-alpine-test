@@ -58,3 +58,4 @@
 - pkg:apk/alpine/perl-io-captureoutput-doc@1.1105-r1?arch=x86&distro=v3.17
 - pkg:apk/alpine/perl-io-captureoutput-doc@1.1105-r1?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/perl-io-captureoutput-doc@1.1104-r0?arch=aarch64&distro=v3.6
+- pkg:apk/alpine/perl-io-captureoutput-doc@1.1104-r0?arch=armhf&distro=v3.6

@@ -111,3 +111,4 @@
 - pkg:apk/alpine/aha@0.5.1-r3?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/aha@0.5.1-r3?arch=armhf&distro=v3.22
 - pkg:apk/alpine/aha@0.5.1-r3?arch=armv7&distro=v3.22
+- pkg:apk/alpine/aha@0.5.1-r3?arch=loongarch64&distro=v3.22

@@ -73,3 +73,4 @@
 - pkg:apk/alpine/libical@3.0.14-r0?arch=s390x&distro=v3.16
 - pkg:apk/alpine/libical@3.0.14-r0?arch=x86&distro=v3.16
 - pkg:apk/alpine/libical@3.0.14-r0?arch=x86_64&distro=v3.16
+- pkg:apk/alpine/libical@3.0.16-r1?arch=aarch64&distro=v3.17

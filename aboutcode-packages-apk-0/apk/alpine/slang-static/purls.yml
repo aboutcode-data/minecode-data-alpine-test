@@ -40,3 +40,4 @@
 - pkg:apk/alpine/slang-static@2.3.2-r0?arch=s390x&distro=v3.14
 - pkg:apk/alpine/slang-static@2.3.2-r0?arch=x86&distro=v3.14
 - pkg:apk/alpine/slang-static@2.3.2-r0?arch=x86_64&distro=v3.14
+- pkg:apk/alpine/slang-static@2.3.2-r0?arch=aarch64&distro=v3.15

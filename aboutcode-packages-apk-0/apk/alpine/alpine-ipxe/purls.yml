@@ -39,3 +39,4 @@
 - pkg:apk/alpine/alpine-ipxe@1.20.1-r1?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/alpine-ipxe@1.20.1-r1?arch=x86&distro=v3.22
 - pkg:apk/alpine/alpine-ipxe@1.0_git20180514-r1?arch=aarch64&distro=v3.8
+- pkg:apk/alpine/alpine-ipxe@1.0_git20180514-r1?arch=x86&distro=v3.8

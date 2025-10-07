@@ -9,3 +9,4 @@
 - pkg:apk/alpine/spl-vanilla@4.9.182-r0?arch=x86&distro=v3.7
 - pkg:apk/alpine/spl-vanilla@4.9.182-r0?arch=x86_64&distro=v3.7
 - pkg:apk/alpine/spl-vanilla@4.14.167-r2?arch=aarch64&distro=v3.8
+- pkg:apk/alpine/spl-vanilla@4.14.167-r2?arch=x86&distro=v3.8

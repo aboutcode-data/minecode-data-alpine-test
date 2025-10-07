@@ -15,3 +15,4 @@
 - pkg:apk/alpine/aws-cli-pyc@2.27.25-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/aws-cli-pyc@2.27.25-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/aws-cli-pyc@2.15.14-r0?arch=aarch64&distro=v3.18
+- pkg:apk/alpine/aws-cli-pyc@2.15.14-r0?arch=x86_64&distro=v3.18

@@ -36,3 +36,4 @@
 - pkg:apk/alpine/alpine-repo-tools-zsh-completion@0.2-r18?arch=ppc64le&distro=v3.18
 - pkg:apk/alpine/alpine-repo-tools-zsh-completion@0.2-r18?arch=s390x&distro=v3.18
 - pkg:apk/alpine/alpine-repo-tools-zsh-completion@0.2-r18?arch=x86&distro=v3.18
+- pkg:apk/alpine/alpine-repo-tools-zsh-completion@0.2-r18?arch=x86_64&distro=v3.18

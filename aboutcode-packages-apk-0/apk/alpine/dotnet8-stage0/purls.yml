@@ -1,1 +1,2 @@
 - pkg:apk/alpine/dotnet8-stage0@8.0.110-r1?arch=aarch64&distro=edge
+- pkg:apk/alpine/dotnet8-stage0@8.0.110-r1?arch=armv7&distro=edge

@@ -68,3 +68,4 @@
 - pkg:apk/alpine/lua5.1-pc@1.0.0-r11?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/lua5.1-pc@1.0.0-r11?arch=aarch64&distro=v3.16
 - pkg:apk/alpine/lua5.1-pc@1.0.0-r11?arch=armhf&distro=v3.16
+- pkg:apk/alpine/lua5.1-pc@1.0.0-r11?arch=armv7&distro=v3.16

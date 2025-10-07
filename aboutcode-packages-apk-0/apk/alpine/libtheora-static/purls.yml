@@ -62,3 +62,4 @@
 - pkg:apk/alpine/libtheora-static@1.1.1-r16?arch=x86&distro=v3.15
 - pkg:apk/alpine/libtheora-static@1.1.1-r16?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/libtheora-static@1.1.1-r16?arch=aarch64&distro=v3.16
+- pkg:apk/alpine/libtheora-static@1.1.1-r16?arch=armhf&distro=v3.16

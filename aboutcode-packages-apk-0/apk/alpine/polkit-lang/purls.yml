@@ -121,3 +121,4 @@
 - pkg:apk/alpine/polkit-lang@0.105-r5?arch=x86&distro=v3.3
 - pkg:apk/alpine/polkit-lang@0.105-r5?arch=x86_64&distro=v3.3
 - pkg:apk/alpine/polkit-lang@0.105-r5?arch=armhf&distro=v3.4
+- pkg:apk/alpine/polkit-lang@0.105-r5?arch=x86&distro=v3.4

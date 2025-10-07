@@ -36,3 +36,4 @@
 - pkg:apk/alpine/xf86-video-intel@2.99.917_git20221028-r7?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/xf86-video-intel@2.99.917-r4?arch=x86&distro=v3.3
 - pkg:apk/alpine/xf86-video-intel@2.99.917-r4?arch=x86_64&distro=v3.3
+- pkg:apk/alpine/xf86-video-intel@2.99.917-r4?arch=x86&distro=v3.4

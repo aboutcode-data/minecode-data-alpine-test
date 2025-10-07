@@ -89,3 +89,4 @@
 - pkg:apk/alpine/gcc-objc@12.2.1_git20220924-r10?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/gcc-objc@13.2.1_git20231014-r0?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/gcc-objc@13.2.1_git20231014-r0?arch=armhf&distro=v3.19
+- pkg:apk/alpine/gcc-objc@13.2.1_git20231014-r0?arch=armv7&distro=v3.19

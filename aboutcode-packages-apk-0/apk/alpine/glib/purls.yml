@@ -89,3 +89,4 @@
 - pkg:apk/alpine/glib@2.76.6-r0?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/glib@2.78.6-r0?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/glib@2.78.6-r0?arch=armhf&distro=v3.19
+- pkg:apk/alpine/glib@2.78.6-r0?arch=armv7&distro=v3.19

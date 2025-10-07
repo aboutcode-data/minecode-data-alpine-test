@@ -83,3 +83,4 @@
 - pkg:apk/alpine/perl-file-remove-doc@1.61-r0?arch=x86&distro=v3.18
 - pkg:apk/alpine/perl-file-remove-doc@1.61-r0?arch=x86_64&distro=v3.18
 - pkg:apk/alpine/perl-file-remove-doc@1.61-r1?arch=aarch64&distro=v3.19
+- pkg:apk/alpine/perl-file-remove-doc@1.61-r1?arch=armhf&distro=v3.19

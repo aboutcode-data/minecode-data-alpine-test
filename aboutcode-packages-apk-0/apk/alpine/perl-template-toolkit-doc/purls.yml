@@ -11,3 +11,4 @@
 - pkg:apk/alpine/perl-template-toolkit-doc@3.102-r0?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/perl-template-toolkit-doc@3.102-r0?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/perl-template-toolkit-doc@3.102-r0?arch=loongarch64&distro=latest-stable
+- pkg:apk/alpine/perl-template-toolkit-doc@3.102-r0?arch=ppc64le&distro=latest-stable

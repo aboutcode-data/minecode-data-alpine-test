@@ -17,3 +17,4 @@
 - pkg:apk/alpine/prometheus-blackbox-exporter@0.26.0-r5?arch=x86&distro=latest-stable
 - pkg:apk/alpine/prometheus-blackbox-exporter@0.26.0-r5?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/prometheus-blackbox-exporter@0.23.0-r8?arch=aarch64&distro=v3.18
+- pkg:apk/alpine/prometheus-blackbox-exporter@0.23.0-r8?arch=armhf&distro=v3.18

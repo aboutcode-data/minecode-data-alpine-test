@@ -125,3 +125,4 @@
 - pkg:apk/alpine/perl-http-message-doc@7.00-r0?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/perl-http-message-doc@6.11-r0?arch=armhf&distro=v3.3
 - pkg:apk/alpine/perl-http-message-doc@6.11-r0?arch=x86&distro=v3.3
+- pkg:apk/alpine/perl-http-message-doc@6.11-r0?arch=x86_64&distro=v3.3

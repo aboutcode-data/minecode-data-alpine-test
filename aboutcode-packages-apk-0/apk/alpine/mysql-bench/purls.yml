@@ -124,3 +124,4 @@
 - pkg:apk/alpine/mysql-bench@11.4.8-r0?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/mysql-bench@10.1.21-r0?arch=armhf&distro=v3.3
 - pkg:apk/alpine/mysql-bench@10.1.26-r0?arch=x86&distro=v3.3
+- pkg:apk/alpine/mysql-bench@10.1.26-r0?arch=x86_64&distro=v3.3

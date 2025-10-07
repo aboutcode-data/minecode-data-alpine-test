@@ -137,3 +137,4 @@
 - pkg:apk/alpine/nghttp2-dev@1.39.2-r0?arch=s390x&distro=v3.8
 - pkg:apk/alpine/nghttp2-dev@1.39.2-r0?arch=x86&distro=v3.8
 - pkg:apk/alpine/nghttp2-dev@1.39.2-r0?arch=x86_64&distro=v3.8
+- pkg:apk/alpine/nghttp2-dev@1.35.1-r2?arch=aarch64&distro=v3.9

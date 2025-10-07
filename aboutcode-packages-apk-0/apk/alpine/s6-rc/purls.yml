@@ -143,3 +143,4 @@
 - pkg:apk/alpine/s6-rc@0.4.0.1-r1?arch=s390x&distro=v3.8
 - pkg:apk/alpine/s6-rc@0.4.0.1-r1?arch=x86&distro=v3.8
 - pkg:apk/alpine/s6-rc@0.4.0.1-r1?arch=x86_64&distro=v3.8
+- pkg:apk/alpine/s6-rc@0.4.1.0-r0?arch=aarch64&distro=v3.9

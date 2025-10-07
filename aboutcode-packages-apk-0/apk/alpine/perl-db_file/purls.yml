@@ -113,3 +113,4 @@
 - pkg:apk/alpine/perl-db_file@1.841-r1?arch=s390x&distro=v3.8
 - pkg:apk/alpine/perl-db_file@1.841-r1?arch=x86&distro=v3.8
 - pkg:apk/alpine/perl-db_file@1.841-r1?arch=x86_64&distro=v3.8
+- pkg:apk/alpine/perl-db_file@1.843-r0?arch=aarch64&distro=v3.9

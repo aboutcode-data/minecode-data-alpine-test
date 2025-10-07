@@ -7,3 +7,4 @@
 - pkg:apk/alpine/git-metafile@0.2.3-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/git-metafile@0.2.3-r1?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/git-metafile@0.2.3-r1?arch=armv7&distro=latest-stable
+- pkg:apk/alpine/git-metafile@0.2.3-r1?arch=riscv64&distro=latest-stable

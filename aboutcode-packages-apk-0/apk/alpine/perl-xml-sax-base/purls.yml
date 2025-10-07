@@ -120,3 +120,4 @@
 - pkg:apk/alpine/perl-xml-sax-base@1.09-r5?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/perl-xml-sax-base@1.08-r1?arch=armhf&distro=v3.4
 - pkg:apk/alpine/perl-xml-sax-base@1.08-r1?arch=x86&distro=v3.4
+- pkg:apk/alpine/perl-xml-sax-base@1.08-r1?arch=x86_64&distro=v3.4

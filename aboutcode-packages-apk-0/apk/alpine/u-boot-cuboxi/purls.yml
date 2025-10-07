@@ -24,3 +24,4 @@
 - pkg:apk/alpine/u-boot-cuboxi@2023.10-r8?arch=armv7&distro=v3.19
 - pkg:apk/alpine/u-boot-cuboxi@2024.04-r6?arch=armhf&distro=v3.20
 - pkg:apk/alpine/u-boot-cuboxi@2024.04-r6?arch=armv7&distro=v3.20
+- pkg:apk/alpine/u-boot-cuboxi@2024.10-r7?arch=armhf&distro=v3.21

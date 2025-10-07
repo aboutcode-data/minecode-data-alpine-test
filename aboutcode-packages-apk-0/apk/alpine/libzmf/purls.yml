@@ -111,3 +111,4 @@
 - pkg:apk/alpine/libzmf@0.0.2-r20?arch=armv7&distro=v3.22
 - pkg:apk/alpine/libzmf@0.0.2-r20?arch=loongarch64&distro=v3.22
 - pkg:apk/alpine/libzmf@0.0.2-r20?arch=ppc64le&distro=v3.22
+- pkg:apk/alpine/libzmf@0.0.2-r20?arch=riscv64&distro=v3.22

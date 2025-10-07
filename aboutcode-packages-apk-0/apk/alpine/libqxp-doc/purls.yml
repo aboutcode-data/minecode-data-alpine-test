@@ -111,3 +111,4 @@
 - pkg:apk/alpine/libqxp-doc@0.0.2-r11?arch=armv7&distro=v3.22
 - pkg:apk/alpine/libqxp-doc@0.0.2-r11?arch=loongarch64&distro=v3.22
 - pkg:apk/alpine/libqxp-doc@0.0.2-r11?arch=ppc64le&distro=v3.22
+- pkg:apk/alpine/libqxp-doc@0.0.2-r11?arch=riscv64&distro=v3.22

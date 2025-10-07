@@ -17,3 +17,4 @@
 - pkg:apk/alpine/elogind-openrc@252.24-r1?arch=x86&distro=latest-stable
 - pkg:apk/alpine/elogind-openrc@252.24-r1?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/elogind-openrc@243.4-r4?arch=aarch64&distro=v3.12
+- pkg:apk/alpine/elogind-openrc@243.4-r4?arch=armhf&distro=v3.12

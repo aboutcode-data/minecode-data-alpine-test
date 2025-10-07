@@ -1,1 +1,2 @@
 - pkg:apk/alpine/unicorn@2.0.1-r4?arch=aarch64&distro=edge
+- pkg:apk/alpine/unicorn@2.0.1-r4?arch=riscv64&distro=edge

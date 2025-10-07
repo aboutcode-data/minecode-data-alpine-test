@@ -51,3 +51,4 @@
 - pkg:apk/alpine/greetd-openrc@0.10.3-r7?arch=loongarch64&distro=v3.22
 - pkg:apk/alpine/greetd-openrc@0.10.3-r7?arch=ppc64le&distro=v3.22
 - pkg:apk/alpine/greetd-openrc@0.10.3-r7?arch=riscv64&distro=v3.22
+- pkg:apk/alpine/greetd-openrc@0.10.3-r7?arch=x86&distro=v3.22

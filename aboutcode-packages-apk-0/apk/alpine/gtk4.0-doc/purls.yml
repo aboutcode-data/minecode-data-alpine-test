@@ -9,3 +9,4 @@
 - pkg:apk/alpine/gtk4.0-doc@4.20.2-r0?arch=x86_64&distro=edge
 - pkg:apk/alpine/gtk4.0-doc@4.18.6-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/gtk4.0-doc@4.18.6-r0?arch=armhf&distro=latest-stable
+- pkg:apk/alpine/gtk4.0-doc@4.18.6-r0?arch=armv7&distro=latest-stable

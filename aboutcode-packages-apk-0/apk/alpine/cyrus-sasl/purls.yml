@@ -138,3 +138,4 @@
 - pkg:apk/alpine/cyrus-sasl@2.1.26-r10?arch=ppc64le&distro=v3.6
 - pkg:apk/alpine/cyrus-sasl@2.1.26-r10?arch=s390x&distro=v3.6
 - pkg:apk/alpine/cyrus-sasl@2.1.26-r10?arch=x86&distro=v3.6
+- pkg:apk/alpine/cyrus-sasl@2.1.26-r10?arch=x86_64&distro=v3.6

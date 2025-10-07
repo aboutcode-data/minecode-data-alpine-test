@@ -110,3 +110,4 @@
 - pkg:apk/alpine/caddy-openrc@2.10.0-r2?arch=s390x&distro=v3.22
 - pkg:apk/alpine/caddy-openrc@2.10.0-r2?arch=x86&distro=v3.22
 - pkg:apk/alpine/caddy-openrc@2.10.0-r2?arch=x86_64&distro=v3.22
+- pkg:apk/alpine/caddy-openrc@0.11.1-r0?arch=aarch64&distro=v3.9

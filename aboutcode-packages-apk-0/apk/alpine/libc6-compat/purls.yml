@@ -94,3 +94,4 @@
 - pkg:apk/alpine/libc6-compat@1.1.19-r11?arch=ppc64le&distro=v3.8
 - pkg:apk/alpine/libc6-compat@1.1.19-r11?arch=s390x&distro=v3.8
 - pkg:apk/alpine/libc6-compat@1.1.19-r11?arch=x86&distro=v3.8
+- pkg:apk/alpine/libc6-compat@1.1.19-r11?arch=x86_64&distro=v3.8

@@ -29,3 +29,4 @@
 - pkg:apk/alpine/mesa-dri-vmwgfx@17.2.4-r1?arch=x86&distro=v3.7
 - pkg:apk/alpine/mesa-dri-vmwgfx@17.2.4-r1?arch=x86_64&distro=v3.7
 - pkg:apk/alpine/mesa-dri-vmwgfx@18.0.5-r0?arch=x86&distro=v3.8
+- pkg:apk/alpine/mesa-dri-vmwgfx@18.0.5-r0?arch=x86_64&distro=v3.8

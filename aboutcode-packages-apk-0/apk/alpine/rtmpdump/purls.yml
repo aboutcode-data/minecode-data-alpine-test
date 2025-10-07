@@ -155,3 +155,4 @@
 - pkg:apk/alpine/rtmpdump@2.4_git20160909-r6?arch=armhf&distro=v3.9
 - pkg:apk/alpine/rtmpdump@2.4_git20160909-r6?arch=armv7&distro=v3.9
 - pkg:apk/alpine/rtmpdump@2.4_git20160909-r6?arch=ppc64le&distro=v3.9
+- pkg:apk/alpine/rtmpdump@2.4_git20160909-r6?arch=s390x&distro=v3.9

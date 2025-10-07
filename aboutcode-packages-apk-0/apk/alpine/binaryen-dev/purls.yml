@@ -111,3 +111,4 @@
 - pkg:apk/alpine/binaryen-dev@40-r0?arch=aarch64&distro=v3.8
 - pkg:apk/alpine/binaryen-dev@40-r0?arch=armhf&distro=v3.8
 - pkg:apk/alpine/binaryen-dev@40-r0?arch=ppc64le&distro=v3.8
+- pkg:apk/alpine/binaryen-dev@40-r0?arch=x86&distro=v3.8

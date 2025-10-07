@@ -140,3 +140,4 @@
 - pkg:apk/alpine/abiword@3.0.2-r3?arch=armhf&distro=v3.8
 - pkg:apk/alpine/abiword@3.0.2-r3?arch=ppc64le&distro=v3.8
 - pkg:apk/alpine/abiword@3.0.2-r3?arch=s390x&distro=v3.8
+- pkg:apk/alpine/abiword@3.0.2-r3?arch=x86&distro=v3.8

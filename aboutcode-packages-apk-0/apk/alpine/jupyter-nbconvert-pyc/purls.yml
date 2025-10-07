@@ -1,1 +1,2 @@
 - pkg:apk/alpine/jupyter-nbconvert-pyc@7.16.6-r2?arch=aarch64&distro=edge
+- pkg:apk/alpine/jupyter-nbconvert-pyc@7.16.6-r2?arch=ppc64le&distro=edge

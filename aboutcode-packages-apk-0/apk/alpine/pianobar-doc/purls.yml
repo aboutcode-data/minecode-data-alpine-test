@@ -94,3 +94,4 @@
 - pkg:apk/alpine/pianobar-doc@2022.04.01-r1?arch=s390x&distro=v3.19
 - pkg:apk/alpine/pianobar-doc@2022.04.01-r1?arch=x86&distro=v3.19
 - pkg:apk/alpine/pianobar-doc@2022.04.01-r1?arch=x86_64&distro=v3.19
+- pkg:apk/alpine/pianobar-doc@2011.07.09-r0?arch=armhf&distro=v3.2

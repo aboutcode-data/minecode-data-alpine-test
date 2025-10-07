@@ -94,3 +94,4 @@
 - pkg:apk/alpine/ldb@2.7.2-r1?arch=s390x&distro=v3.19
 - pkg:apk/alpine/ldb@2.7.2-r1?arch=x86&distro=v3.19
 - pkg:apk/alpine/ldb@2.7.2-r1?arch=x86_64&distro=v3.19
+- pkg:apk/alpine/ldb@1.1.24-r0?arch=armhf&distro=v3.2

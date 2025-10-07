@@ -94,3 +94,4 @@
 - pkg:apk/alpine/herbstluftwm-doc@0.9.5-r2?arch=s390x&distro=v3.19
 - pkg:apk/alpine/herbstluftwm-doc@0.9.5-r2?arch=x86&distro=v3.19
 - pkg:apk/alpine/herbstluftwm-doc@0.9.5-r2?arch=x86_64&distro=v3.19
+- pkg:apk/alpine/herbstluftwm-doc@0.6.2-r0?arch=armhf&distro=v3.2

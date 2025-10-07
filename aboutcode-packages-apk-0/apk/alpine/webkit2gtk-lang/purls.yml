@@ -98,3 +98,4 @@
 - pkg:apk/alpine/webkit2gtk-lang@2.20.4-r0?arch=x86_64&distro=v3.8
 - pkg:apk/alpine/webkit2gtk-lang@2.24.3-r0?arch=aarch64&distro=v3.9
 - pkg:apk/alpine/webkit2gtk-lang@2.24.3-r0?arch=armhf&distro=v3.9
+- pkg:apk/alpine/webkit2gtk-lang@2.24.3-r0?arch=armv7&distro=v3.9

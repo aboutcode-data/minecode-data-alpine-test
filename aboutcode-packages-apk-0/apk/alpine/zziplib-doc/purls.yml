@@ -141,3 +141,4 @@
 - pkg:apk/alpine/zziplib-doc@0.13.69-r1?arch=x86&distro=v3.8
 - pkg:apk/alpine/zziplib-doc@0.13.69-r1?arch=x86_64&distro=v3.8
 - pkg:apk/alpine/zziplib-doc@0.13.69-r1?arch=aarch64&distro=v3.9
+- pkg:apk/alpine/zziplib-doc@0.13.69-r1?arch=armhf&distro=v3.9

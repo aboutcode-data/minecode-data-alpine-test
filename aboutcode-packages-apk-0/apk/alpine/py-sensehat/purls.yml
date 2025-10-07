@@ -5,3 +5,4 @@
 - pkg:apk/alpine/py-sensehat@2.1.0-r0?arch=armhf&distro=v3.7
 - pkg:apk/alpine/py-sensehat@2.2.0-r0?arch=armhf&distro=v3.8
 - pkg:apk/alpine/py-sensehat@2.2.0-r0?arch=armhf&distro=v3.9
+- pkg:apk/alpine/py-sensehat@2.2.0-r0?arch=armv7&distro=v3.9

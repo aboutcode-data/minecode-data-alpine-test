@@ -19,3 +19,4 @@
 - pkg:apk/alpine/busybox-extras-openrc@1.35.0-r31?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/busybox-extras-openrc@1.35.0-r31?arch=armhf&distro=v3.17
 - pkg:apk/alpine/busybox-extras-openrc@1.35.0-r31?arch=armv7&distro=v3.17
+- pkg:apk/alpine/busybox-extras-openrc@1.35.0-r31?arch=ppc64le&distro=v3.17

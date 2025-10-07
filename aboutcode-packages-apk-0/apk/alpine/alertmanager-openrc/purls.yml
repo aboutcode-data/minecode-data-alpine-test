@@ -90,3 +90,4 @@
 - pkg:apk/alpine/alertmanager-openrc@0.27.0-r10?arch=s390x&distro=v3.21
 - pkg:apk/alpine/alertmanager-openrc@0.27.0-r10?arch=x86&distro=v3.21
 - pkg:apk/alpine/alertmanager-openrc@0.27.0-r10?arch=x86_64&distro=v3.21
+- pkg:apk/alpine/alertmanager-openrc@0.28.1-r5?arch=aarch64&distro=v3.22

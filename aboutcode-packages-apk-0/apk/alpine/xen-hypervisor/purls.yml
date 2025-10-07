@@ -36,3 +36,4 @@
 - pkg:apk/alpine/xen-hypervisor@4.18.5-r2?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/xen-hypervisor@4.18.5-r2?arch=armv7&distro=v3.19
 - pkg:apk/alpine/xen-hypervisor@4.18.5-r2?arch=x86_64&distro=v3.19
+- pkg:apk/alpine/xen-hypervisor@4.5.5-r3?arch=x86_64&distro=v3.2

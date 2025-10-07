@@ -69,3 +69,4 @@
 - pkg:apk/alpine/zoneminder@1.36.33-r4?arch=ppc64le&distro=v3.19
 - pkg:apk/alpine/zoneminder@1.36.33-r4?arch=x86&distro=v3.19
 - pkg:apk/alpine/zoneminder@1.36.33-r4?arch=x86_64&distro=v3.19
+- pkg:apk/alpine/zoneminder@1.28.1-r2?arch=x86_64&distro=v3.2

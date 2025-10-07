@@ -130,3 +130,4 @@
 - pkg:apk/alpine/gross-dev@1.0.2-r10?arch=x86&distro=v3.4
 - pkg:apk/alpine/gross-dev@1.0.2-r10?arch=x86_64&distro=v3.4
 - pkg:apk/alpine/gross-dev@1.0.2-r11?arch=aarch64&distro=v3.5
+- pkg:apk/alpine/gross-dev@1.0.2-r11?arch=armhf&distro=v3.5

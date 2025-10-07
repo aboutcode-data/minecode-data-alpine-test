@@ -17,3 +17,4 @@
 - pkg:apk/alpine/kyua-dbg@0.13-r8?arch=x86&distro=latest-stable
 - pkg:apk/alpine/kyua-dbg@0.13-r8?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/kyua-dbg@0.13-r6?arch=aarch64&distro=v3.17
+- pkg:apk/alpine/kyua-dbg@0.13-r6?arch=armhf&distro=v3.17

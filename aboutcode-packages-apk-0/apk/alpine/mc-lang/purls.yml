@@ -81,3 +81,4 @@
 - pkg:apk/alpine/mc-lang@4.8.28-r0?arch=x86&distro=v3.17
 - pkg:apk/alpine/mc-lang@4.8.28-r0?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/mc-lang@4.8.29-r2?arch=aarch64&distro=v3.18
+- pkg:apk/alpine/mc-lang@4.8.29-r2?arch=armhf&distro=v3.18

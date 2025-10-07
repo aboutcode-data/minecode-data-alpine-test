@@ -3,3 +3,4 @@
 - pkg:apk/alpine/vmm_clock-lts@6.12.50-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/vmm_clock-lts@6.12.50-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/vmm_clock-lts@6.1.140-r0?arch=x86&distro=v3.18
+- pkg:apk/alpine/vmm_clock-lts@6.1.140-r0?arch=x86_64&distro=v3.18

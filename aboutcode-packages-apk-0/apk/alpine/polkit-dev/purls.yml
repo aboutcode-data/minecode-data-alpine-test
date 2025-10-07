@@ -92,3 +92,4 @@
 - pkg:apk/alpine/polkit-dev@0.105-r4?arch=x86&distro=v3.2
 - pkg:apk/alpine/polkit-dev@0.105-r4?arch=x86_64&distro=v3.2
 - pkg:apk/alpine/polkit-dev@124-r0?arch=aarch64&distro=v3.20
+- pkg:apk/alpine/polkit-dev@124-r0?arch=armhf&distro=v3.20

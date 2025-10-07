@@ -42,3 +42,4 @@
 - pkg:apk/alpine/leiningen-doc@2.10.0-r0?arch=s390x&distro=v3.18
 - pkg:apk/alpine/leiningen-doc@2.10.0-r0?arch=x86&distro=v3.18
 - pkg:apk/alpine/leiningen-doc@2.10.0-r0?arch=x86_64&distro=v3.18
+- pkg:apk/alpine/leiningen-doc@2.10.0-r0?arch=aarch64&distro=v3.19

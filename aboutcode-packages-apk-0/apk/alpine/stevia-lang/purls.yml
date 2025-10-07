@@ -14,3 +14,4 @@
 - pkg:apk/alpine/stevia-lang@0.48_alpha1-r0?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/stevia-lang@0.48_alpha1-r0?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/stevia-lang@0.48_alpha1-r0?arch=s390x&distro=latest-stable
+- pkg:apk/alpine/stevia-lang@0.48_alpha1-r0?arch=x86&distro=latest-stable

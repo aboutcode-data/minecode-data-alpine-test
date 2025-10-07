@@ -11,3 +11,4 @@
 - pkg:apk/alpine/texmf-dist-publishers@2024.0-r7?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/texmf-dist-publishers@2024.0-r7?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/texmf-dist-publishers@2024.0-r7?arch=loongarch64&distro=latest-stable
+- pkg:apk/alpine/texmf-dist-publishers@2024.0-r7?arch=x86&distro=latest-stable

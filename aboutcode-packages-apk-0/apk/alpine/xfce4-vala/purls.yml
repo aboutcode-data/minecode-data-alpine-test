@@ -130,3 +130,4 @@
 - pkg:apk/alpine/xfce4-vala@4.10.3-r6?arch=aarch64&distro=v3.5
 - pkg:apk/alpine/xfce4-vala@4.10.3-r6?arch=armhf&distro=v3.5
 - pkg:apk/alpine/xfce4-vala@4.10.3-r6?arch=x86&distro=v3.5
+- pkg:apk/alpine/xfce4-vala@4.10.3-r6?arch=x86_64&distro=v3.5

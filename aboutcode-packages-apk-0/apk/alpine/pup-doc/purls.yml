@@ -66,3 +66,4 @@
 - pkg:apk/alpine/pup-doc@0.4.0-r31?arch=ppc64le&distro=v3.21
 - pkg:apk/alpine/pup-doc@0.4.0-r31?arch=riscv64&distro=v3.21
 - pkg:apk/alpine/pup-doc@0.4.0-r31?arch=s390x&distro=v3.21
+- pkg:apk/alpine/pup-doc@0.4.0-r31?arch=x86&distro=v3.21

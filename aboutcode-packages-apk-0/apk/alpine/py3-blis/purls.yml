@@ -6,3 +6,4 @@
 - pkg:apk/alpine/py3-blis@0.9.1-r3?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/py3-blis@0.9.1-r4?arch=x86&distro=v3.20
 - pkg:apk/alpine/py3-blis@0.9.1-r4?arch=x86_64&distro=v3.20
+- pkg:apk/alpine/py3-blis@1.0.1-r0?arch=x86&distro=v3.21

@@ -142,3 +142,4 @@
 - pkg:apk/alpine/perl-mail-spamassassin@3.4.1-r1?arch=armhf&distro=v3.5
 - pkg:apk/alpine/perl-mail-spamassassin@3.4.1-r5?arch=armhf&distro=v3.5
 - pkg:apk/alpine/perl-mail-spamassassin@3.4.1-r5?arch=x86&distro=v3.5
+- pkg:apk/alpine/perl-mail-spamassassin@3.4.1-r1?arch=x86&distro=v3.5

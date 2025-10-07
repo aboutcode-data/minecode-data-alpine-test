@@ -96,3 +96,4 @@
 - pkg:apk/alpine/xcb-util-wm@0.4.2-r0?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/xcb-util-wm@0.4.1-r0?arch=armhf&distro=v3.2
 - pkg:apk/alpine/xcb-util-wm@0.4.1-r0?arch=x86&distro=v3.2
+- pkg:apk/alpine/xcb-util-wm@0.4.1-r0?arch=x86_64&distro=v3.2

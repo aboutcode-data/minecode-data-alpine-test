@@ -84,3 +84,4 @@
 - pkg:apk/alpine/hexchat-doc@2.16.1-r4?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/hexchat-doc@2.10.2-r0?arch=armhf&distro=v3.2
 - pkg:apk/alpine/hexchat-doc@2.10.2-r0?arch=x86&distro=v3.2
+- pkg:apk/alpine/hexchat-doc@2.10.2-r0?arch=x86_64&distro=v3.2

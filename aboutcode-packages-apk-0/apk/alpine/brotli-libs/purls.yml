@@ -55,3 +55,4 @@
 - pkg:apk/alpine/brotli-libs@1.0.9-r6?arch=x86&distro=v3.16
 - pkg:apk/alpine/brotli-libs@1.0.9-r6?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/brotli-libs@1.0.9-r9?arch=aarch64&distro=v3.17
+- pkg:apk/alpine/brotli-libs@1.0.9-r9?arch=armhf&distro=v3.17

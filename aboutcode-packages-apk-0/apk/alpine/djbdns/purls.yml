@@ -38,3 +38,4 @@
 - pkg:apk/alpine/djbdns@1.05-r47?arch=aarch64&distro=v3.12
 - pkg:apk/alpine/djbdns@1.05-r47?arch=armhf&distro=v3.12
 - pkg:apk/alpine/djbdns@1.05-r47?arch=armv7&distro=v3.12
+- pkg:apk/alpine/djbdns@1.05-r47?arch=mips64&distro=v3.12

@@ -74,3 +74,4 @@
 - pkg:apk/alpine/perl-digest-sha1-doc@2.13-r14?arch=x86&distro=v3.16
 - pkg:apk/alpine/perl-digest-sha1-doc@2.13-r14?arch=x86_64&distro=v3.16
 - pkg:apk/alpine/perl-digest-sha1-doc@2.13-r15?arch=aarch64&distro=v3.17
+- pkg:apk/alpine/perl-digest-sha1-doc@2.13-r15?arch=armhf&distro=v3.17

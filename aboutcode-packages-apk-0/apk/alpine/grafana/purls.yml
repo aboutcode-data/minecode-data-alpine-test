@@ -45,3 +45,4 @@
 - pkg:apk/alpine/grafana@10.2.2-r3?arch=ppc64le&distro=v3.19
 - pkg:apk/alpine/grafana@10.2.2-r3?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/grafana@11.0.8-r0?arch=aarch64&distro=v3.20
+- pkg:apk/alpine/grafana@11.0.8-r0?arch=ppc64le&distro=v3.20

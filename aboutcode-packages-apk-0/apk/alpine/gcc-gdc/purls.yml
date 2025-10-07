@@ -25,3 +25,4 @@
 - pkg:apk/alpine/gcc-gdc@10.3.1_git20210424-r2?arch=armv7&distro=v3.14
 - pkg:apk/alpine/gcc-gdc@10.3.1_git20210424-r2?arch=mips64&distro=v3.14
 - pkg:apk/alpine/gcc-gdc@10.3.1_git20210424-r2?arch=s390x&distro=v3.14
+- pkg:apk/alpine/gcc-gdc@10.3.1_git20210424-r2?arch=x86&distro=v3.14

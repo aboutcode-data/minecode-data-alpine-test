@@ -9,3 +9,4 @@
 - pkg:apk/alpine/aaaaxy@1.6.194-r3?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/aaaaxy@1.6.194-r3?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/aaaaxy@1.6.194-r3?arch=x86&distro=latest-stable
+- pkg:apk/alpine/aaaaxy@1.6.194-r3?arch=x86_64&distro=latest-stable

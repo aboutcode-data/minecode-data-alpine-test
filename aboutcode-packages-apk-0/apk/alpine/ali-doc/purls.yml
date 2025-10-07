@@ -3,3 +3,4 @@
 - pkg:apk/alpine/ali-doc@0.7.5-r33?arch=armv7&distro=edge
 - pkg:apk/alpine/ali-doc@0.7.5-r33?arch=loongarch64&distro=edge
 - pkg:apk/alpine/ali-doc@0.7.5-r33?arch=ppc64le&distro=edge
+- pkg:apk/alpine/ali-doc@0.7.5-r33?arch=riscv64&distro=edge

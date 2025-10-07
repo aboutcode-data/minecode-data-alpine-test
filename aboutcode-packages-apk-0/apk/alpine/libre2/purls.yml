@@ -22,3 +22,5 @@
 - pkg:apk/alpine/libre2@2017.11.01-r0?arch=x86_64&distro=v3.7
 - pkg:apk/alpine/libre2@2018.04.01-r0?arch=aarch64&distro=v3.8
 - pkg:apk/alpine/libre2@2018.04.01-r0?arch=armhf&distro=v3.8
+- pkg:apk/alpine/libre2@2018.04.01-r0?arch=ppc64le&distro=v3.8
+- pkg:apk/alpine/libre2@2018.04.01-r0?arch=s390x&distro=v3.8

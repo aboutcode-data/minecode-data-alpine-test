@@ -62,3 +62,4 @@
 - pkg:apk/alpine/py3-adblock-doc@0.6.0-r7?arch=armhf&distro=v3.22
 - pkg:apk/alpine/py3-adblock-doc@0.6.0-r7?arch=armv7&distro=v3.22
 - pkg:apk/alpine/py3-adblock-doc@0.6.0-r7?arch=ppc64le&distro=v3.22
+- pkg:apk/alpine/py3-adblock-doc@0.6.0-r7?arch=riscv64&distro=v3.22

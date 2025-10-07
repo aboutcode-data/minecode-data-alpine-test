@@ -2,3 +2,4 @@
 - pkg:apk/alpine/limine-sys@9.3.4-r0?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/limine-sys@9.3.4-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/limine-sys@9.3.4-r0?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/limine-sys@4.20221230.0-r0?arch=aarch64&distro=v3.17

@@ -95,3 +95,4 @@
 - pkg:apk/alpine/libldap@2.6.6-r1?arch=x86&distro=v3.19
 - pkg:apk/alpine/libldap@2.6.6-r1?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/libldap@2.4.40-r5?arch=armhf&distro=v3.2
+- pkg:apk/alpine/libldap@2.4.40-r5?arch=x86&distro=v3.2

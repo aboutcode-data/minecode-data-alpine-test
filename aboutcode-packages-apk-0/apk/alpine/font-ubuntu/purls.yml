@@ -9,3 +9,4 @@
 - pkg:apk/alpine/font-ubuntu@0.869-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/font-ubuntu@0.863-r0?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/font-ubuntu@0.863-r0?arch=armhf&distro=v3.18
+- pkg:apk/alpine/font-ubuntu@0.863-r0?arch=armv7&distro=v3.18

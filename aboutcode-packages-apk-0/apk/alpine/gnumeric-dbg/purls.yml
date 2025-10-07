@@ -57,3 +57,4 @@
 - pkg:apk/alpine/gnumeric-dbg@1.12.55-r2?arch=ppc64le&distro=v3.19
 - pkg:apk/alpine/gnumeric-dbg@1.12.55-r2?arch=x86&distro=v3.19
 - pkg:apk/alpine/gnumeric-dbg@1.12.55-r2?arch=x86_64&distro=v3.19
+- pkg:apk/alpine/gnumeric-dbg@1.12.57-r1?arch=aarch64&distro=v3.20

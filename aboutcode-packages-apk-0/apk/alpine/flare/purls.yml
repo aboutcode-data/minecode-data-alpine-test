@@ -20,3 +20,4 @@
 - pkg:apk/alpine/flare@0.10.0-r1?arch=armv7&distro=v3.19
 - pkg:apk/alpine/flare@0.10.0-r1?arch=x86&distro=v3.19
 - pkg:apk/alpine/flare@0.10.0-r1?arch=x86_64&distro=v3.19
+- pkg:apk/alpine/flare@0.14.3-r0?arch=aarch64&distro=v3.20

@@ -69,3 +69,4 @@
 - pkg:apk/alpine/gnome-feeds@2.2.0-r1?arch=ppc64le&distro=v3.19
 - pkg:apk/alpine/gnome-feeds@2.2.0-r1?arch=x86&distro=v3.19
 - pkg:apk/alpine/gnome-feeds@2.2.0-r1?arch=x86_64&distro=v3.19
+- pkg:apk/alpine/gnome-feeds@2.2.0-r3?arch=aarch64&distro=v3.20

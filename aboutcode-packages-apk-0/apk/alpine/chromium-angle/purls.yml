@@ -6,3 +6,4 @@
 - pkg:apk/alpine/chromium-angle@99.0.4844.84-r0?arch=aarch64&distro=v3.15
 - pkg:apk/alpine/chromium-angle@99.0.4844.84-r0?arch=x86_64&distro=v3.15
 - pkg:apk/alpine/chromium-angle@102.0.5005.182-r0?arch=aarch64&distro=v3.16
+- pkg:apk/alpine/chromium-angle@102.0.5005.182-r0?arch=x86_64&distro=v3.16

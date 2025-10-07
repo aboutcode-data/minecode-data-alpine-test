@@ -113,3 +113,4 @@
 - pkg:apk/alpine/dhcp-dev@4.4.1-r1?arch=armhf&distro=v3.8
 - pkg:apk/alpine/dhcp-dev@4.4.1-r1?arch=ppc64le&distro=v3.8
 - pkg:apk/alpine/dhcp-dev@4.4.1-r1?arch=s390x&distro=v3.8
+- pkg:apk/alpine/dhcp-dev@4.4.1-r1?arch=x86&distro=v3.8

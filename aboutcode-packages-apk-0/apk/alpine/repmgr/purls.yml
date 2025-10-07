@@ -116,3 +116,4 @@
 - pkg:apk/alpine/repmgr@5.5.0-r1?arch=x86&distro=v3.22
 - pkg:apk/alpine/repmgr@5.5.0-r1?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/repmgr@3.3.2-r3?arch=aarch64&distro=v3.7
+- pkg:apk/alpine/repmgr@3.3.2-r3?arch=armhf&distro=v3.7

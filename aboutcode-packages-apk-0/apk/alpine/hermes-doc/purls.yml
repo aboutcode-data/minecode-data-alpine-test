@@ -115,3 +115,5 @@
 - pkg:apk/alpine/hermes-doc@1.9-r10?arch=s390x&distro=v3.22
 - pkg:apk/alpine/hermes-doc@1.9-r10?arch=x86&distro=v3.22
 - pkg:apk/alpine/hermes-doc@1.9-r10?arch=x86_64&distro=v3.22
+- pkg:apk/alpine/hermes-doc@1.9-r1?arch=aarch64&distro=v3.5
+- pkg:apk/alpine/hermes-doc@1.9-r1?arch=armhf&distro=v3.5

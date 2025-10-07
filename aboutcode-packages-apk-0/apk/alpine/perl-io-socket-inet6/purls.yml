@@ -115,3 +115,4 @@
 - pkg:apk/alpine/perl-io-socket-inet6@2.73-r2?arch=s390x&distro=v3.22
 - pkg:apk/alpine/perl-io-socket-inet6@2.73-r2?arch=x86&distro=v3.22
 - pkg:apk/alpine/perl-io-socket-inet6@2.73-r2?arch=x86_64&distro=v3.22
+- pkg:apk/alpine/perl-io-socket-inet6@2.72-r0?arch=aarch64&distro=v3.5

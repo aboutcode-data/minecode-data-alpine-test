@@ -71,3 +71,5 @@
 - pkg:apk/alpine/hydrogen-dev@1.2.2-r0?arch=x86&distro=v3.19
 - pkg:apk/alpine/hydrogen-dev@1.2.2-r0?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/hydrogen-dev@0.9.6.1-r0?arch=armhf&distro=v3.2
+- pkg:apk/alpine/hydrogen-dev@0.9.6.1-r0?arch=x86&distro=v3.2
+- pkg:apk/alpine/hydrogen-dev@0.9.6.1-r0?arch=x86_64&distro=v3.2

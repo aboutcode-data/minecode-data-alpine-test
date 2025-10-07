@@ -38,3 +38,4 @@
 - pkg:apk/alpine/xe-guest-utilities@7.33.0-r10?arch=x86&distro=v3.19
 - pkg:apk/alpine/xe-guest-utilities@7.33.0-r10?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/xe-guest-utilities@6.1.0-r2?arch=x86&distro=v3.2
+- pkg:apk/alpine/xe-guest-utilities@6.1.0-r2?arch=x86_64&distro=v3.2

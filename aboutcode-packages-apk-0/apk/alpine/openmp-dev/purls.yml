@@ -40,3 +40,4 @@
 - pkg:apk/alpine/openmp-dev@17.0.6-r0?arch=aarch64&distro=v3.20
 - pkg:apk/alpine/openmp-dev@17.0.6-r0?arch=armv7&distro=v3.20
 - pkg:apk/alpine/openmp-dev@17.0.6-r0?arch=ppc64le&distro=v3.20
+- pkg:apk/alpine/openmp-dev@17.0.6-r0?arch=riscv64&distro=v3.20

@@ -78,3 +78,4 @@
 - pkg:apk/alpine/ecryptfs-utils-doc@111-r14?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/ecryptfs-utils-doc@111-r14?arch=armhf&distro=v3.18
 - pkg:apk/alpine/ecryptfs-utils-doc@111-r14?arch=armv7&distro=v3.18
+- pkg:apk/alpine/ecryptfs-utils-doc@111-r14?arch=ppc64le&distro=v3.18

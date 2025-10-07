@@ -38,3 +38,4 @@
 - pkg:apk/alpine/zola-fish-completion@0.16.1-r0?arch=armv7&distro=v3.17
 - pkg:apk/alpine/zola-fish-completion@0.16.1-r0?arch=x86&distro=v3.17
 - pkg:apk/alpine/zola-fish-completion@0.16.1-r0?arch=x86_64&distro=v3.17
+- pkg:apk/alpine/zola-fish-completion@0.17.2-r0?arch=aarch64&distro=v3.18

@@ -28,3 +28,4 @@
 - pkg:apk/alpine/py3-keepass@3.0.3-r1?arch=ppc64le&distro=v3.12
 - pkg:apk/alpine/py3-keepass@3.0.3-r1?arch=x86&distro=v3.12
 - pkg:apk/alpine/py3-keepass@3.0.3-r1?arch=x86_64&distro=v3.12
+- pkg:apk/alpine/py3-keepass@3.2.1-r2?arch=aarch64&distro=v3.13

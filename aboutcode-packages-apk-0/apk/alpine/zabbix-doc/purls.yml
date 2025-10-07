@@ -43,3 +43,4 @@
 - pkg:apk/alpine/zabbix-doc@5.0.14-r1?arch=s390x&distro=v3.12
 - pkg:apk/alpine/zabbix-doc@5.0.14-r1?arch=x86&distro=v3.12
 - pkg:apk/alpine/zabbix-doc@5.0.14-r1?arch=x86_64&distro=v3.12
+- pkg:apk/alpine/zabbix-doc@5.2.7-r0?arch=aarch64&distro=v3.13

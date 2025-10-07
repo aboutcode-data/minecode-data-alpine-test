@@ -73,3 +73,4 @@
 - pkg:apk/alpine/nemo-qml-plugin-devicelock-static@0.3.7-r2?arch=riscv64&distro=v3.22
 - pkg:apk/alpine/nemo-qml-plugin-devicelock-static@0.3.7-r2?arch=s390x&distro=v3.22
 - pkg:apk/alpine/nemo-qml-plugin-devicelock-static@0.3.7-r2?arch=x86&distro=v3.22
+- pkg:apk/alpine/nemo-qml-plugin-devicelock-static@0.3.7-r2?arch=x86_64&distro=v3.22

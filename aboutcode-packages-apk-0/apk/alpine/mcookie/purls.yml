@@ -17,3 +17,4 @@
 - pkg:apk/alpine/mcookie@2.41-r9?arch=x86&distro=latest-stable
 - pkg:apk/alpine/mcookie@2.41-r9?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/mcookie@2.24.2-r4?arch=x86&distro=v3.0
+- pkg:apk/alpine/mcookie@2.24.2-r4?arch=x86_64&distro=v3.0

@@ -86,3 +86,4 @@
 - pkg:apk/alpine/busybox-extras@1.36.1-r20?arch=armhf&distro=v3.19
 - pkg:apk/alpine/busybox-extras@1.36.1-r20?arch=armv7&distro=v3.19
 - pkg:apk/alpine/busybox-extras@1.36.1-r20?arch=ppc64le&distro=v3.19
+- pkg:apk/alpine/busybox-extras@1.36.1-r20?arch=s390x&distro=v3.19

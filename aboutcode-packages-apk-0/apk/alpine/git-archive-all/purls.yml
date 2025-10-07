@@ -60,3 +60,4 @@
 - pkg:apk/alpine/git-archive-all@1.23.1-r4?arch=loongarch64&distro=v3.22
 - pkg:apk/alpine/git-archive-all@1.23.1-r4?arch=ppc64le&distro=v3.22
 - pkg:apk/alpine/git-archive-all@1.23.1-r4?arch=riscv64&distro=v3.22
+- pkg:apk/alpine/git-archive-all@1.23.1-r4?arch=s390x&distro=v3.22

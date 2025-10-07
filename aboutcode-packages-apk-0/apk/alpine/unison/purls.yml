@@ -95,3 +95,4 @@
 - pkg:apk/alpine/unison@2.53.7-r1?arch=x86&distro=v3.22
 - pkg:apk/alpine/unison@2.53.7-r1?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/unison@2.48.4-r3?arch=x86_64&distro=v3.6
+- pkg:apk/alpine/unison@2.48.4-r3?arch=ppc64le&distro=v3.7

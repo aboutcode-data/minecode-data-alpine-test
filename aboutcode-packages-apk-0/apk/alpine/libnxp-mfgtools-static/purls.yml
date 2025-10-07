@@ -18,3 +18,4 @@
 - pkg:apk/alpine/libnxp-mfgtools-static@1.5.21-r2?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/libnxp-mfgtools-static@1.4.72-r0?arch=aarch64&distro=v3.14
 - pkg:apk/alpine/libnxp-mfgtools-static@1.4.72-r0?arch=armhf&distro=v3.14
+- pkg:apk/alpine/libnxp-mfgtools-static@1.4.72-r0?arch=armv7&distro=v3.14

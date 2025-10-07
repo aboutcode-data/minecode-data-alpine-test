@@ -60,3 +60,4 @@
 - pkg:apk/alpine/althttpd@202209261657-r1?arch=x86&distro=v3.19
 - pkg:apk/alpine/althttpd@202209261657-r1?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/althttpd@202405010759-r0?arch=aarch64&distro=v3.20
+- pkg:apk/alpine/althttpd@202405010759-r0?arch=armhf&distro=v3.20

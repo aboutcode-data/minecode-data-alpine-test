@@ -28,3 +28,4 @@
 - pkg:apk/alpine/termshark@2.4.0-r9?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/termshark@2.4.0-r14?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/termshark@2.4.0-r14?arch=armv7&distro=v3.18
+- pkg:apk/alpine/termshark@2.4.0-r14?arch=ppc64le&distro=v3.18

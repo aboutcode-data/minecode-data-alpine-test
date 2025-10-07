@@ -26,3 +26,4 @@
 - pkg:apk/alpine/ruby-ast-tdl@0.2.2-r1?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/ruby-ast-tdl@0.2.2-r1?arch=armhf&distro=v3.18
 - pkg:apk/alpine/ruby-ast-tdl@0.2.2-r1?arch=armv7&distro=v3.18
+- pkg:apk/alpine/ruby-ast-tdl@0.2.2-r1?arch=ppc64le&distro=v3.18

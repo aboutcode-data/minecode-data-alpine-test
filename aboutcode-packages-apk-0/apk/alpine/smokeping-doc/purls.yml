@@ -145,3 +145,4 @@
 - pkg:apk/alpine/smokeping-doc@2.6.11-r3?arch=x86&distro=v3.7
 - pkg:apk/alpine/smokeping-doc@2.6.11-r3?arch=x86_64&distro=v3.7
 - pkg:apk/alpine/smokeping-doc@2.6.11-r3?arch=aarch64&distro=v3.8
+- pkg:apk/alpine/smokeping-doc@2.6.11-r3?arch=armhf&distro=v3.8

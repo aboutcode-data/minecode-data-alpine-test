@@ -60,3 +60,4 @@
 - pkg:apk/alpine/libcrystalhd-dev@20130708-r2?arch=x86&distro=v3.8
 - pkg:apk/alpine/libcrystalhd-dev@20130708-r2?arch=x86_64&distro=v3.8
 - pkg:apk/alpine/libcrystalhd-dev@20130708-r2?arch=x86&distro=v3.9
+- pkg:apk/alpine/libcrystalhd-dev@20130708-r2?arch=x86_64&distro=v3.9

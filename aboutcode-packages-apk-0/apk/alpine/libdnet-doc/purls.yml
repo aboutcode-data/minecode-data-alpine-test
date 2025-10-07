@@ -96,3 +96,4 @@
 - pkg:apk/alpine/libdnet-doc@1.17.0-r0?arch=x86_64&distro=v3.19
 - pkg:apk/alpine/libdnet-doc@1.12-r6?arch=armhf&distro=v3.2
 - pkg:apk/alpine/libdnet-doc@1.12-r6?arch=x86&distro=v3.2
+- pkg:apk/alpine/libdnet-doc@1.12-r6?arch=x86_64&distro=v3.2

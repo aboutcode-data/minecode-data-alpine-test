@@ -64,3 +64,4 @@
 - pkg:apk/alpine/gnokii-smsd-pgsql@0.6.31-r13?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/gnokii-smsd-pgsql@0.6.31-r4?arch=armhf&distro=v3.2
 - pkg:apk/alpine/gnokii-smsd-pgsql@0.6.31-r4?arch=x86&distro=v3.2
+- pkg:apk/alpine/gnokii-smsd-pgsql@0.6.31-r4?arch=x86_64&distro=v3.2

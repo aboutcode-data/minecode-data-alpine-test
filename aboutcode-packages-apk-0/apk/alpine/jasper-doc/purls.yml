@@ -79,3 +79,4 @@
 - pkg:apk/alpine/jasper-doc@4.2.4-r0?arch=x86&distro=v3.22
 - pkg:apk/alpine/jasper-doc@4.2.4-r0?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/jasper-doc@1.900.1-r12?arch=armhf&distro=v3.3
+- pkg:apk/alpine/jasper-doc@1.900.1-r13?arch=x86&distro=v3.3

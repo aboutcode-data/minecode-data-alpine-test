@@ -124,3 +124,4 @@
 - pkg:apk/alpine/bzip2@1.0.8-r6?arch=x86&distro=v3.22
 - pkg:apk/alpine/bzip2@1.0.8-r6?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/bzip2@1.0.6-r4?arch=armhf&distro=v3.3
+- pkg:apk/alpine/bzip2@1.0.6-r4?arch=x86&distro=v3.3

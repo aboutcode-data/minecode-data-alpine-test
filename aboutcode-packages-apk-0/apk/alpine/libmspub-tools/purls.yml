@@ -109,3 +109,4 @@
 - pkg:apk/alpine/libmspub-tools@0.1.4-r21?arch=s390x&distro=v3.21
 - pkg:apk/alpine/libmspub-tools@0.1.4-r21?arch=x86&distro=v3.21
 - pkg:apk/alpine/libmspub-tools@0.1.4-r21?arch=x86_64&distro=v3.21
+- pkg:apk/alpine/libmspub-tools@0.1.4-r22?arch=aarch64&distro=v3.22

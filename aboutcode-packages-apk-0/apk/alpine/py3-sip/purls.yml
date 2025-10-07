@@ -163,3 +163,4 @@
 - pkg:apk/alpine/py3-sip@4.19.5-r0?arch=x86&distro=v3.9
 - pkg:apk/alpine/py3-sip@4.19.13-r1?arch=x86&distro=v3.9
 - pkg:apk/alpine/py3-sip@4.19.13-r1?arch=x86_64&distro=v3.9
+- pkg:apk/alpine/py3-sip@4.19.5-r0?arch=x86_64&distro=v3.9

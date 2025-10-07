@@ -95,3 +95,4 @@
 - pkg:apk/alpine/zoneminder@1.30.3-r0?arch=x86_64&distro=v3.6
 - pkg:apk/alpine/zoneminder@1.30.4-r3?arch=x86_64&distro=v3.7
 - pkg:apk/alpine/zoneminder@1.30.4-r6?arch=x86_64&distro=v3.8
+- pkg:apk/alpine/zoneminder@1.32.3-r0?arch=x86_64&distro=v3.9

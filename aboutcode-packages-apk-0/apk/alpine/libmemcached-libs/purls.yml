@@ -138,3 +138,4 @@
 - pkg:apk/alpine/libmemcached-libs@1.0.18-r2?arch=armhf&distro=v3.7
 - pkg:apk/alpine/libmemcached-libs@1.0.18-r2?arch=ppc64le&distro=v3.7
 - pkg:apk/alpine/libmemcached-libs@1.0.18-r2?arch=s390x&distro=v3.7
+- pkg:apk/alpine/libmemcached-libs@1.0.18-r2?arch=x86&distro=v3.7

@@ -19,3 +19,4 @@
 - pkg:apk/alpine/tsocks@1.8_beta5-r0?arch=aarch64&distro=v3.14
 - pkg:apk/alpine/tsocks@1.8_beta5-r0?arch=ppc64le&distro=v3.14
 - pkg:apk/alpine/tsocks@1.8_beta5-r0?arch=x86_64&distro=v3.14
+- pkg:apk/alpine/tsocks@1.8_beta5-r0?arch=aarch64&distro=v3.15

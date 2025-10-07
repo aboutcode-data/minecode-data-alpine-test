@@ -43,3 +43,4 @@
 - pkg:apk/alpine/gops-bash-completion@0.3.28-r12?arch=armv7&distro=v3.21
 - pkg:apk/alpine/gops-bash-completion@0.3.28-r12?arch=loongarch64&distro=v3.21
 - pkg:apk/alpine/gops-bash-completion@0.3.28-r12?arch=ppc64le&distro=v3.21
+- pkg:apk/alpine/gops-bash-completion@0.3.28-r12?arch=riscv64&distro=v3.21

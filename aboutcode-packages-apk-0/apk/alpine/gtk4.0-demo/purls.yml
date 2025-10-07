@@ -83,3 +83,4 @@
 - pkg:apk/alpine/gtk4.0-demo@4.16.13-r0?arch=armv7&distro=v3.21
 - pkg:apk/alpine/gtk4.0-demo@4.16.13-r0?arch=loongarch64&distro=v3.21
 - pkg:apk/alpine/gtk4.0-demo@4.16.13-r0?arch=ppc64le&distro=v3.21
+- pkg:apk/alpine/gtk4.0-demo@4.16.13-r0?arch=riscv64&distro=v3.21

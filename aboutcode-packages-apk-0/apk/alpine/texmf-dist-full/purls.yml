@@ -98,3 +98,4 @@
 - pkg:apk/alpine/texmf-dist-full@2017.46770-r0?arch=ppc64le&distro=v3.8
 - pkg:apk/alpine/texmf-dist-full@2017.46770-r0?arch=s390x&distro=v3.8
 - pkg:apk/alpine/texmf-dist-full@2017.46770-r0?arch=x86&distro=v3.8
+- pkg:apk/alpine/texmf-dist-full@2017.46770-r0?arch=x86_64&distro=v3.8

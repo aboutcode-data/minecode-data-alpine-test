@@ -35,3 +35,4 @@
 - pkg:apk/alpine/clsync-doc@0.4.2-r1?arch=x86&distro=v3.7
 - pkg:apk/alpine/clsync-doc@0.4.2-r1?arch=x86_64&distro=v3.7
 - pkg:apk/alpine/clsync-doc@0.4.2-r1?arch=x86&distro=v3.8
+- pkg:apk/alpine/clsync-doc@0.4.2-r1?arch=x86_64&distro=v3.8

@@ -101,3 +101,4 @@
 - pkg:apk/alpine/dune@3.19.0-r0?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/dune@1.0_beta191-r0?arch=aarch64&distro=v3.8
 - pkg:apk/alpine/dune@1.0_beta191-r0?arch=ppc64le&distro=v3.8
+- pkg:apk/alpine/dune@1.0_beta191-r0?arch=x86_64&distro=v3.8

@@ -67,3 +67,4 @@
 - pkg:apk/alpine/z3-dev@4.12.1-r0?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/z3-dev@4.12.1-r0?arch=armhf&distro=v3.18
 - pkg:apk/alpine/z3-dev@4.12.1-r0?arch=armv7&distro=v3.18
+- pkg:apk/alpine/z3-dev@4.12.1-r0?arch=ppc64le&distro=v3.18

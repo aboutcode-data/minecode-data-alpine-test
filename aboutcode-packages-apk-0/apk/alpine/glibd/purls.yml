@@ -7,3 +7,4 @@
 - pkg:apk/alpine/glibd@2.1.0-r4?arch=aarch64&distro=v3.12
 - pkg:apk/alpine/glibd@2.1.0-r4?arch=x86&distro=v3.12
 - pkg:apk/alpine/glibd@2.1.0-r4?arch=x86_64&distro=v3.12
+- pkg:apk/alpine/glibd@2.1.0-r5?arch=aarch64&distro=v3.13

@@ -155,3 +155,5 @@
 - pkg:apk/alpine/perl-mail-spamassassin@3.4.1-r6?arch=s390x&distro=v3.6
 - pkg:apk/alpine/perl-mail-spamassassin@3.4.1-r1?arch=x86&distro=v3.6
 - pkg:apk/alpine/perl-mail-spamassassin@3.4.1-r6?arch=x86&distro=v3.6
+- pkg:apk/alpine/perl-mail-spamassassin@3.4.1-r6?arch=x86_64&distro=v3.6
+- pkg:apk/alpine/perl-mail-spamassassin@3.4.1-r1?arch=x86_64&distro=v3.6

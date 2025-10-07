@@ -137,3 +137,4 @@
 - pkg:apk/alpine/libpcre2-32@10.31-r0?arch=s390x&distro=v3.8
 - pkg:apk/alpine/libpcre2-32@10.31-r0?arch=x86&distro=v3.8
 - pkg:apk/alpine/libpcre2-32@10.31-r0?arch=x86_64&distro=v3.8
+- pkg:apk/alpine/libpcre2-32@10.32-r1?arch=aarch64&distro=v3.9

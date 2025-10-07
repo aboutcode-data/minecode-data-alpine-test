@@ -1,1 +1,2 @@
 - pkg:apk/alpine/bmake@20250804-r0?arch=aarch64&distro=edge
+- pkg:apk/alpine/bmake@20250804-r0?arch=armhf&distro=edge

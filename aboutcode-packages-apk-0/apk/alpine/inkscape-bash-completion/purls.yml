@@ -8,3 +8,4 @@
 - pkg:apk/alpine/inkscape-bash-completion@1.4.2-r4?arch=x86&distro=edge
 - pkg:apk/alpine/inkscape-bash-completion@1.4.2-r4?arch=x86_64&distro=edge
 - pkg:apk/alpine/inkscape-bash-completion@1.4-r5?arch=aarch64&distro=latest-stable
+- pkg:apk/alpine/inkscape-bash-completion@1.4-r5?arch=armhf&distro=latest-stable

@@ -22,3 +22,4 @@
 - pkg:apk/alpine/libpeas2@2.0.3-r0?arch=aarch64&distro=v3.20
 - pkg:apk/alpine/libpeas2@2.0.3-r0?arch=armv7&distro=v3.20
 - pkg:apk/alpine/libpeas2@2.0.3-r0?arch=ppc64le&distro=v3.20
+- pkg:apk/alpine/libpeas2@2.0.3-r0?arch=riscv64&distro=v3.20

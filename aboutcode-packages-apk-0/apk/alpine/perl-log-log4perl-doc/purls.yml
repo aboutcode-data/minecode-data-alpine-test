@@ -120,3 +120,4 @@
 - pkg:apk/alpine/perl-log-log4perl-doc@1.57-r1?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/perl-log-log4perl-doc@1.48-r0?arch=aarch64&distro=v3.5
 - pkg:apk/alpine/perl-log-log4perl-doc@1.48-r0?arch=armhf&distro=v3.5
+- pkg:apk/alpine/perl-log-log4perl-doc@1.48-r0?arch=x86&distro=v3.5

@@ -159,3 +159,5 @@
 - pkg:apk/alpine/perl-params-util-doc@1.07-r5?arch=armv7&distro=v3.9
 - pkg:apk/alpine/perl-params-util-doc@1.07-r5?arch=ppc64le&distro=v3.9
 - pkg:apk/alpine/perl-params-util-doc@1.07-r5?arch=s390x&distro=v3.9
+- pkg:apk/alpine/perl-params-util-doc@1.07-r5?arch=x86&distro=v3.9
+- pkg:apk/alpine/perl-params-util-doc@1.07-r5?arch=x86_64&distro=v3.9

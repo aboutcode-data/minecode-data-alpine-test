@@ -157,3 +157,4 @@
 - pkg:apk/alpine/libvdpau-dev@1.1.1-r2?arch=ppc64le&distro=v3.9
 - pkg:apk/alpine/libvdpau-dev@1.1.1-r2?arch=s390x&distro=v3.9
 - pkg:apk/alpine/libvdpau-dev@1.1.1-r2?arch=x86&distro=v3.9
+- pkg:apk/alpine/libvdpau-dev@1.1.1-r2?arch=x86_64&distro=v3.9

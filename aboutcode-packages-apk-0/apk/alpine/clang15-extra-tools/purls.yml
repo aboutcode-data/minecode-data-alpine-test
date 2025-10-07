@@ -1,1 +1,2 @@
 - pkg:apk/alpine/clang15-extra-tools@15.0.7-r26?arch=aarch64&distro=latest-stable
+- pkg:apk/alpine/clang15-extra-tools@15.0.7-r26?arch=armhf&distro=latest-stable

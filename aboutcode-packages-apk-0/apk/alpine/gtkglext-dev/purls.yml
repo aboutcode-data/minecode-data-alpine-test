@@ -20,3 +20,4 @@
 - pkg:apk/alpine/gtkglext-dev@1.2.0-r11?arch=x86&distro=v3.4
 - pkg:apk/alpine/gtkglext-dev@1.2.0-r11?arch=x86_64&distro=v3.4
 - pkg:apk/alpine/gtkglext-dev@1.2.0-r11?arch=aarch64&distro=v3.5
+- pkg:apk/alpine/gtkglext-dev@1.2.0-r11?arch=armhf&distro=v3.5

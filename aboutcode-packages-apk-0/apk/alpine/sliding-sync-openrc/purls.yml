@@ -8,3 +8,4 @@
 - pkg:apk/alpine/sliding-sync-openrc@0.99.19-r8?arch=x86&distro=edge
 - pkg:apk/alpine/sliding-sync-openrc@0.99.19-r8?arch=x86_64&distro=edge
 - pkg:apk/alpine/sliding-sync-openrc@0.99.19-r7?arch=aarch64&distro=latest-stable
+- pkg:apk/alpine/sliding-sync-openrc@0.99.19-r7?arch=armhf&distro=latest-stable

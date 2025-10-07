@@ -29,3 +29,4 @@
 - pkg:apk/alpine/kubie-fish-completion@0.25.2-r0?arch=ppc64le&distro=v3.22
 - pkg:apk/alpine/kubie-fish-completion@0.25.2-r0?arch=riscv64&distro=v3.22
 - pkg:apk/alpine/kubie-fish-completion@0.25.2-r0?arch=x86&distro=v3.22
+- pkg:apk/alpine/kubie-fish-completion@0.25.2-r0?arch=x86_64&distro=v3.22

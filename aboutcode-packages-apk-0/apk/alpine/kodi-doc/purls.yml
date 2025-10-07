@@ -71,3 +71,4 @@
 - pkg:apk/alpine/kodi-doc@16.1-r2?arch=x86&distro=v3.5
 - pkg:apk/alpine/kodi-doc@16.1-r2?arch=x86_64&distro=v3.5
 - pkg:apk/alpine/kodi-doc@17.1-r0?arch=x86&distro=v3.6
+- pkg:apk/alpine/kodi-doc@17.1-r0?arch=x86_64&distro=v3.6

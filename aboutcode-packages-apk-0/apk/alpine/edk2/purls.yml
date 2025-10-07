@@ -28,3 +28,4 @@
 - pkg:apk/alpine/edk2@0.0.202308-r2?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/edk2@0.0.202308-r2?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/edk2@0.0.202308-r2?arch=x86_64&distro=v3.22
+- pkg:apk/alpine/edk2@0.0.20161115-r1?arch=x86_64&distro=v3.6

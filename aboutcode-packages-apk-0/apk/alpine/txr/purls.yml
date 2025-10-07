@@ -12,3 +12,4 @@
 - pkg:apk/alpine/txr@299-r0?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/txr@299-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/txr@299-r0?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/txr@292-r0?arch=aarch64&distro=v3.19

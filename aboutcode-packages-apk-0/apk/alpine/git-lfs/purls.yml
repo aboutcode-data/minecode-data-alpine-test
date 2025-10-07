@@ -126,3 +126,4 @@
 - pkg:apk/alpine/git-lfs@2.4.2-r1?arch=x86&distro=v3.8
 - pkg:apk/alpine/git-lfs@2.4.2-r1?arch=x86_64&distro=v3.8
 - pkg:apk/alpine/git-lfs@2.5.1-r2?arch=aarch64&distro=v3.9
+- pkg:apk/alpine/git-lfs@2.5.1-r2?arch=armhf&distro=v3.9

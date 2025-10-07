@@ -144,3 +144,4 @@
 - pkg:apk/alpine/lua5.2-hiredis@0.2.1-r3?arch=x86&distro=v3.8
 - pkg:apk/alpine/lua5.2-hiredis@0.2.1-r3?arch=x86_64&distro=v3.8
 - pkg:apk/alpine/lua5.2-hiredis@0.2.1-r4?arch=aarch64&distro=v3.9
+- pkg:apk/alpine/lua5.2-hiredis@0.2.1-r4?arch=armhf&distro=v3.9

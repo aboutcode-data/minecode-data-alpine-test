@@ -73,3 +73,4 @@
 - pkg:apk/alpine/texlive-doc@20240210.69778-r8?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/texlive-doc@20240210.69778-r8?arch=armhf&distro=v3.21
 - pkg:apk/alpine/texlive-doc@20240210.69778-r8?arch=armv7&distro=v3.21
+- pkg:apk/alpine/texlive-doc@20240210.69778-r8?arch=x86&distro=v3.21

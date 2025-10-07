@@ -152,3 +152,4 @@
 - pkg:apk/alpine/tevent-dev@0.9.36-r1?arch=x86&distro=v3.8
 - pkg:apk/alpine/tevent-dev@0.9.36-r1?arch=x86_64&distro=v3.8
 - pkg:apk/alpine/tevent-dev@0.9.37-r1?arch=aarch64&distro=v3.9
+- pkg:apk/alpine/tevent-dev@0.9.37-r1?arch=armhf&distro=v3.9

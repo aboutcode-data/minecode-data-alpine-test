@@ -151,3 +151,4 @@
 - pkg:apk/alpine/tzdata-doc@2020a-r0?arch=s390x&distro=v3.8
 - pkg:apk/alpine/tzdata-doc@2020a-r0?arch=x86&distro=v3.8
 - pkg:apk/alpine/tzdata-doc@2020a-r0?arch=x86_64&distro=v3.8
+- pkg:apk/alpine/tzdata-doc@2020c-r1?arch=aarch64&distro=v3.9

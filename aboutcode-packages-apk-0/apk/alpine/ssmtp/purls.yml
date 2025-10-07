@@ -152,3 +152,4 @@
 - pkg:apk/alpine/ssmtp@2.64-r13?arch=x86&distro=v3.8
 - pkg:apk/alpine/ssmtp@2.64-r13?arch=x86_64&distro=v3.8
 - pkg:apk/alpine/ssmtp@2.64-r14?arch=aarch64&distro=v3.9
+- pkg:apk/alpine/ssmtp@2.64-r14?arch=armhf&distro=v3.9

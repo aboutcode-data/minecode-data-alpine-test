@@ -19,3 +19,4 @@
 - pkg:apk/alpine/py-gtk-doc@2.24.0-r10?arch=armhf&distro=v3.4
 - pkg:apk/alpine/py-gtk-doc@2.24.0-r10?arch=x86&distro=v3.4
 - pkg:apk/alpine/py-gtk-doc@2.24.0-r10?arch=x86_64&distro=v3.4
+- pkg:apk/alpine/py-gtk-doc@2.24.0-r12?arch=aarch64&distro=v3.5

@@ -134,3 +134,4 @@
 - pkg:apk/alpine/gnutls@3.4.17-r1?arch=x86&distro=v3.5
 - pkg:apk/alpine/gnutls@3.4.17-r1?arch=x86_64&distro=v3.5
 - pkg:apk/alpine/gnutls@3.5.13-r0?arch=aarch64&distro=v3.6
+- pkg:apk/alpine/gnutls@3.5.13-r0?arch=armhf&distro=v3.6

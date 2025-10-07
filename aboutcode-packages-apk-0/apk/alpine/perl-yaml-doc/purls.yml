@@ -21,3 +21,4 @@
 - pkg:apk/alpine/perl-yaml-doc@0.84-r0?arch=armhf&distro=v3.1
 - pkg:apk/alpine/perl-yaml-doc@1.29-r0?arch=aarch64&distro=v3.10
 - pkg:apk/alpine/perl-yaml-doc@1.29-r0?arch=armhf&distro=v3.10
+- pkg:apk/alpine/perl-yaml-doc@1.29-r0?arch=armv7&distro=v3.10

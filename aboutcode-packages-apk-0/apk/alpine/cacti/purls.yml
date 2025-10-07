@@ -87,3 +87,4 @@
 - pkg:apk/alpine/cacti@1.2.26-r0?arch=s390x&distro=v3.18
 - pkg:apk/alpine/cacti@1.2.26-r0?arch=x86&distro=v3.18
 - pkg:apk/alpine/cacti@1.2.26-r0?arch=x86_64&distro=v3.18
+- pkg:apk/alpine/cacti@1.2.27-r0?arch=aarch64&distro=v3.19

@@ -8,3 +8,4 @@
 - pkg:apk/alpine/cabal-doc@3.8.1.0-r2?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/cabal-doc@3.10.1.0-r1?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/cabal-doc@3.10.1.0-r1?arch=x86_64&distro=v3.18
+- pkg:apk/alpine/cabal-doc@3.10.1.0-r5?arch=aarch64&distro=v3.19

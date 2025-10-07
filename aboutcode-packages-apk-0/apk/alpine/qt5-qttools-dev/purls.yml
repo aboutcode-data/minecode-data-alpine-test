@@ -61,3 +61,4 @@
 - pkg:apk/alpine/qt5-qttools-dev@5.15.3_git20201202-r2?arch=armhf&distro=v3.15
 - pkg:apk/alpine/qt5-qttools-dev@5.15.3_git20201202-r2?arch=armv7&distro=v3.15
 - pkg:apk/alpine/qt5-qttools-dev@5.15.3_git20201202-r2?arch=ppc64le&distro=v3.15
+- pkg:apk/alpine/qt5-qttools-dev@5.15.3_git20201202-r2?arch=s390x&distro=v3.15

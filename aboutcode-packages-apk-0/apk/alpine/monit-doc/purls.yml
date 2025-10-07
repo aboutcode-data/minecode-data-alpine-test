@@ -148,3 +148,4 @@
 - pkg:apk/alpine/monit-doc@5.25.2-r0?arch=aarch64&distro=v3.8
 - pkg:apk/alpine/monit-doc@5.25.2-r0?arch=armhf&distro=v3.8
 - pkg:apk/alpine/monit-doc@5.25.2-r0?arch=ppc64le&distro=v3.8
+- pkg:apk/alpine/monit-doc@5.25.2-r0?arch=s390x&distro=v3.8

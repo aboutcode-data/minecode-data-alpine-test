@@ -36,3 +36,4 @@
 - pkg:apk/alpine/xchat@2.8.8-r12?arch=s390x&distro=v3.6
 - pkg:apk/alpine/xchat@2.8.8-r12?arch=x86&distro=v3.6
 - pkg:apk/alpine/xchat@2.8.8-r12?arch=x86_64&distro=v3.6
+- pkg:apk/alpine/xchat@2.8.8-r13?arch=aarch64&distro=v3.7

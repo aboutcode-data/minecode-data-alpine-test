@@ -77,3 +77,4 @@
 - pkg:apk/alpine/rsyslog-hiredis@8.2310.0-r0?arch=armhf&distro=v3.19
 - pkg:apk/alpine/rsyslog-hiredis@8.2310.0-r0?arch=armv7&distro=v3.19
 - pkg:apk/alpine/rsyslog-hiredis@8.2310.0-r0?arch=ppc64le&distro=v3.19
+- pkg:apk/alpine/rsyslog-hiredis@8.2310.0-r0?arch=x86&distro=v3.19

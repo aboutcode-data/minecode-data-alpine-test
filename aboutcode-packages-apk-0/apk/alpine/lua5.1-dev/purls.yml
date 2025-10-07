@@ -121,3 +121,4 @@
 - pkg:apk/alpine/lua5.1-dev@5.1.5-r13?arch=ppc64le&distro=v3.22
 - pkg:apk/alpine/lua5.1-dev@5.1.5-r13?arch=riscv64&distro=v3.22
 - pkg:apk/alpine/lua5.1-dev@5.1.5-r13?arch=s390x&distro=v3.22
+- pkg:apk/alpine/lua5.1-dev@5.1.5-r13?arch=x86&distro=v3.22

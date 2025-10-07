@@ -16,3 +16,4 @@
 - pkg:apk/alpine/autossh-doc@1.4g-r3?arch=s390x&distro=latest-stable
 - pkg:apk/alpine/autossh-doc@1.4g-r3?arch=x86&distro=latest-stable
 - pkg:apk/alpine/autossh-doc@1.4g-r3?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/autossh-doc@1.4c-r0?arch=x86&distro=v3.0

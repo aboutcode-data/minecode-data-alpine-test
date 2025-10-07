@@ -2,3 +2,4 @@
 - pkg:apk/alpine/ctop@0.7.7-r29?arch=armhf&distro=edge
 - pkg:apk/alpine/ctop@0.7.7-r29?arch=armv7&distro=edge
 - pkg:apk/alpine/ctop@0.7.7-r29?arch=ppc64le&distro=edge
+- pkg:apk/alpine/ctop@0.7.7-r29?arch=riscv64&distro=edge

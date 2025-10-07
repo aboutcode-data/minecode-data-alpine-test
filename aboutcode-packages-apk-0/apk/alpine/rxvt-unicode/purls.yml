@@ -17,3 +17,4 @@
 - pkg:apk/alpine/rxvt-unicode@9.31-r7?arch=x86&distro=latest-stable
 - pkg:apk/alpine/rxvt-unicode@9.31-r7?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/rxvt-unicode@9.20-r0?arch=x86&distro=v3.0
+- pkg:apk/alpine/rxvt-unicode@9.20-r0?arch=x86_64&distro=v3.0

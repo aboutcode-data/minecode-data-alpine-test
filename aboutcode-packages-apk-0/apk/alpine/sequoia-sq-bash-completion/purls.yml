@@ -26,3 +26,4 @@
 - pkg:apk/alpine/sequoia-sq-bash-completion@0.35.0-r0?arch=armv7&distro=v3.20
 - pkg:apk/alpine/sequoia-sq-bash-completion@0.35.0-r0?arch=x86&distro=v3.20
 - pkg:apk/alpine/sequoia-sq-bash-completion@0.35.0-r0?arch=x86_64&distro=v3.20
+- pkg:apk/alpine/sequoia-sq-bash-completion@0.40.0-r0?arch=aarch64&distro=v3.21

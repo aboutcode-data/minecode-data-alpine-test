@@ -40,3 +40,4 @@
 - pkg:apk/alpine/unfurl@0.4.3-r23?arch=s390x&distro=v3.21
 - pkg:apk/alpine/unfurl@0.4.3-r23?arch=x86&distro=v3.21
 - pkg:apk/alpine/unfurl@0.4.3-r23?arch=x86_64&distro=v3.21
+- pkg:apk/alpine/unfurl@0.4.3-r25?arch=aarch64&distro=v3.22

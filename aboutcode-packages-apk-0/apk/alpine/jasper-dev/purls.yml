@@ -54,3 +54,4 @@
 - pkg:apk/alpine/jasper-dev@1.900.1-r12?arch=x86_64&distro=v3.2
 - pkg:apk/alpine/jasper-dev@4.2.4-r0?arch=aarch64&distro=v3.20
 - pkg:apk/alpine/jasper-dev@4.2.4-r0?arch=armhf&distro=v3.20
+- pkg:apk/alpine/jasper-dev@4.2.4-r0?arch=armv7&distro=v3.20

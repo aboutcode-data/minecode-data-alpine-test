@@ -93,3 +93,4 @@
 - pkg:apk/alpine/libcmis-doc@0.5.0-r1?arch=x86&distro=v3.2
 - pkg:apk/alpine/libcmis-doc@0.5.0-r1?arch=x86_64&distro=v3.2
 - pkg:apk/alpine/libcmis-doc@0.5.2-r12?arch=aarch64&distro=v3.20
+- pkg:apk/alpine/libcmis-doc@0.5.2-r12?arch=armhf&distro=v3.20

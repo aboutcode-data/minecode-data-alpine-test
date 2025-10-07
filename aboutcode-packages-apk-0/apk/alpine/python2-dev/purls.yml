@@ -60,3 +60,4 @@
 - pkg:apk/alpine/python2-dev@2.7.15-r3?arch=x86&distro=v3.7
 - pkg:apk/alpine/python2-dev@2.7.15-r3?arch=x86_64&distro=v3.7
 - pkg:apk/alpine/python2-dev@2.7.15-r3?arch=aarch64&distro=v3.8
+- pkg:apk/alpine/python2-dev@2.7.15-r3?arch=armhf&distro=v3.8

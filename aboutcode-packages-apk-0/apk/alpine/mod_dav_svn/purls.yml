@@ -146,3 +146,4 @@
 - pkg:apk/alpine/mod_dav_svn@1.9.12-r0?arch=x86&distro=v3.7
 - pkg:apk/alpine/mod_dav_svn@1.9.12-r0?arch=x86_64&distro=v3.7
 - pkg:apk/alpine/mod_dav_svn@1.10.6-r0?arch=aarch64&distro=v3.8
+- pkg:apk/alpine/mod_dav_svn@1.10.6-r0?arch=armhf&distro=v3.8

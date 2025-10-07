@@ -9,3 +9,4 @@
 - pkg:apk/alpine/tcc@0.9.27_git20250106-r0?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/tcc@0.9.27_git20250106-r0?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/tcc@0.9.27_git20250106-r0?arch=x86&distro=latest-stable
+- pkg:apk/alpine/tcc@0.9.27_git20250106-r0?arch=x86_64&distro=latest-stable

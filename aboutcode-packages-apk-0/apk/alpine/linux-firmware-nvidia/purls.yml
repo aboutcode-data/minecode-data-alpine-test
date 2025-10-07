@@ -115,3 +115,4 @@
 - pkg:apk/alpine/linux-firmware-nvidia@20250509-r0?arch=s390x&distro=v3.22
 - pkg:apk/alpine/linux-firmware-nvidia@20250509-r0?arch=x86&distro=v3.22
 - pkg:apk/alpine/linux-firmware-nvidia@20250509-r0?arch=x86_64&distro=v3.22
+- pkg:apk/alpine/linux-firmware-nvidia@20180615-r2?arch=aarch64&distro=v3.8

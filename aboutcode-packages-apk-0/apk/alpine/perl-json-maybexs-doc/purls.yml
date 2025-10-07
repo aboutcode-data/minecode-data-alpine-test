@@ -131,3 +131,4 @@
 - pkg:apk/alpine/perl-json-maybexs-doc@1.003009-r0?arch=s390x&distro=v3.7
 - pkg:apk/alpine/perl-json-maybexs-doc@1.003009-r0?arch=x86&distro=v3.7
 - pkg:apk/alpine/perl-json-maybexs-doc@1.003009-r0?arch=x86_64&distro=v3.7
+- pkg:apk/alpine/perl-json-maybexs-doc@1.004000-r0?arch=aarch64&distro=v3.8

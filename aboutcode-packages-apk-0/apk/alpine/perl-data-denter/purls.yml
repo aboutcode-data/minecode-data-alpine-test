@@ -33,3 +33,4 @@
 - pkg:apk/alpine/perl-data-denter@0.15-r2?arch=aarch64&distro=v3.12
 - pkg:apk/alpine/perl-data-denter@0.15-r2?arch=armhf&distro=v3.12
 - pkg:apk/alpine/perl-data-denter@0.15-r2?arch=armv7&distro=v3.12
+- pkg:apk/alpine/perl-data-denter@0.15-r2?arch=mips64&distro=v3.12

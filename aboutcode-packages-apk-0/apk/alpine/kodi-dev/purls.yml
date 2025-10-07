@@ -7,3 +7,4 @@
 - pkg:apk/alpine/kodi-dev@21.2-r10?arch=x86_64&distro=edge
 - pkg:apk/alpine/kodi-dev@21.2-r6?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/kodi-dev@21.2-r6?arch=armv7&distro=latest-stable
+- pkg:apk/alpine/kodi-dev@21.2-r6?arch=ppc64le&distro=latest-stable

@@ -132,3 +132,4 @@
 - pkg:apk/alpine/syslog-ng@3.7.2-r3?arch=x86&distro=v3.5
 - pkg:apk/alpine/syslog-ng@3.7.2-r3?arch=x86_64&distro=v3.5
 - pkg:apk/alpine/syslog-ng@3.9.1-r1?arch=armhf&distro=v3.6
+- pkg:apk/alpine/syslog-ng@3.9.1-r1?arch=ppc64le&distro=v3.6

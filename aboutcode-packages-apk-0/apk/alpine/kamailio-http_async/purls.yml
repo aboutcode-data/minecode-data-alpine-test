@@ -117,3 +117,4 @@
 - pkg:apk/alpine/kamailio-http_async@6.0.1-r5?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/kamailio-http_async@5.0.2-r4?arch=aarch64&distro=v3.6
 - pkg:apk/alpine/kamailio-http_async@5.0.2-r4?arch=armhf&distro=v3.6
+- pkg:apk/alpine/kamailio-http_async@5.0.2-r4?arch=ppc64le&distro=v3.6

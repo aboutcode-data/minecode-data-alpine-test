@@ -8,3 +8,4 @@
 - pkg:apk/alpine/u-boot-beagleboard@2019.10-r0?arch=armv7&distro=v3.11
 - pkg:apk/alpine/u-boot-beagleboard@2020.04-r0?arch=armhf&distro=v3.12
 - pkg:apk/alpine/u-boot-beagleboard@2020.04-r0?arch=armv7&distro=v3.12
+- pkg:apk/alpine/u-boot-beagleboard@2021.01-r0?arch=armhf&distro=v3.13

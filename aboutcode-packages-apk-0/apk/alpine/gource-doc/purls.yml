@@ -113,3 +113,4 @@
 - pkg:apk/alpine/gource-doc@0.44-r1?arch=s390x&distro=v3.6
 - pkg:apk/alpine/gource-doc@0.44-r1?arch=x86&distro=v3.6
 - pkg:apk/alpine/gource-doc@0.44-r1?arch=x86_64&distro=v3.6
+- pkg:apk/alpine/gource-doc@0.47-r1?arch=aarch64&distro=v3.7

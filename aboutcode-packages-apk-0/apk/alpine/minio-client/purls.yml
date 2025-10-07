@@ -18,3 +18,4 @@
 - pkg:apk/alpine/minio-client@0.20250521.015954-r2?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/minio-client@0.20230323.200304-r6?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/minio-client@0.20230323.200304-r6?arch=armhf&distro=v3.18
+- pkg:apk/alpine/minio-client@0.20230323.200304-r6?arch=armv7&distro=v3.18

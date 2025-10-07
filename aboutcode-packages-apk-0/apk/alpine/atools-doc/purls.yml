@@ -113,3 +113,4 @@
 - pkg:apk/alpine/atools-doc@20.2.2-r17?arch=ppc64le&distro=v3.22
 - pkg:apk/alpine/atools-doc@20.2.2-r17?arch=riscv64&distro=v3.22
 - pkg:apk/alpine/atools-doc@20.2.2-r17?arch=s390x&distro=v3.22
+- pkg:apk/alpine/atools-doc@20.2.2-r17?arch=x86&distro=v3.22

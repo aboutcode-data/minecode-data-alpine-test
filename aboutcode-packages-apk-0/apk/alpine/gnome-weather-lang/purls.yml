@@ -55,3 +55,4 @@
 - pkg:apk/alpine/gnome-weather-lang@43.0-r0?arch=ppc64le&distro=v3.17
 - pkg:apk/alpine/gnome-weather-lang@43.0-r0?arch=x86&distro=v3.17
 - pkg:apk/alpine/gnome-weather-lang@43.0-r0?arch=x86_64&distro=v3.17
+- pkg:apk/alpine/gnome-weather-lang@44.0-r0?arch=aarch64&distro=v3.18

@@ -1,1 +1,2 @@
 - pkg:apk/alpine/cloudi-openrc@2.0.7-r23?arch=aarch64&distro=edge
+- pkg:apk/alpine/cloudi-openrc@2.0.7-r23?arch=armhf&distro=edge

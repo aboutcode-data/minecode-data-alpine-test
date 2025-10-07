@@ -147,3 +147,4 @@
 - pkg:apk/alpine/perl-compress-raw-zlib@2.076-r0?arch=x86_64&distro=v3.7
 - pkg:apk/alpine/perl-compress-raw-zlib@2.081-r0?arch=aarch64&distro=v3.8
 - pkg:apk/alpine/perl-compress-raw-zlib@2.081-r0?arch=armhf&distro=v3.8
+- pkg:apk/alpine/perl-compress-raw-zlib@2.081-r0?arch=ppc64le&distro=v3.8

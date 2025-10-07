@@ -44,3 +44,4 @@
 - pkg:apk/alpine/procmail@3.22-r3?arch=x86_64&distro=v3.7
 - pkg:apk/alpine/procmail@3.22-r4?arch=aarch64&distro=v3.8
 - pkg:apk/alpine/procmail@3.22-r4?arch=armhf&distro=v3.8
+- pkg:apk/alpine/procmail@3.22-r4?arch=ppc64le&distro=v3.8

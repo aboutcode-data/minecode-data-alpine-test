@@ -40,3 +40,4 @@
 - pkg:apk/alpine/prometheus@2.27.1-r3?arch=x86&distro=v3.14
 - pkg:apk/alpine/prometheus@2.27.1-r3?arch=x86_64&distro=v3.14
 - pkg:apk/alpine/prometheus@2.31.1-r2?arch=aarch64&distro=v3.15
+- pkg:apk/alpine/prometheus@2.31.1-r2?arch=armhf&distro=v3.15

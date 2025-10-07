@@ -17,3 +17,4 @@
 - pkg:apk/alpine/armadillo@14.2.2-r0?arch=x86&distro=latest-stable
 - pkg:apk/alpine/armadillo@14.2.2-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/armadillo@10.7.1-r2?arch=aarch64&distro=v3.15
+- pkg:apk/alpine/armadillo@10.7.1-r2?arch=armhf&distro=v3.15

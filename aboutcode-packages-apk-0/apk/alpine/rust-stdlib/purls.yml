@@ -43,3 +43,4 @@
 - pkg:apk/alpine/rust-stdlib@1.64.0-r2?arch=x86&distro=v3.17
 - pkg:apk/alpine/rust-stdlib@1.64.0-r2?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/rust-stdlib@1.17.0-r2?arch=x86_64&distro=v3.6
+- pkg:apk/alpine/rust-stdlib@1.22.1-r0?arch=x86_64&distro=v3.7

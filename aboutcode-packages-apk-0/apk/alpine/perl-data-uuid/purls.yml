@@ -42,3 +42,4 @@
 - pkg:apk/alpine/perl-data-uuid@1.226-r0?arch=ppc64le&distro=v3.12
 - pkg:apk/alpine/perl-data-uuid@1.226-r0?arch=s390x&distro=v3.12
 - pkg:apk/alpine/perl-data-uuid@1.226-r0?arch=x86&distro=v3.12
+- pkg:apk/alpine/perl-data-uuid@1.226-r0?arch=x86_64&distro=v3.12

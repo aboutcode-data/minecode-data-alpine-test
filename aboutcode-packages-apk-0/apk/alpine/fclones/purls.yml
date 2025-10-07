@@ -8,3 +8,4 @@
 - pkg:apk/alpine/fclones@0.34.0-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/fclones@0.29.1-r0?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/fclones@0.29.1-r0?arch=x86_64&distro=v3.17
+- pkg:apk/alpine/fclones@0.30.0-r1?arch=aarch64&distro=v3.18

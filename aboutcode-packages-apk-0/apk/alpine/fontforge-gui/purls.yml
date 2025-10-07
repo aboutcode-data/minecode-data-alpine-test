@@ -22,3 +22,4 @@
 - pkg:apk/alpine/fontforge-gui@20220308-r3?arch=ppc64le&distro=v3.17
 - pkg:apk/alpine/fontforge-gui@20220308-r3?arch=x86&distro=v3.17
 - pkg:apk/alpine/fontforge-gui@20220308-r3?arch=x86_64&distro=v3.17
+- pkg:apk/alpine/fontforge-gui@20230101-r3?arch=aarch64&distro=v3.18

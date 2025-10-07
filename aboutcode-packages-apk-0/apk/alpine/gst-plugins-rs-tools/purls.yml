@@ -19,3 +19,4 @@
 - pkg:apk/alpine/gst-plugins-rs-tools@0.13.6-r0?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/gst-plugins-rs-tools@0.13.6-r0?arch=loongarch64&distro=v3.22
 - pkg:apk/alpine/gst-plugins-rs-tools@0.13.6-r0?arch=ppc64le&distro=v3.22
+- pkg:apk/alpine/gst-plugins-rs-tools@0.13.6-r0?arch=riscv64&distro=v3.22

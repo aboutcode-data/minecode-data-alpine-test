@@ -103,3 +103,4 @@
 - pkg:apk/alpine/ldapvi-doc@1.7-r16?arch=armv7&distro=v3.21
 - pkg:apk/alpine/ldapvi-doc@1.7-r16?arch=loongarch64&distro=v3.21
 - pkg:apk/alpine/ldapvi-doc@1.7-r16?arch=ppc64le&distro=v3.21
+- pkg:apk/alpine/ldapvi-doc@1.7-r16?arch=riscv64&distro=v3.21

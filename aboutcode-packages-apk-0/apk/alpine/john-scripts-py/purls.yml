@@ -7,3 +7,4 @@
 - pkg:apk/alpine/john-scripts-py@1.8.0-r8?arch=x86_64&distro=v3.7
 - pkg:apk/alpine/john-scripts-py@1.8.0-r10?arch=armhf&distro=v3.8
 - pkg:apk/alpine/john-scripts-py@1.8.0-r10?arch=ppc64le&distro=v3.8
+- pkg:apk/alpine/john-scripts-py@1.8.0-r10?arch=x86_64&distro=v3.8

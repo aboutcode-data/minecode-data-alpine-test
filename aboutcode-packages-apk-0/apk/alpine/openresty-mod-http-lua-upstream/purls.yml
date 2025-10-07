@@ -14,3 +14,4 @@
 - pkg:apk/alpine/openresty-mod-http-lua-upstream@1.27.1.2-r0?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/openresty-mod-http-lua-upstream@1.21.4.3-r1?arch=aarch64&distro=v3.19
 - pkg:apk/alpine/openresty-mod-http-lua-upstream@1.21.4.3-r1?arch=armhf&distro=v3.19
+- pkg:apk/alpine/openresty-mod-http-lua-upstream@1.21.4.3-r1?arch=armv7&distro=v3.19

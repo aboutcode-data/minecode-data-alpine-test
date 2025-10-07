@@ -10,3 +10,4 @@
 - pkg:apk/alpine/openmp-bitcode@18.1.8-r2?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/openmp-bitcode@16.0.6-r0?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/openmp-bitcode@16.0.6-r0?arch=ppc64le&distro=v3.18
+- pkg:apk/alpine/openmp-bitcode@16.0.6-r0?arch=x86_64&distro=v3.18

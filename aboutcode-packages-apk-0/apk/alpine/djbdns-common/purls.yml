@@ -86,3 +86,4 @@
 - pkg:apk/alpine/djbdns-common@1.05-r51?arch=ppc64le&distro=v3.18
 - pkg:apk/alpine/djbdns-common@1.05-r51?arch=s390x&distro=v3.18
 - pkg:apk/alpine/djbdns-common@1.05-r51?arch=x86&distro=v3.18
+- pkg:apk/alpine/djbdns-common@1.05-r51?arch=x86_64&distro=v3.18

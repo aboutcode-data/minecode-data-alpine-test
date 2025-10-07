@@ -40,3 +40,4 @@
 - pkg:apk/alpine/newlib-arm-none-eabi@4.3.0.20230120-r0?arch=ppc64le&distro=v3.18
 - pkg:apk/alpine/newlib-arm-none-eabi@4.3.0.20230120-r0?arch=x86&distro=v3.18
 - pkg:apk/alpine/newlib-arm-none-eabi@4.3.0.20230120-r0?arch=x86_64&distro=v3.18
+- pkg:apk/alpine/newlib-arm-none-eabi@4.3.0.20230120-r3?arch=aarch64&distro=v3.19

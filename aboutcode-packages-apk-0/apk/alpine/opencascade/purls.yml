@@ -14,3 +14,4 @@
 - pkg:apk/alpine/opencascade@7.8.1-r3?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/opencascade@7.8.1-r3?arch=x86&distro=latest-stable
 - pkg:apk/alpine/opencascade@7.8.1-r3?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/opencascade@7.6.3-r3?arch=aarch64&distro=v3.19

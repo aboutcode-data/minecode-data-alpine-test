@@ -18,3 +18,4 @@
 - pkg:apk/alpine/nats-server@2.9.15-r2?arch=x86_64&distro=v3.17
 - pkg:apk/alpine/nats-server@2.9.24-r1?arch=aarch64&distro=v3.18
 - pkg:apk/alpine/nats-server@2.9.24-r1?arch=x86_64&distro=v3.18
+- pkg:apk/alpine/nats-server@2.10.7-r3?arch=aarch64&distro=v3.19

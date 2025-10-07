@@ -112,3 +112,4 @@
 - pkg:apk/alpine/rsyslog-mysql@8.2410.0-r1?arch=x86&distro=v3.22
 - pkg:apk/alpine/rsyslog-mysql@8.2410.0-r1?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/rsyslog-mysql@8.9.0-r2?arch=armhf&distro=v3.3
+- pkg:apk/alpine/rsyslog-mysql@8.9.0-r2?arch=x86&distro=v3.3

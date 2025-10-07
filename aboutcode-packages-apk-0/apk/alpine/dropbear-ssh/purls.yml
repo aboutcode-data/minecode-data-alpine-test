@@ -116,3 +116,4 @@
 - pkg:apk/alpine/dropbear-ssh@2025.88-r1?arch=x86&distro=v3.22
 - pkg:apk/alpine/dropbear-ssh@2025.88-r1?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/dropbear-ssh@2017.75-r0?arch=armhf&distro=v3.4
+- pkg:apk/alpine/dropbear-ssh@2017.75-r0?arch=x86&distro=v3.4

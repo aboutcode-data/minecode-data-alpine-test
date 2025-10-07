@@ -94,3 +94,4 @@
 - pkg:apk/alpine/shunit2-doc@2.1.8-r1?arch=armhf&distro=v3.22
 - pkg:apk/alpine/shunit2-doc@2.1.8-r1?arch=armv7&distro=v3.22
 - pkg:apk/alpine/shunit2-doc@2.1.8-r1?arch=loongarch64&distro=v3.22
+- pkg:apk/alpine/shunit2-doc@2.1.8-r1?arch=ppc64le&distro=v3.22

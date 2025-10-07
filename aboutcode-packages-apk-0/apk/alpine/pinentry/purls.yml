@@ -94,3 +94,4 @@
 - pkg:apk/alpine/pinentry@1.2.1-r1?arch=s390x&distro=v3.19
 - pkg:apk/alpine/pinentry@1.2.1-r1?arch=x86&distro=v3.19
 - pkg:apk/alpine/pinentry@1.2.1-r1?arch=x86_64&distro=v3.19
+- pkg:apk/alpine/pinentry@0.9.1-r0?arch=armhf&distro=v3.2

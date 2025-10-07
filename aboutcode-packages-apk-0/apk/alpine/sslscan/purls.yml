@@ -21,3 +21,4 @@
 - pkg:apk/alpine/sslscan@1.8.2-r1?arch=armhf&distro=v3.1
 - pkg:apk/alpine/sslscan@2.0.15-r1?arch=aarch64&distro=v3.17
 - pkg:apk/alpine/sslscan@2.0.15-r1?arch=armhf&distro=v3.17
+- pkg:apk/alpine/sslscan@2.0.15-r1?arch=armv7&distro=v3.17

@@ -125,3 +125,4 @@
 - pkg:apk/alpine/attica-dev@0.4.2-r0?arch=aarch64&distro=v3.8
 - pkg:apk/alpine/attica-dev@0.4.2-r0?arch=armhf&distro=v3.8
 - pkg:apk/alpine/attica-dev@0.4.2-r0?arch=ppc64le&distro=v3.8
+- pkg:apk/alpine/attica-dev@0.4.2-r0?arch=s390x&distro=v3.8

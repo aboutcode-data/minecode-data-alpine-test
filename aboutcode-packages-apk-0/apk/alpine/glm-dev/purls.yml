@@ -150,3 +150,4 @@
 - pkg:apk/alpine/glm-dev@0.9.8.5-r1?arch=x86_64&distro=v3.8
 - pkg:apk/alpine/glm-dev@0.9.9.3-r1?arch=aarch64&distro=v3.9
 - pkg:apk/alpine/glm-dev@0.9.9.3-r1?arch=armhf&distro=v3.9
+- pkg:apk/alpine/glm-dev@0.9.9.3-r1?arch=armv7&distro=v3.9

@@ -110,3 +110,4 @@
 - pkg:apk/alpine/bsd-compat-headers@0.7.2-r6?arch=x86&distro=v3.21
 - pkg:apk/alpine/bsd-compat-headers@0.7.2-r6?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/bsd-compat-headers@0.7.2-r6?arch=aarch64&distro=v3.22
+- pkg:apk/alpine/bsd-compat-headers@0.7.2-r6?arch=armhf&distro=v3.22

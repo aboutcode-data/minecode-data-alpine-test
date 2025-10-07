@@ -21,3 +21,4 @@
 - pkg:apk/alpine/doggo-fish-completion@1.0.5-r7?arch=ppc64le&distro=v3.22
 - pkg:apk/alpine/doggo-fish-completion@1.0.5-r7?arch=riscv64&distro=v3.22
 - pkg:apk/alpine/doggo-fish-completion@1.0.5-r7?arch=x86&distro=v3.22
+- pkg:apk/alpine/doggo-fish-completion@1.0.5-r7?arch=x86_64&distro=v3.22

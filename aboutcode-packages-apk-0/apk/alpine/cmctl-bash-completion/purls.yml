@@ -17,3 +17,4 @@
 - pkg:apk/alpine/cmctl-bash-completion@2.1.1-r7?arch=x86&distro=latest-stable
 - pkg:apk/alpine/cmctl-bash-completion@2.1.1-r7?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/cmctl-bash-completion@2.1.1-r5?arch=aarch64&distro=v3.21
+- pkg:apk/alpine/cmctl-bash-completion@2.1.1-r5?arch=armhf&distro=v3.21

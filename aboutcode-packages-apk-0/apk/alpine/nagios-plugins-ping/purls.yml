@@ -119,3 +119,4 @@
 - pkg:apk/alpine/nagios-plugins-ping@2.1.4-r2?arch=armhf&distro=v3.5
 - pkg:apk/alpine/nagios-plugins-ping@2.1.4-r2?arch=x86&distro=v3.5
 - pkg:apk/alpine/nagios-plugins-ping@2.1.4-r2?arch=x86_64&distro=v3.5
+- pkg:apk/alpine/nagios-plugins-ping@2.2.1-r0?arch=aarch64&distro=v3.6

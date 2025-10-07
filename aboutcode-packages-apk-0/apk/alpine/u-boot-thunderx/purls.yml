@@ -14,3 +14,4 @@
 - pkg:apk/alpine/u-boot-thunderx@2024.10-r7?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/u-boot-thunderx@2025.04-r4?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/u-boot-thunderx@2016.07-r2?arch=aarch64&distro=v3.5
+- pkg:apk/alpine/u-boot-thunderx@2017.01-r2?arch=aarch64&distro=v3.6

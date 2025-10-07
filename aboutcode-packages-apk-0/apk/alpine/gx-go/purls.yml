@@ -1,1 +1,2 @@
 - pkg:apk/alpine/gx-go@1.9.0-r35?arch=aarch64&distro=edge
+- pkg:apk/alpine/gx-go@1.9.0-r35?arch=armhf&distro=edge

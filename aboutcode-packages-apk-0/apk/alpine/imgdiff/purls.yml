@@ -1,1 +1,2 @@
 - pkg:apk/alpine/imgdiff@1.0.2-r29?arch=aarch64&distro=edge
+- pkg:apk/alpine/imgdiff@1.0.2-r29?arch=armhf&distro=edge

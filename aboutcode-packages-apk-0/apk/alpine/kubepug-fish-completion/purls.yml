@@ -1,1 +1,2 @@
 - pkg:apk/alpine/kubepug-fish-completion@1.7.1-r13?arch=aarch64&distro=edge
+- pkg:apk/alpine/kubepug-fish-completion@1.7.1-r13?arch=armhf&distro=edge

@@ -96,3 +96,4 @@
 - pkg:apk/alpine/dmenu-doc@4.5-r0?arch=x86&distro=v3.2
 - pkg:apk/alpine/dmenu-doc@4.5-r0?arch=x86_64&distro=v3.2
 - pkg:apk/alpine/dmenu-doc@5.3-r0?arch=aarch64&distro=v3.20
+- pkg:apk/alpine/dmenu-doc@5.3-r0?arch=armhf&distro=v3.20

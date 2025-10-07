@@ -40,3 +40,4 @@
 - pkg:apk/alpine/raspberrypi-bootloader-cutdown@1.20250210-r0?arch=aarch64&distro=v3.21
 - pkg:apk/alpine/raspberrypi-bootloader-cutdown@1.20250210-r0?arch=armhf&distro=v3.21
 - pkg:apk/alpine/raspberrypi-bootloader-cutdown@1.20250210-r0?arch=armv7&distro=v3.21
+- pkg:apk/alpine/raspberrypi-bootloader-cutdown@1.20250707-r0?arch=aarch64&distro=v3.22

@@ -14,3 +14,4 @@
 - pkg:apk/alpine/keynav-doc@0_git20180820-r1?arch=ppc64le&distro=latest-stable
 - pkg:apk/alpine/keynav-doc@0_git20180820-r1?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/keynav-doc@0_git20180820-r1?arch=s390x&distro=latest-stable
+- pkg:apk/alpine/keynav-doc@0_git20180820-r1?arch=x86&distro=latest-stable

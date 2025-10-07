@@ -62,3 +62,4 @@
 - pkg:apk/alpine/telepathy-ofono@0_git20210212-r11?arch=ppc64le&distro=v3.22
 - pkg:apk/alpine/telepathy-ofono@0_git20210212-r11?arch=riscv64&distro=v3.22
 - pkg:apk/alpine/telepathy-ofono@0_git20210212-r11?arch=x86&distro=v3.22
+- pkg:apk/alpine/telepathy-ofono@0_git20210212-r11?arch=x86_64&distro=v3.22

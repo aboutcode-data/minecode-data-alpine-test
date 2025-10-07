@@ -12,3 +12,4 @@
 - pkg:apk/alpine/pueue@3.4.1-r1?arch=riscv64&distro=latest-stable
 - pkg:apk/alpine/pueue@3.4.1-r1?arch=x86&distro=latest-stable
 - pkg:apk/alpine/pueue@3.4.1-r1?arch=x86_64&distro=latest-stable
+- pkg:apk/alpine/pueue@0.9.0-r0?arch=aarch64&distro=v3.13

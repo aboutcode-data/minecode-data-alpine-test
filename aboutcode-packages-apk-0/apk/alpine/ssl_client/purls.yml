@@ -73,3 +73,4 @@
 - pkg:apk/alpine/ssl_client@1.35.0-r31?arch=armv7&distro=v3.17
 - pkg:apk/alpine/ssl_client@1.35.0-r31?arch=ppc64le&distro=v3.17
 - pkg:apk/alpine/ssl_client@1.35.0-r31?arch=s390x&distro=v3.17
+- pkg:apk/alpine/ssl_client@1.35.0-r31?arch=x86&distro=v3.17

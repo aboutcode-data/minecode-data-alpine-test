@@ -10,3 +10,4 @@
 - pkg:apk/alpine/pcre2-doc@10.43-r1?arch=aarch64&distro=latest-stable
 - pkg:apk/alpine/pcre2-doc@10.43-r1?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/pcre2-doc@10.43-r1?arch=armv7&distro=latest-stable
+- pkg:apk/alpine/pcre2-doc@10.43-r1?arch=loongarch64&distro=latest-stable

@@ -23,3 +23,4 @@
 - pkg:apk/alpine/u-boot-beagleboard@2023.10-r8?arch=armhf&distro=v3.19
 - pkg:apk/alpine/u-boot-beagleboard@2023.10-r8?arch=armv7&distro=v3.19
 - pkg:apk/alpine/u-boot-beagleboard@2015.04-r1?arch=armhf&distro=v3.2
+- pkg:apk/alpine/u-boot-beagleboard@2024.04-r6?arch=armhf&distro=v3.20

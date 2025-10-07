@@ -11,3 +11,4 @@
 - pkg:apk/alpine/pilot-link-libs@0.12.5_git20240103-r1?arch=armhf&distro=latest-stable
 - pkg:apk/alpine/pilot-link-libs@0.12.5_git20240103-r1?arch=armv7&distro=latest-stable
 - pkg:apk/alpine/pilot-link-libs@0.12.5_git20240103-r1?arch=loongarch64&distro=latest-stable
+- pkg:apk/alpine/pilot-link-libs@0.12.5_git20240103-r1?arch=ppc64le&distro=latest-stable

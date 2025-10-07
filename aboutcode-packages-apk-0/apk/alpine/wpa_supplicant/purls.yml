@@ -97,3 +97,4 @@
 - pkg:apk/alpine/wpa_supplicant@2.4-r3?arch=armhf&distro=v3.2
 - pkg:apk/alpine/wpa_supplicant@2.4-r3?arch=x86&distro=v3.2
 - pkg:apk/alpine/wpa_supplicant@2.4-r3?arch=x86_64&distro=v3.2
+- pkg:apk/alpine/wpa_supplicant@2.10-r11?arch=aarch64&distro=v3.20

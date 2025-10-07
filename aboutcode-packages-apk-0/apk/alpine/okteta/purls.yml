@@ -76,3 +76,4 @@
 - pkg:apk/alpine/okteta@0.26.18-r0?arch=x86_64&distro=v3.21
 - pkg:apk/alpine/okteta@0.26.21-r0?arch=aarch64&distro=v3.22
 - pkg:apk/alpine/okteta@0.26.21-r0?arch=armv7&distro=v3.22
+- pkg:apk/alpine/okteta@0.26.21-r0?arch=loongarch64&distro=v3.22

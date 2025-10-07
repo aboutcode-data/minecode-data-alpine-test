@@ -7,3 +7,4 @@
 - pkg:apk/alpine/harsh@0.8.31-r13?arch=s390x&distro=edge
 - pkg:apk/alpine/harsh@0.8.31-r13?arch=x86&distro=edge
 - pkg:apk/alpine/harsh@0.8.31-r13?arch=x86_64&distro=edge
+- pkg:apk/alpine/harsh@0.8.31-r12?arch=aarch64&distro=latest-stable

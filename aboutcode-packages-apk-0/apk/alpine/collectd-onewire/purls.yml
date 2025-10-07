@@ -35,3 +35,4 @@
 - pkg:apk/alpine/collectd-onewire@5.12.0-r18?arch=armv7&distro=v3.19
 - pkg:apk/alpine/collectd-onewire@5.12.0-r18?arch=ppc64le&distro=v3.19
 - pkg:apk/alpine/collectd-onewire@5.12.0-r18?arch=s390x&distro=v3.19
+- pkg:apk/alpine/collectd-onewire@5.12.0-r18?arch=x86&distro=v3.19

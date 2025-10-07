@@ -13,3 +13,4 @@
 - pkg:apk/alpine/kodi-doc@21.2-r6?arch=x86&distro=latest-stable
 - pkg:apk/alpine/kodi-doc@21.2-r6?arch=x86_64&distro=latest-stable
 - pkg:apk/alpine/kodi-doc@17.6-r11?arch=x86&distro=v3.10
+- pkg:apk/alpine/kodi-doc@17.6-r11?arch=x86_64&distro=v3.10

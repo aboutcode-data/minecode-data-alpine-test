@@ -1,0 +1,1 @@
+- pkg:apk/alpine/cni-plugin-flannel@1.1.2-r20?arch=aarch64&distro=edge

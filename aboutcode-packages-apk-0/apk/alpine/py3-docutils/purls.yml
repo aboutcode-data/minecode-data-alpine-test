@@ -116,3 +116,4 @@
 - pkg:apk/alpine/py3-docutils@0.21.2-r0?arch=x86&distro=v3.22
 - pkg:apk/alpine/py3-docutils@0.21.2-r0?arch=x86_64&distro=v3.22
 - pkg:apk/alpine/py3-docutils@0.12-r3?arch=aarch64&distro=v3.5
+- pkg:apk/alpine/py3-docutils@0.12-r3?arch=armhf&distro=v3.5

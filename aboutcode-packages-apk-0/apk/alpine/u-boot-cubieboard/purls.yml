@@ -13,3 +13,4 @@
 - pkg:apk/alpine/u-boot-cubieboard@2015.04-r1?arch=armhf&distro=v3.2
 - pkg:apk/alpine/u-boot-cubieboard@2015.04-r1?arch=armhf&distro=v3.3
 - pkg:apk/alpine/u-boot-cubieboard@2015.04-r1?arch=armhf&distro=v3.4
+- pkg:apk/alpine/u-boot-cubieboard@2016.07-r2?arch=armhf&distro=v3.5

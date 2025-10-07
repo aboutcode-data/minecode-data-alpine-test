@@ -130,3 +130,4 @@
 - pkg:apk/alpine/vim-doc@7.4.1831-r3?arch=x86&distro=v3.4
 - pkg:apk/alpine/vim-doc@7.4.1831-r3?arch=x86_64&distro=v3.4
 - pkg:apk/alpine/vim-doc@8.0.0329-r0?arch=aarch64&distro=v3.5
+- pkg:apk/alpine/vim-doc@8.0.0329-r0?arch=armhf&distro=v3.5
